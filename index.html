@@ -1,10 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-    <title>Привет, мир!</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дашборд пассажиропотока Москвы</title>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
 </head>
 <body>
-<h1>Привет, мир!</h1>
-<p>Это мой первый сайт на GitHub Pages.</p>
+<h1>Годовой пассажиропоток в Москве</h1>
+<div id="container"></div>
+
+<!-- Подключение скрипта -->
+<script src="charts/Godovoypassazhiropotok.js"></script>
 </body>
 </html>
