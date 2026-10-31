@@ -14,8 +14,10 @@ def attack_matrix(players):
                     continue
                 cells[th].append(stars);levels.add(th)
         groups[index]=cells
-    levels.update(p['town_hall'] for p in players if isinstance(p.get('town_hall'),int) and p['town_hall']>0)
-    levels=sorted(levels)
+    own_levels=[p['town_hall'] for p in players if isinstance(p.get('town_hall'),int) and p['town_hall']>0]
+    levels.update(own_levels)
+    minimum=min(own_levels) if own_levels else min(levels,default=1)
+    levels=list(range(minimum,max(levels)+1)) if levels else []
     colors=[(120,25,48),(230,75,75),(235,194,55),(65,185,110)]
     rows=[]
     for number,player in enumerate(players,1):
