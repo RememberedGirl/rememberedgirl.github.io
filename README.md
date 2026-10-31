@@ -68,3 +68,18 @@ python3 -m venv .venv
 .venv/bin/python manage.py test
 .venv/bin/python manage.py export_site
 ```
+
+## Отдельная страница Masters of War
+
+https://rememberedgirl.github.io/2PQQ2RJ0R/ — клан `#2PQQ2RJ0R`, собственный баннер и оформление, актуальный состав с поиском и сортировкой по ТХ и рейтинговой лиге. Снимок хранится отдельно: `data/clans/2PQQ2RJ0R.json`. Главная SQLite не изменяется.
+
+Обновить снимок из каталога сайта с использованием окружения существующего сборщика:
+
+```sh
+../.venv/bin/python import_clan.py --source .. --tag '#2PQQ2RJ0R'
+git add data/clans/2PQQ2RJ0R.json
+git commit -m "Refresh Masters of War roster"
+git push
+```
+
+Для самостоятельного запуска импортёра нужны `requests` и `python-dotenv`; они уже есть в окружении сборщика. GitHub Actions не обращается к CoC API и не требует API-токен.

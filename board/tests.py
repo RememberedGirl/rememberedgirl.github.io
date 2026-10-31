@@ -66,3 +66,23 @@ class PublicSiteTests(SimpleTestCase):
                 self.assertTrue((root/'public/assets/board/site.js').is_file())
                 self.assertFalse(list((root/'public').rglob('*.db')))
                 self.assertFalse(list((root/'public').rglob('*.json')))
+
+    def test_other_clan_has_independent_sorted_roster(self):
+        from board.views import other_clan_context
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root/'data/clans').mkdir(parents=True)
+            (root/'board/static/board').mkdir(parents=True)
+            (root/'board/static/board/masters.css').write_text('body{}')
+            players = [dict(name='Low', town_hall=8, league=20, role='member'), dict(name='<script>bad</script>', town_hall=13, league=2, role='leader'), dict(name='High', town_hall=13, league=3, role='member')]
+            payload = dict(name='Masters of War', tag='#2PQQ2RJ0R', level=8, description='', war_league='Gold League II', generated='today', players=players)
+            (root/'data/clans/2PQQ2RJ0R.json').write_text(json.dumps(payload))
+            with override_settings(BASE_DIR=root):
+                ctx = other_clan_context()
+                roster = sum(ctx['roster_columns'], [])
+                self.assertEqual([p['name'] for p in roster], ['High','<script>bad</script>','Low'])
+                self.assertEqual([p['number'] for p in roster], [1,2,3])
+                self.assertEqual(ctx['composition'],[dict(th=13,count=2),dict(th=8,count=1)])
+                response = self.client.get('/2PQQ2RJ0R/')
+                self.assertEqual(response.status_code,200)
+                self.assertContains(response,'&lt;script&gt;bad&lt;/script&gt;')

@@ -41,3 +41,22 @@ def player(request, slug, design='classic'):
         raise Http404('Игрок не найден')
     template = 'board/berserk/player.html' if design == 'berserk' else 'board/player.html'
     return render(request, template, dict(context(data, '../../', design), player=record))
+
+
+def other_clan_context():
+    from collections import Counter
+    path = settings.BASE_DIR / 'data/clans/2PQQ2RJ0R.json'
+    if not path.is_file():
+        raise Http404('Состав клана ещё не загружен')
+    clan = json.loads(path.read_text())
+    players = sorted(clan['players'], key=lambda p: (-(p['town_hall'] or 0), -(p['league'] or 0), p['name'].casefold()))
+    for number, player in enumerate(players, 1):
+        player['number'] = number
+    counts = Counter(p['town_hall'] for p in players if p['town_hall'])
+    split = (len(players)+1)//2
+    style = settings.BASE_DIR / 'board/static/board/masters.css'
+    return dict(clan=clan, roster_columns=[players[:split], players[split:]], composition=[dict(th=th,count=counts[th]) for th in sorted(counts,reverse=True)], top_th=max(counts,default=0), version=hashlib.sha256(style.read_bytes()).hexdigest()[:12])
+
+
+def other_clan(request):
+    return render(request, 'board/other_clan.html', other_clan_context())

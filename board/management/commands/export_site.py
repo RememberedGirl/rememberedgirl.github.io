@@ -4,7 +4,7 @@ import tempfile
 from django.conf import settings
 from django.core.management.base import BaseCommand, CommandError
 from django.template.loader import render_to_string
-from board.views import load_data, context, home_context
+from board.views import load_data, context, home_context, other_clan_context
 
 
 class Command(BaseCommand):
@@ -34,6 +34,10 @@ class Command(BaseCommand):
                     folder = destination / 'players' / player['slug']
                     folder.mkdir(parents=True)
                     (folder / 'index.html').write_text(render_to_string(templates+'/player.html', dict(context(data, '../../', design), player=player)))
+            if (settings.BASE_DIR / 'data/clans/2PQQ2RJ0R.json').is_file():
+                clan_folder = stage / '2PQQ2RJ0R'
+                clan_folder.mkdir()
+                (clan_folder/'index.html').write_text(render_to_string('board/other_clan.html', other_clan_context()))
             shutil.copytree(settings.BASE_DIR / 'board/static/board', stage / 'assets/board')
             (stage / '.nojekyll').touch()
             (stage / marker).touch()
