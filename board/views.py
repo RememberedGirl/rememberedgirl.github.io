@@ -16,6 +16,7 @@ def context(data, root='', design='classic'):
     styles = css.read_bytes()
     if design == 'masters':
         styles += (settings.BASE_DIR/'board/static/board/masters.css').read_bytes()
+    styles += (settings.BASE_DIR/'board/static/board/site.js').read_bytes()
     version = hashlib.sha256(styles).hexdigest()[:12]
     return dict(site=data, root=root, asset_root=root+('../' if design in ('berserk','masters') else ''), asset_version=version)
 
