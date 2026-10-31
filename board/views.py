@@ -64,7 +64,7 @@ def other_clan_context():
     counts = Counter(p['town_hall'] for p in players if p['town_hall'])
     split = (len(players)+1)//2
     style = settings.BASE_DIR / 'board/static/board/masters.css'
-    return dict(clan=clan, history=history, roster_columns=[players[:split], players[split:]], composition=[dict(th=th,count=counts[th]) for th in sorted(counts,reverse=True)], top_th=max(counts,default=0), version=hashlib.sha256(style.read_bytes()).hexdigest()[:12])
+    return dict(clan=clan, history=history, roster_columns=[players[:split], players[split:]], composition=[dict(th=th,count=counts[th]) for th in sorted(counts,reverse=True)], top_th=max(counts,default=0), version=hashlib.sha256(style.read_bytes()+(settings.BASE_DIR/'board/static/board/site.css').read_bytes()+(settings.BASE_DIR/'board/static/board/site.js').read_bytes()).hexdigest()[:12])
 
 
 def other_clan(request):

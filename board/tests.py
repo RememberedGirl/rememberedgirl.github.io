@@ -74,6 +74,8 @@ class PublicSiteTests(SimpleTestCase):
             (root/'data/clans').mkdir(parents=True)
             (root/'board/static/board').mkdir(parents=True)
             (root/'board/static/board/masters.css').write_text('body{}')
+            (root/'board/static/board/site.css').write_text('body{}')
+            (root/'board/static/board/site.js').write_text('')
             players = [dict(name='Low', town_hall=8, league=20, role='member'), dict(name='<script>bad</script>', town_hall=13, league=2, role='leader'), dict(name='High', town_hall=13, league=3, role='member')]
             payload = dict(name='Masters of War', tag='#2PQQ2RJ0R', level=8, description='', war_league='Gold League II', generated='today', players=players)
             (root/'data/clans/2PQQ2RJ0R.json').write_text(json.dumps(payload))

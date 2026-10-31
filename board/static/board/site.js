@@ -9,6 +9,7 @@ search?.addEventListener('input', () => {
     if (!card.hidden) matches.push(card);
   }
   document.getElementById('no-players').hidden = matches.length > 0;
+  filterAttackMatrices();
   const results = document.getElementById('player-search-results');
   if (!results) return;
   results.replaceChildren();
@@ -28,3 +29,18 @@ search?.addEventListener('input', () => {
   }
   if (!matches.length) results.textContent = 'Игрок с таким ником не найден.';
 });
+
+function filterAttackMatrices() {
+  const globalQuery=(search?.value||'').trim().toLocaleLowerCase('ru');
+  for(const matrix of document.querySelectorAll('[data-attack-matrix]')) {
+    const query=(matrix.querySelector('[data-matrix-search]')?.value||'').trim().toLocaleLowerCase('ru');
+    let visible=0;
+    for(const row of matrix.querySelectorAll('[data-matrix-name]')) {
+      const name=row.dataset.matrixName.toLocaleLowerCase('ru');
+      row.hidden=!name.includes(query)||!name.includes(globalQuery);
+      if(!row.hidden) visible++;
+    }
+    const empty=matrix.querySelector('[data-matrix-empty]');if(empty) empty.hidden=visible>0;
+  }
+}
+for(const input of document.querySelectorAll('[data-matrix-search]')) input.addEventListener('input',filterAttackMatrices);
