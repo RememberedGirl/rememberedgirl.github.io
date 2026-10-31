@@ -1,10 +1,25 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "31.10.2026, 18:00 МСК",
+  "generated": "31.10.2026, 19:02 МСК",
   "season": "2026-10",
   "players": [
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "537a59b695df5904",
       "name": "Mr_Diyorbek",
       "active": false,
@@ -134,6 +149,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "coLeader",
       "slug": "791ae0faa27095cb",
       "name": "Alpha",
       "active": false,
@@ -263,6 +293,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "coLeader",
       "slug": "bbe10888e4fe9ddc",
       "name": "El Diablo",
       "active": false,
@@ -375,6 +420,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "7536774daf28055d",
       "name": "ⓟⒶⓟⒶ",
       "active": false,
@@ -487,6 +547,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "d45d91f79b7a67ea",
       "name": "'VENOM\"МаКс\"⚡",
       "active": false,
@@ -599,6 +674,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "6af45323d1dc3fc3",
       "name": "malte_1114",
       "active": false,
@@ -711,6 +801,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "4b207ad83f4546dd",
       "name": "A.r",
       "active": false,
@@ -823,6 +928,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 4109,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 4109,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 4109,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 680,
+        "with_potions": 1174,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,252,253)"
+      },
+      "role": "coLeader",
       "slug": "3edaaf5f554931cd",
       "name": "Иж волк",
       "active": true,
@@ -1080,6 +1227,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 600,
+        "total": 600,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 600
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 6111,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 6111,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 6111,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 820,
+        "with_potions": 902,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
       "slug": "a5365d1b32979a77",
       "name": "жаник",
       "active": true,
@@ -1354,6 +1543,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "21e478e9c9b05c9b",
       "name": "blugberies",
       "active": false,
@@ -1473,6 +1677,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "3b936064dc0bd62a",
       "name": "Ataska",
       "active": false,
@@ -1558,6 +1777,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "b981039ea6c4ff8e",
       "name": "stormwwp2",
       "active": false,
@@ -1614,6 +1848,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "5e5f8bf5a7ceb90d",
       "name": "ABUBUS0001",
       "active": false,
@@ -1675,6 +1924,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "189ca5fa1681a7f4",
       "name": "Saavemks",
       "active": false,
@@ -1765,6 +2029,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "1b329c502e641231",
       "name": "spektr",
       "active": false,
@@ -1806,6 +2085,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 500,
+        "total": 500,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 500
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 5445,
+        "total_attacks": 5,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 5,
+          "loot": 5445,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 5,
+            "loot": 5445,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 962,
+        "with_potions": 1804,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,210,228)"
+      },
+      "role": "member",
       "slug": "395f4d1c89ad4226",
       "name": "dpo3d",
       "active": true,
@@ -2037,6 +2358,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 10200,
+        "total": 10200,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 10200
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 624,
+        "with_potions": 1368,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,239,245)"
+      },
+      "role": "member",
       "slug": "9ad7e8dd4487f5a6",
       "name": "one sixth",
       "active": true,
@@ -2330,6 +2677,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 10100,
+        "total": 10100,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 10100
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 4485,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 4485,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 4485,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 458,
+        "with_potions": 898,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
       "slug": "1ed684dc47a707f6",
       "name": "petryha",
       "active": true,
@@ -2603,6 +2992,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 150,
+        "total": 150,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 150
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "9cfb05b5453c385b",
       "name": "ахмат ммм",
       "active": false,
@@ -2783,6 +3192,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "a6cffafba38b7d56",
       "name": "vlad",
       "active": false,
@@ -3036,6 +3465,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 3930,
+        "total_attacks": 5,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 5,
+          "loot": 3930,
+          "allowed": 5
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 5,
+            "loot": 3930,
+            "allowed": 5
+          }
+        ]
+      },
+      "army": {
+        "weight": 470,
+        "with_potions": 918,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
       "slug": "483f49b2f56e26c2",
       "name": "маугли",
       "active": true,
@@ -3329,6 +3800,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "3009f3a2f76c362e",
       "name": "'VENOM\"МаКс\"⚡",
       "active": false,
@@ -3441,6 +3927,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "f40a53dbc98243d3",
       "name": "Marik",
       "active": false,
@@ -3553,6 +4054,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 2400,
+        "total": 2400,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 2400
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 4549,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 4549,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 4549,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 342,
+        "with_potions": 500,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
       "slug": "bef04425a5a7d88e",
       "name": "kiotaka",
       "active": true,
@@ -3812,6 +4355,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "5caaf15b619cd8dd",
       "name": "miron010",
       "active": false,
@@ -3858,6 +4416,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 1030,
+        "total_attacks": 1,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 1,
+          "loot": 1030,
+          "allowed": 5
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 1,
+            "loot": 1030,
+            "allowed": 5
+          }
+        ]
+      },
+      "army": {
+        "weight": 536,
+        "with_potions": 774,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
       "slug": "79d93f45fdb8cd17",
       "name": "Айбек",
       "active": true,
@@ -4151,6 +4751,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 1950,
+        "total": 1950,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 1950
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 2864,
+        "with_potions": 3506,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,140,185)",
+        "potion_color": "rgb(255,97,159)"
+      },
+      "role": "coLeader",
       "slug": "4f1725c3b0727bbb",
       "name": "Аккерман",
       "active": true,
@@ -4410,6 +5036,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "f09520b31c223b7e",
       "name": "Viking",
       "active": false,
@@ -4548,6 +5194,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "88eafed93831152b",
       "name": "Miliik",
       "active": false,
@@ -4723,6 +5389,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "4567d56448e0a6f5",
       "name": "SEVER",
       "active": false,
@@ -4868,6 +5554,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "8646a34541373ca9",
       "name": "Коля",
       "active": false,
@@ -4964,6 +5670,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "e83bf8c533b2eafe",
       "name": "ШАВКАТБЕК1983",
       "active": false,
@@ -5010,6 +5731,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "4388f489f1bfab6c",
       "name": "iman",
       "active": false,
@@ -5163,6 +5904,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "deb8c901f17c07ec",
       "name": "али007",
       "active": false,
@@ -5204,6 +5960,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 6000,
+        "total": 6000,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 6000
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 482,
+        "with_potions": 644,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "coLeader",
       "slug": "31d6ab8988997d36",
       "name": "hark 3",
       "active": true,
@@ -5373,6 +6155,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 600,
+        "total": 600,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 600
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 482,
+        "with_potions": 766,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
       "slug": "e2dbba17319c47af",
       "name": "Максим",
       "active": true,
@@ -5666,6 +6474,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "1603bbe6ce7c2659",
       "name": "ttmetsuki",
       "active": false,
@@ -5773,6 +6596,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "45a210fa828c1de6",
       "name": "Doxa",
       "active": false,
@@ -5878,6 +6721,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "6d812ed61245a96b",
       "name": "Rapt0rwp1",
       "active": false,
@@ -5924,6 +6782,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "f17e1a660fc97d7d",
       "name": "北亿",
       "active": false,
@@ -5965,6 +6838,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 2950,
+        "total": 2950,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 2950
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 6739,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 6739,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 6739,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 430,
+        "with_potions": 500,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
       "slug": "aba65ef366993d0b",
       "name": "Кукла Колдуна",
       "active": true,
@@ -6258,6 +7173,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "afc90d29c564e819",
       "name": "borponer",
       "active": false,
@@ -6363,6 +7298,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "5265b40859452f7e",
       "name": "Gazda",
       "active": false,
@@ -6497,6 +7452,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 10000,
+        "total": 10000,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 10000
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 694,
+        "with_potions": 1494,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,231,240)"
+      },
+      "role": "admin",
       "slug": "c156c13de2b04a12",
       "name": "scr",
       "active": true,
@@ -6773,6 +7754,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "05bbfc817893b626",
       "name": "toltaev17",
       "active": false,
@@ -6814,6 +7810,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1908,
+        "with_potions": 3136,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,203,224)",
+        "potion_color": "rgb(255,122,174)"
+      },
+      "role": "admin",
       "slug": "982fa8031f8f8bbe",
       "name": "Макс",
       "active": true,
@@ -6986,6 +8008,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 6848,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 6848,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 6848,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 378,
+        "with_potions": 460,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
       "slug": "990bb855d0e1e922",
       "name": "BOSIk777",
       "active": true,
@@ -7237,6 +8301,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "1a9745bff15b201e",
       "name": "Илёсжон",
       "active": false,
@@ -7328,6 +8412,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "70a2504f69c68c03",
       "name": "\"Destisider\"",
       "active": false,
@@ -7453,6 +8557,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "73870ee28f658d17",
       "name": "Dastan",
       "active": false,
@@ -7499,6 +8618,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "8208aea94deb0e73",
       "name": "да",
       "active": false,
@@ -7565,6 +8699,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 6400,
+        "total": 6400,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 6400
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 2505,
+        "with_potions": 2987,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,164,200)",
+        "potion_color": "rgb(255,132,180)"
+      },
+      "role": "member",
       "slug": "9d4e9045d903e060",
       "name": "Legenda",
       "active": true,
@@ -7788,6 +8948,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "9e977e3db0588043",
       "name": "Фаррух",
       "active": false,
@@ -7834,6 +9009,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "a2a642c359ebbe74",
       "name": "_AHA_09_",
       "active": false,
@@ -7895,6 +9085,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 4050,
+        "total": 4050,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 4050
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1136,
+        "with_potions": 1728,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,215,231)"
+      },
+      "role": "member",
       "slug": "ffb673e954675e9c",
       "name": "amanChikk19",
       "active": true,
@@ -8096,6 +9312,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 5375,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 5375,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 5375,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1374,
+        "with_potions": 1758,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,239,245)",
+        "potion_color": "rgb(255,213,230)"
+      },
+      "role": "admin",
       "slug": "f136ee09b9667981",
       "name": "kakosik",
       "active": true,
@@ -8331,6 +9589,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 10000,
+        "total": 10000,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 10000
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 6439,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 6439,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 6439,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1916,
+        "with_potions": 2334,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,203,223)",
+        "potion_color": "rgb(255,175,206)"
+      },
+      "role": "coLeader",
       "slug": "7335982bf5f2bdd9",
       "name": "А.Константин",
       "active": true,
@@ -8513,6 +9813,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "ecb1f7da28a53944",
       "name": "ALIJON",
       "active": false,
@@ -8662,6 +9982,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 7800,
+        "total": 7800,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 7800
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1818,
+        "with_potions": 2206,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,209,227)",
+        "potion_color": "rgb(255,184,212)"
+      },
+      "role": "admin",
       "slug": "8da1c9bafae82aeb",
       "name": "про100",
       "active": true,
@@ -8861,6 +10207,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "f381dc47ca9fd7d5",
       "name": "100b",
       "active": false,
@@ -8989,6 +10355,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "491eab5e97ff77cd",
       "name": "jmzz",
       "active": false,
@@ -9030,6 +10411,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "4168618f2a4b2c92",
       "name": "НУРБЕК",
       "active": false,
@@ -9125,6 +10526,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "07a679069eecc468",
       "name": "67",
       "active": false,
@@ -9191,6 +10612,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1392,
+        "with_potions": 1850,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,238,245)",
+        "potion_color": "rgb(255,207,226)"
+      },
+      "role": "admin",
       "slug": "717c86a2413f26ff",
       "name": "Комол",
       "active": true,
@@ -9344,6 +10791,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "7841db5e6c37de3c",
       "name": "ilyosbek",
       "active": false,
@@ -9444,6 +10911,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 5078,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 5078,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 5078,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1196,
+        "with_potions": 1306,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,251,252)",
+        "potion_color": "rgb(255,243,248)"
+      },
+      "role": "admin",
       "slug": "334d825055bac9bf",
       "name": "ANDROMEDA",
       "active": true,
@@ -9589,6 +11098,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "a44ebaa7212eb71f",
       "name": "Jahongir",
       "active": false,
@@ -9635,6 +11164,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "2c815d508860f3b3",
       "name": "beka97",
       "active": false,
@@ -9728,6 +11277,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "3e57746d055d7716",
       "name": "abror",
       "active": false,
@@ -9774,6 +11343,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 4363,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 4363,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 4363,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 828,
+        "with_potions": 1226,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,249,251)"
+      },
+      "role": "admin",
       "slug": "cdac7f73fdb0f782",
       "name": "Rejep",
       "active": true,
@@ -9814,11 +11425,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 6,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 9,
+              "target_th": 9,
+              "target_name": "huraira",
+              "contribution": 2
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 9,
+              "target_th": 9,
+              "target_name": "HomeTown",
+              "contribution": 1
+            }
+          ]
         },
         {
           "kind": "CW",
@@ -9927,6 +11555,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "8002dc6bce7e9228",
       "name": "KING",
       "active": false,
@@ -10003,6 +11651,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "5ea7e085e42f047f",
       "name": "Fullmetal Alchy",
       "active": false,
@@ -10049,6 +11717,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "10f8afbfc67b2b20",
       "name": "SEKIRO",
       "active": false,
@@ -10090,6 +11778,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "4cfbd9cc4bcc17bc",
       "name": "davig",
       "active": false,
@@ -10131,6 +11834,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "9943eee07a7ab40e",
       "name": "jhgfjhgdj",
       "active": false,
@@ -10202,6 +11925,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "487d2e4936bafe89",
       "name": "MALYSH",
       "active": false,
@@ -10304,6 +12047,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "946fcced67dba56e",
       "name": "feanzox",
       "active": false,
@@ -10365,6 +12128,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "78ddbd8e2d861625",
       "name": "baesst",
       "active": false,
@@ -10436,6 +12219,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "2248e4ced2fd5d73",
       "name": "quuu131",
       "active": false,
@@ -10482,6 +12285,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "cde787c38321f643",
       "name": "Sukhrob",
       "active": false,
@@ -10596,6 +12419,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "0471b0a28abc0b12",
       "name": "Kronus",
       "active": false,
@@ -10708,6 +12551,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 1050,
+        "total": 1050,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 1050
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 2714,
+        "with_potions": 4170,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,150,191)",
+        "potion_color": "rgb(255,53,132)"
+      },
+      "role": "admin",
       "slug": "2518927023cf74c9",
       "name": "ulan",
       "active": true,
@@ -10748,11 +12617,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 6,
+          "clan_stars": 6,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 15,
+              "target_name": "earthquake",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 13,
+              "target_name": "sahnawaz don",
+              "contribution": 3
+            }
+          ]
         },
         {
           "kind": "CW",
@@ -10856,6 +12742,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "c1db8a468ddb6ad8",
       "name": "санечка",
       "active": false,
@@ -10902,6 +12808,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "046b2539f4756294",
       "name": "Зеленоглазый:)",
       "active": false,
@@ -10980,6 +12906,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "0172546c90c3440a",
       "name": "Captain",
       "active": false,
@@ -11021,6 +12962,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1267,
+        "with_potions": 5671,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,246,250)",
+        "potion_color": "rgb(210,22,149)"
+      },
+      "role": "coLeader",
       "slug": "321d2f86b80bbb59",
       "name": "RR",
       "active": true,
@@ -11087,6 +13054,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "e99306287eb99310",
       "name": "qeytn m",
       "active": false,
@@ -11128,6 +13110,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "73abdda31b7ada07",
       "name": "Labazanov",
       "active": false,
@@ -11179,6 +13181,42 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 3840,
+        "total_attacks": 5,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 5,
+          "loot": 3840,
+          "allowed": 5
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 5,
+            "loot": 3840,
+            "allowed": 5
+          }
+        ]
+      },
+      "army": null,
+      "role": "admin",
       "slug": "4adcd5acc6e7b329",
       "name": "ромак",
       "active": false,
@@ -11255,6 +13293,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3108,
+        "with_potions": 3782,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,124,175)",
+        "potion_color": "rgb(255,79,148)"
+      },
+      "role": "admin",
       "slug": "191224dec79edfc6",
       "name": "MaxonGang",
       "active": true,
@@ -11362,6 +13426,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "62d29a4f255d18ea",
       "name": "ЗлЮкА",
       "active": false,
@@ -11403,6 +13487,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "907424ab64f43713",
       "name": "Habib",
       "active": false,
@@ -11479,6 +13583,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1260,
+        "with_potions": 2158,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,246,250)",
+        "potion_color": "rgb(255,187,214)"
+      },
+      "role": "admin",
       "slug": "026fe8254827411b",
       "name": "Nemo_Montage",
       "active": true,
@@ -11569,6 +13699,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "04fa9107b62e8657",
       "name": "NURIDDIN",
       "active": false,
@@ -11630,6 +13780,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 1100,
+        "total": 1100,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 1100
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 8106,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 8106,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 8106,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 2934,
+        "with_potions": 3590,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,135,182)",
+        "potion_color": "rgb(255,92,156)"
+      },
+      "role": "admin",
       "slug": "edfe8978dbe89e39",
       "name": "X2",
       "active": true,
@@ -11706,6 +13898,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 150,
+        "total": 150,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 150
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "2e2662c5b24926ac",
       "name": "OPER2107",
       "active": false,
@@ -11777,6 +13989,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "admin",
       "slug": "9c89deed8951b689",
       "name": "Jakkaro",
       "active": false,
@@ -11838,6 +14070,26 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "coLeader",
       "slug": "6b6f62d67e1e2e2b",
       "name": "SkOrPiOn",
       "active": false,
@@ -11879,6 +14131,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1047,
+        "with_potions": 2712,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,150,191)"
+      },
+      "role": "leader",
       "slug": "611789a02b5f66eb",
       "name": "inst:quuu131",
       "active": true,
@@ -11954,6 +14232,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1088,
+        "with_potions": 1812,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,210,228)"
+      },
+      "role": "coLeader",
       "slug": "349fe1fa1adde91c",
       "name": "чилен",
       "active": true,
@@ -12037,6 +14341,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1166,
+        "with_potions": 1722,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,253,254)",
+        "potion_color": "rgb(255,216,231)"
+      },
+      "role": "member",
       "slug": "6e847b6632947bd0",
       "name": "GigaJarry",
       "active": true,
@@ -12108,6 +14438,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 5160,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 5160,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 5160,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1796,
+        "with_potions": 2196,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,211,228)",
+        "potion_color": "rgb(255,184,212)"
+      },
+      "role": "member",
       "slug": "45f76f53ef5b4bbf",
       "name": "Lestedul",
       "active": true,
@@ -12210,6 +14582,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 913,
+        "total_attacks": 1,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 1,
+          "loot": 913,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 1,
+            "loot": 913,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 2831,
+        "with_potions": 4176,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,142,186)",
+        "potion_color": "rgb(255,53,132)"
+      },
+      "role": "admin",
       "slug": "2f012d79245115ff",
       "name": "Adoven",
       "active": true,
@@ -12290,6 +14704,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1154,
+        "with_potions": 2724,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,254,254)",
+        "potion_color": "rgb(255,149,191)"
+      },
+      "role": "coLeader",
       "slug": "676a8ead68afb8b9",
       "name": "K1rZa",
       "active": true,
@@ -12356,6 +14796,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 7652,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 7652,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 7652,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3276,
+        "with_potions": 3640,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,112,168)",
+        "potion_color": "rgb(255,88,154)"
+      },
+      "role": "admin",
       "slug": "ba5b0c1d82e194f8",
       "name": "семён",
       "active": true,
@@ -12427,6 +14909,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 6109,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 6109,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 6109,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1588,
+        "with_potions": 1774,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,225,237)",
+        "potion_color": "rgb(255,212,229)"
+      },
+      "role": "admin",
       "slug": "2271252f578d3936",
       "name": "пенсионер",
       "active": true,
@@ -12473,6 +14997,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 2630,
+        "with_potions": 2897,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,155,195)",
+        "potion_color": "rgb(255,138,184)"
+      },
+      "role": "admin",
       "slug": "758641faec5a6956",
       "name": "wonderpets",
       "active": true,
@@ -12529,6 +15079,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1648,
+        "with_potions": 1822,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,221,234)",
+        "potion_color": "rgb(255,209,227)"
+      },
+      "role": "member",
       "slug": "5cba60e96ead2845",
       "name": "Рустик",
       "active": true,
@@ -12612,6 +15188,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1840,
+        "with_potions": 1860,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,208,226)",
+        "potion_color": "rgb(255,207,226)"
+      },
+      "role": "member",
       "slug": "208627129c1b3e09",
       "name": "Ruslan",
       "active": true,
@@ -12695,6 +15297,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 7953,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 7953,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 7953,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1548,
+        "with_potions": 1882,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,227,238)",
+        "potion_color": "rgb(255,205,225)"
+      },
+      "role": "member",
       "slug": "fd2b4c2c438460cb",
       "name": "непобедимый",
       "active": true,
@@ -12761,6 +15405,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1084,
+        "with_potions": 1276,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,245,249)"
+      },
+      "role": "member",
       "slug": "778eba7ac3f55b96",
       "name": "Cent",
       "active": true,
@@ -12807,6 +15477,48 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 4608,
+        "total_attacks": 5,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 5,
+          "loot": 4608,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 5,
+            "loot": 4608,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3202,
+        "with_potions": 3710,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,117,171)",
+        "potion_color": "rgb(255,84,151)"
+      },
+      "role": "admin",
       "slug": "683293be0ecd9c45",
       "name": "Memento Mori",
       "active": true,
@@ -12873,6 +15585,21 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
       "slug": "50fb29afe6cb8fcd",
       "name": "☠️♥️BERSERK♥️☠️",
       "active": false,
@@ -12914,6 +15641,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 2340,
+        "with_potions": 2400,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,175,206)",
+        "potion_color": "rgb(255,171,204)"
+      },
+      "role": "member",
       "slug": "77c592e255eb8892",
       "name": "DarK_Knight",
       "active": true,
@@ -12997,6 +15750,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1748,
+        "with_potions": 2208,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,214,230)",
+        "potion_color": "rgb(255,183,212)"
+      },
+      "role": "member",
       "slug": "a3f8aa5aee69cce3",
       "name": "Aferist",
       "active": true,
@@ -13080,6 +15859,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1832,
+        "with_potions": 2763,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,208,227)",
+        "potion_color": "rgb(255,147,189)"
+      },
+      "role": "member",
       "slug": "27ca33a22891b2e2",
       "name": "LegendaJR",
       "active": true,
@@ -13146,6 +15951,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1288,
+        "with_potions": 1892,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,245,249)",
+        "potion_color": "rgb(255,204,224)"
+      },
+      "role": "member",
       "slug": "2484aef8c400b5d3",
       "name": "нагибатор_3000",
       "active": true,
@@ -13207,6 +16038,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1082,
+        "with_potions": 1998,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,197,220)"
+      },
+      "role": "member",
       "slug": "82b9c81389bee204",
       "name": "hhhe",
       "active": true,
@@ -13253,6 +16110,32 @@
       ]
     },
     {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1378,
+        "with_potions": 1740,
+        "updated": "2026-10-31 18:00",
+        "color": "rgb(255,239,245)",
+        "potion_color": "rgb(255,215,230)"
+      },
+      "role": "admin",
       "slug": "609fe23ae376bb4b",
       "name": "X777X",
       "active": true,

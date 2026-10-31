@@ -37,7 +37,13 @@ class Command(BaseCommand):
             if (settings.BASE_DIR / 'data/clans/2PQQ2RJ0R.json').is_file():
                 clan_folder = stage / '2PQQ2RJ0R'
                 clan_folder.mkdir()
-                (clan_folder/'index.html').write_text(render_to_string('board/other_clan.html', other_clan_context()))
+                other = other_clan_context()
+                (clan_folder/'index.html').write_text(render_to_string('board/other_clan.html', other))
+                if other['history']:
+                    for player in other['history']['players']:
+                        folder = clan_folder/'players'/player['slug']
+                        folder.mkdir(parents=True)
+                        (folder/'index.html').write_text(render_to_string('board/masters_player.html',dict(context(other['history'],'../../','masters'),player=player)))
             shutil.copytree(settings.BASE_DIR / 'board/static/board', stage / 'assets/board')
             (stage / '.nojekyll').touch()
             (stage / marker).touch()

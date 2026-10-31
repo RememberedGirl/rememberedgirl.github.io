@@ -86,3 +86,27 @@ class PublicSiteTests(SimpleTestCase):
                 response = self.client.get('/2PQQ2RJ0R/')
                 self.assertEqual(response.status_code,200)
                 self.assertContains(response,'&lt;script&gt;bad&lt;/script&gt;')
+
+    def test_profile_activities_respect_clan_games_season_and_raid_membership(self):
+        person=dict(tag='#A',name='Player',active=1,first_seen='2026-10-20T12:00:00+03:00',town_hall=8)
+        data=dict(generated='2026-11-01T12:00:00+03:00',wars=[],members=[],attacks=[],players=[person],
+                  clan_games=dict(players={'#A':dict(gained=10000,seasons={'2026-10':6400},total=259999)}),
+                  raids=[dict(raid_id='old',start_time='2026-10-10T07:00:00Z',end_time='2026-10-13T07:00:00Z'),dict(raid_id='new',start_time='2026-10-30T07:00:00Z',end_time='2026-11-02T07:00:00Z')],
+                  raid_members=[dict(player_tag='#A',raid_id='old',attacks=6,capital_resources_looted=50000),dict(player_tag='#A',raid_id='new',attacks=5,capital_resources_looted=10000)],
+                  armies={'#A':dict(weight=1132,collected_at='2026-11-01T12:00:00+03:00',boosts=dict(with_both=8730))},army_scale=dict(minimum=1132,middle=4502,maximum=8730))
+        profile=build_public(data,[person],{},'Masters of War')['players'][0]
+        self.assertEqual(profile['games']['current_season'],'2026-10')
+        self.assertEqual(profile['games']['current'],6400)
+        self.assertEqual(profile['games']['total'],10000)
+        self.assertEqual(profile['raids']['total_loot'],10000)
+        self.assertEqual(profile['raids']['total_attacks'],5)
+        self.assertEqual(profile['raids']['latest']['loot'],10000)
+        self.assertEqual(profile['army']['color'],'rgb(255,255,255)')
+        self.assertEqual(profile['army']['potion_color'],'rgb(92,0,227)')
+        self.assertNotIn('259999',json.dumps(profile))
+        data['clan_games']['players']['#A']['gained']=None
+        data['armies']={}
+        profile=build_public(data,[person],{})['players'][0]
+        self.assertIsNone(profile['games']['current'])
+        self.assertIsNone(profile['games']['total'])
+        self.assertIsNone(profile['army'])

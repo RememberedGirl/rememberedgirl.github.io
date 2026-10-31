@@ -1,0 +1,3349 @@
+{
+  "version": 1,
+  "clan_name": "Masters of War",
+  "generated": "31.10.2026, 19:02 МСК",
+  "season": "2026-10",
+  "players": [
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 6966,
+        "with_potions": 8138,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(160,13,182)",
+        "potion_color": "rgb(115,4,212)"
+      },
+      "role": "member",
+      "slug": "0983dddc7f99c4e4",
+      "name": "GHOST",
+      "active": true,
+      "town_hall": 18,
+      "league": 28,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 18,
+          "league": "Dragon League 28"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 14731,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 14731,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 14731,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 6707,
+        "with_potions": 7850,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(170,15,175)",
+        "potion_color": "rgb(126,6,205)"
+      },
+      "role": "member",
+      "slug": "76005aa1fa7e44fc",
+      "name": "█■ONE SOUL■█",
+      "active": true,
+      "town_hall": 18,
+      "league": 27,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 18,
+          "league": "Titan League 27"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 5002,
+        "with_potions": 5347,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(236,27,132)",
+        "potion_color": "rgb(222,25,141)"
+      },
+      "role": "coLeader",
+      "slug": "0b1a1070fa8ba44e",
+      "name": "Kord",
+      "active": true,
+      "town_hall": 15,
+      "league": 25,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 15,
+          "league": "Titan League 25"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 11819,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 11819,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 11819,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 5236,
+        "with_potions": 6405,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(227,26,138)",
+        "potion_color": "rgb(182,17,168)"
+      },
+      "role": "admin",
+      "slug": "44fc058114fb443a",
+      "name": "sergey",
+      "active": true,
+      "town_hall": 16,
+      "league": 21,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 16,
+          "league": "Golem League 21"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 12518,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 12518,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 12518,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 4953,
+        "with_potions": 5765,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(238,28,131)",
+        "potion_color": "rgb(206,22,151)"
+      },
+      "role": "admin",
+      "slug": "e6726c351c1979a8",
+      "name": "☆МеХаНиК☆",
+      "active": true,
+      "town_hall": 15,
+      "league": 18,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 15,
+          "league": "Witch League 18"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 1775,
+        "total_attacks": 1,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 1,
+          "loot": 1775,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 1,
+            "loot": 1775,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 4060,
+        "with_potions": 4458,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,60,137)",
+        "potion_color": "rgb(255,34,121)"
+      },
+      "role": "member",
+      "slug": "19b8bcac2440b2e3",
+      "name": "☆ Ex3eM ☆",
+      "active": true,
+      "town_hall": 14,
+      "league": 17,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Witch League 17"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4221,
+        "with_potions": 4616,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,50,130)",
+        "potion_color": "rgb(251,30,122)"
+      },
+      "role": "member",
+      "slug": "bada8910d7b17acd",
+      "name": "MONSTER TJK",
+      "active": true,
+      "town_hall": 14,
+      "league": 16,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Witch League 16"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 14227,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 14227,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 14227,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3385,
+        "with_potions": 3922,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,105,164)",
+        "potion_color": "rgb(255,70,142)"
+      },
+      "role": "admin",
+      "slug": "030f83a4133224df",
+      "name": "Алтын",
+      "active": true,
+      "town_hall": 13,
+      "league": 16,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 0,
+          "missed": 1,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 0,
+          "allowed": 2,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Witch League 16"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3692,
+        "with_potions": 3918,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,85,152)",
+        "potion_color": "rgb(255,70,143)"
+      },
+      "role": "leader",
+      "slug": "726fa45909a1d11d",
+      "name": "Рузаль",
+      "active": true,
+      "town_hall": 13,
+      "league": 16,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Witch League 16"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 10715,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 10715,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 10715,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3573,
+        "with_potions": 4476,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,93,156)",
+        "potion_color": "rgb(255,33,120)"
+      },
+      "role": "member",
+      "slug": "1dec5fd80dd93d4c",
+      "name": "Джони-Рубироид",
+      "active": true,
+      "town_hall": 14,
+      "league": 16,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 2,
+          "stars": 2,
+          "clan_stars": 2,
+          "average": 1.0,
+          "attendance_rate": 100,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 2,
+          "allowed": 2,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 48.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "Tachyon",
+              "contribution": 1
+            },
+            {
+              "stars": 1,
+              "destruction": 87.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "grumio",
+              "contribution": 1
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Witch League 16"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 15664,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 15664,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 15664,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3740,
+        "with_potions": 4360,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,82,150)",
+        "potion_color": "rgb(255,40,125)"
+      },
+      "role": "member",
+      "slug": "75a1d687d2b228f0",
+      "name": "WinRar",
+      "active": true,
+      "town_hall": 14,
+      "league": 15,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 2,
+          "stars": 5,
+          "clan_stars": 4,
+          "average": 2.5,
+          "attendance_rate": 100,
+          "success": 2
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 2,
+          "allowed": 2,
+          "stars": 5,
+          "clan_stars": 4,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 70.0,
+              "own_th": 14,
+              "target_th": 15,
+              "target_name": "Awesome Andre",
+              "contribution": 2
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "grumio",
+              "contribution": 2
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Valkyrie League 15"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3509,
+        "with_potions": 3954,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,97,159)",
+        "potion_color": "rgb(255,67,141)"
+      },
+      "role": "admin",
+      "slug": "025674afef3a9bd8",
+      "name": "vairysha",
+      "active": true,
+      "town_hall": 13,
+      "league": 15,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Valkyrie League 15"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 11093,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 11093,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 11093,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3156,
+        "with_potions": 4132,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,120,173)",
+        "potion_color": "rgb(255,56,134)"
+      },
+      "role": "member",
+      "slug": "3da2eb8b9f7d902d",
+      "name": "pelmen57ì",
+      "active": true,
+      "town_hall": 14,
+      "league": 15,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Valkyrie League 15"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3083,
+        "with_potions": 3796,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,125,176)",
+        "potion_color": "rgb(255,78,147)"
+      },
+      "role": "coLeader",
+      "slug": "35a953704f751adb",
+      "name": "Мин Татар Малае",
+      "active": true,
+      "town_hall": 13,
+      "league": 14,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
+          "allowed": 2,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 13,
+              "target_name": "juanmaca",
+              "contribution": 3
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Valkyrie League 14"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3785,
+        "with_potions": 4316,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,79,148)",
+        "potion_color": "rgb(255,43,127)"
+      },
+      "role": "member",
+      "slug": "a6926e303d99df4c",
+      "name": "xfazen-",
+      "active": true,
+      "town_hall": 14,
+      "league": 14,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 0,
+          "missed": 1,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 0,
+          "allowed": 2,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Valkyrie League 14"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 11026,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 11026,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 11026,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 2653,
+        "with_potions": 3135,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,154,194)",
+        "potion_color": "rgb(255,122,174)"
+      },
+      "role": "member",
+      "slug": "cb94b49995f9c6a2",
+      "name": "Bylbeka!!!",
+      "active": true,
+      "town_hall": 12,
+      "league": 13,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "average": 2.0,
+          "attendance_rate": 100,
+          "success": 1
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
+          "allowed": 2,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 91.0,
+              "own_th": 12,
+              "target_th": 12,
+              "target_name": "sigmapork",
+              "contribution": 2
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 12,
+          "league": "Valkyrie League 13"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3105,
+        "with_potions": 3654,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,124,175)",
+        "potion_color": "rgb(255,87,153)"
+      },
+      "role": "member",
+      "slug": "f9b44add007968d4",
+      "name": "Никита рус",
+      "active": true,
+      "town_hall": 13,
+      "league": 12,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Wizard League 12"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3145,
+        "with_potions": 3892,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,121,174)",
+        "potion_color": "rgb(255,72,144)"
+      },
+      "role": "member",
+      "slug": "b66077f3ebea29cd",
+      "name": "beka",
+      "active": true,
+      "town_hall": 13,
+      "league": 12,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Wizard League 12"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 9510,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 9510,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 9510,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1769,
+        "with_potions": 2617,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,213,229)",
+        "potion_color": "rgb(255,156,195)"
+      },
+      "role": "member",
+      "slug": "389bac3da15848e4",
+      "name": "Qwerty",
+      "active": true,
+      "town_hall": 12,
+      "league": 11,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 2,
+          "stars": 6,
+          "clan_stars": 4,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 2
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 2,
+          "allowed": 2,
+          "stars": 6,
+          "clan_stars": 4,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 12,
+              "target_name": "ishaan",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 12,
+              "target_name": "sigmapork",
+              "contribution": 1
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 12,
+          "league": "Wizard League 11"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3142,
+        "with_potions": 3654,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,121,174)",
+        "potion_color": "rgb(255,87,153)"
+      },
+      "role": "member",
+      "slug": "cb96ae08f45579c8",
+      "name": "Z€d",
+      "active": true,
+      "town_hall": 13,
+      "league": 11,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 0,
+          "missed": 1,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 0,
+          "allowed": 2,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Wizard League 11"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 13344,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 13344,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 13344,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3423,
+        "with_potions": 3798,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,103,163)",
+        "potion_color": "rgb(255,78,147)"
+      },
+      "role": "member",
+      "slug": "49a5423e2a6e8ce2",
+      "name": "☢️кент☢️",
+      "active": true,
+      "town_hall": 13,
+      "league": 11,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Wizard League 11"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 13114,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 13114,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 13114,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 2034,
+        "with_potions": 2428,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,195,219)",
+        "potion_color": "rgb(255,169,203)"
+      },
+      "role": "coLeader",
+      "slug": "ddae26d3603c7687",
+      "name": "youko",
+      "active": true,
+      "town_hall": 11,
+      "league": 10,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 11,
+          "league": "Wizard League 10"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 8985,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 8985,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 8985,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1824,
+        "with_potions": 2408,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,209,227)",
+        "potion_color": "rgb(255,170,204)"
+      },
+      "role": "admin",
+      "slug": "441d87fb5549ea0a",
+      "name": "qqyuoqq",
+      "active": true,
+      "town_hall": 11,
+      "league": 10,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 2,
+          "stars": 6,
+          "clan_stars": 6,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 2
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 2,
+          "allowed": 2,
+          "stars": 6,
+          "clan_stars": 6,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "TommyTomTom",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 12,
+              "target_name": "DAKOTA",
+              "contribution": 3
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 11,
+          "league": "Wizard League 10"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 2920,
+        "with_potions": 3063,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,136,183)",
+        "potion_color": "rgb(255,127,177)"
+      },
+      "role": "admin",
+      "slug": "9daba5eb3049d1fc",
+      "name": "Креативный",
+      "active": true,
+      "town_hall": 12,
+      "league": 10,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "average": 2.0,
+          "attendance_rate": 100,
+          "success": 1
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
+          "allowed": 2,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 82.0,
+              "own_th": 12,
+              "target_th": 13,
+              "target_name": "yayaland",
+              "contribution": 2
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 12,
+          "league": "Wizard League 10"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3175,
+        "with_potions": 3175,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,119,173)",
+        "potion_color": "rgb(255,119,173)"
+      },
+      "role": "member",
+      "slug": "501a2de4b0002993",
+      "name": "♂️ S E K A ♂️",
+      "active": true,
+      "town_hall": 12,
+      "league": 10,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
+          "allowed": 2,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 13,
+              "target_name": "tinydaddy",
+              "contribution": 3
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 12,
+          "league": "Wizard League 10"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1954,
+        "with_potions": 2324,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,200,222)",
+        "potion_color": "rgb(255,176,207)"
+      },
+      "role": "member",
+      "slug": "ed64cfbc0f123e52",
+      "name": "Hyper_Beast",
+      "active": true,
+      "town_hall": 11,
+      "league": 6,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 1,
+          "attended": 1,
+          "missed": 0,
+          "attacks": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "average": 2.0,
+          "attendance_rate": 100,
+          "success": 1
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [
+        {
+          "kind": "CW",
+          "end": "2026-10-31T10:09:50+03:00",
+          "month": "2026-10",
+          "date_label": "2026-10-31",
+          "opponent": "newtra",
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
+          "allowed": 2,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 99.0,
+              "own_th": 11,
+              "target_th": 12,
+              "target_name": "cocmaster7",
+              "contribution": 2
+            }
+          ]
+        }
+      ],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 11,
+          "league": "Barbarian League 6"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 10403,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 10403,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 10403,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1204,
+        "with_potions": 1706,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,250,252)",
+        "potion_color": "rgb(255,217,232)"
+      },
+      "role": "member",
+      "slug": "e32d3c9bd99cb697",
+      "name": "Токсикоз",
+      "active": true,
+      "town_hall": 10,
+      "league": 6,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 10,
+          "league": "Barbarian League 6"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 13941,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 13941,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 13941,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 1254,
+        "with_potions": 1356,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,247,250)",
+        "potion_color": "rgb(255,240,246)"
+      },
+      "role": "member",
+      "slug": "80b4f53b9e0580af",
+      "name": "DRAMA",
+      "active": true,
+      "town_hall": 9,
+      "league": 5,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 9,
+          "league": "Barbarian League 5"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1074,
+        "with_potions": 1306,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,243,248)"
+      },
+      "role": "admin",
+      "slug": "9e30e52718e27059",
+      "name": "gilvy28",
+      "active": true,
+      "town_hall": 9,
+      "league": 4,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 9,
+          "league": "Barbarian League 4"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 8853,
+        "total_attacks": 4,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 4,
+          "loot": 8853,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 4,
+            "loot": 8853,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 832,
+        "with_potions": 1130,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "admin",
+      "slug": "f42230b348d0406b",
+      "name": "hezzzz102",
+      "active": true,
+      "town_hall": 9,
+      "league": 4,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 9,
+          "league": "Barbarian League 4"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 660,
+        "with_potions": 1062,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
+      "slug": "fe92c2908430474c",
+      "name": "G-gun",
+      "active": true,
+      "town_hall": 9,
+      "league": 3,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 9,
+          "league": "Skeleton League 3"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 648,
+        "with_potions": 772,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
+      "slug": "e7a91528da149fbb",
+      "name": "vouse.7ert",
+      "active": true,
+      "town_hall": 8,
+      "league": 2,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 8,
+          "league": "Skeleton League 2"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 482,
+        "with_potions": 750,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
+      "slug": "affa03e918118d5c",
+      "name": "miniPelmen",
+      "active": true,
+      "town_hall": 8,
+      "league": 2,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 8,
+          "league": "Skeleton League 2"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 2765,
+        "total_attacks": 4,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 4,
+          "loot": 2765,
+          "allowed": 5
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 4,
+            "loot": 2765,
+            "allowed": 5
+          }
+        ]
+      },
+      "army": {
+        "weight": 440,
+        "with_potions": 502,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
+      "slug": "35e776ae4db69949",
+      "name": "arslan",
+      "active": true,
+      "town_hall": 7,
+      "league": 1,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 7,
+          "league": "Skeleton League 1"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 5439,
+        "with_potions": 6484,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(219,24,143)",
+        "potion_color": "rgb(179,16,170)"
+      },
+      "role": "member",
+      "slug": "3b266631423d4acc",
+      "name": "『BS』ＥＬＥＧＡＮＴＩＫ`",
+      "active": true,
+      "town_hall": 16,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 16,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4381,
+        "with_potions": 6318,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,39,124)",
+        "potion_color": "rgb(185,18,165)"
+      },
+      "role": "admin",
+      "slug": "656c61e8da62150b",
+      "name": "Darkness Angel",
+      "active": true,
+      "town_hall": 16,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 16,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 11660,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 11660,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 11660,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 4510,
+        "with_potions": 5283,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,31,119)",
+        "potion_color": "rgb(225,25,139)"
+      },
+      "role": "admin",
+      "slug": "f8c6b5776223d13b",
+      "name": "КРАКЕН",
+      "active": true,
+      "town_hall": 15,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 15,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4360,
+        "with_potions": 4648,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,40,125)",
+        "potion_color": "rgb(249,30,123)"
+      },
+      "role": "member",
+      "slug": "62133144609fdc8c",
+      "name": "❄︎nostradamus❄︎",
+      "active": true,
+      "town_hall": 14,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 11235,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 11235,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 11235,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3588,
+        "with_potions": 4308,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,92,156)",
+        "potion_color": "rgb(255,44,127)"
+      },
+      "role": "member",
+      "slug": "e9cc8decb24e335a",
+      "name": "weak.",
+      "active": true,
+      "town_hall": 14,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 10347,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 10347,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 10347,
+            "allowed": 6
+          }
+        ]
+      },
+      "army": {
+        "weight": 3278,
+        "with_potions": 3766,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,112,168)",
+        "potion_color": "rgb(255,80,149)"
+      },
+      "role": "member",
+      "slug": "a31abfb814615f5a",
+      "name": "nikita",
+      "active": true,
+      "town_hall": 13,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 13,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4236,
+        "with_potions": 5279,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(255,49,130)",
+        "potion_color": "rgb(225,25,139)"
+      },
+      "role": "member",
+      "slug": "465361ba1916d0fb",
+      "name": "vouse.9slvm",
+      "active": true,
+      "town_hall": 15,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 15,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 5438,
+        "with_potions": 5735,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(219,24,143)",
+        "potion_color": "rgb(207,22,150)"
+      },
+      "role": "coLeader",
+      "slug": "9824d835496756d4",
+      "name": "Na -ｋｕｒａｚｈｅ♥️",
+      "active": true,
+      "town_hall": 15,
+      "league": 17,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 15,
+          "league": "Witch League 17"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4878,
+        "with_potions": 6849,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(241,28,129)",
+        "potion_color": "rgb(165,14,179)"
+      },
+      "role": "admin",
+      "slug": "df15793cbffd4a9a",
+      "name": "ᴍʀܔＹＡＵＪＩ`",
+      "active": true,
+      "town_hall": 17,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 17,
+          "league": "Unranked"
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4539,
+        "with_potions": 4636,
+        "updated": "2026-10-31 18:42",
+        "color": "rgb(254,31,120)",
+        "potion_color": "rgb(250,30,122)"
+      },
+      "role": "admin",
+      "slug": "c84bfdc253242fef",
+      "name": "乂❤Ｓｅｖｉｌｌｅ",
+      "active": true,
+      "town_hall": 14,
+      "league": 0,
+      "days": 0,
+      "first_seen": "2026-10-31",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-10-31",
+          "town_hall": 14,
+          "league": "Unranked"
+        }
+      ]
+    }
+  ]
+}
