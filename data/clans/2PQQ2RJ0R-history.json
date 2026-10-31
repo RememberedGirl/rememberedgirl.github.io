@@ -1,27 +1,48 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "31.10.2026, 19:15 МСК",
+  "generated": "31.10.2026, 20:22 МСК",
   "season": "2026-10",
   "players": [
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 11203,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 11203,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 11203,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
         "weight": 6966,
         "with_potions": 8138,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(160,13,182)",
         "potion_color": "rgb(115,4,212)"
       },
@@ -63,7 +84,7 @@
           "date": "2026-10-31",
           "town_hall": 18,
           "league": "Dragon League 28",
-          "donated": 2492,
+          "donated": 2677,
           "received": 55
         }
       ]
@@ -71,9 +92,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 14731,
@@ -101,7 +127,7 @@
       "army": {
         "weight": 6707,
         "with_potions": 7850,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(170,15,175)",
         "potion_color": "rgb(126,6,205)"
       },
@@ -151,9 +177,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -165,7 +196,7 @@
       "army": {
         "weight": 5002,
         "with_potions": 5347,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(236,27,132)",
         "potion_color": "rgb(222,25,141)"
       },
@@ -215,9 +246,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 11819,
@@ -245,7 +281,7 @@
       "army": {
         "weight": 5236,
         "with_potions": 6405,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(227,26,138)",
         "potion_color": "rgb(182,17,168)"
       },
@@ -295,9 +331,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 12518,
@@ -325,7 +366,7 @@
       "army": {
         "weight": 4953,
         "with_potions": 5765,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(238,28,131)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -375,9 +416,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 1775,
@@ -405,7 +451,7 @@
       "army": {
         "weight": 4060,
         "with_potions": 4458,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,60,137)",
         "potion_color": "rgb(255,34,121)"
       },
@@ -448,16 +494,21 @@
           "town_hall": 14,
           "league": "Witch League 17",
           "donated": 1729,
-          "received": 2712
+          "received": 2790
         }
       ]
     },
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -469,7 +520,7 @@
       "army": {
         "weight": 4221,
         "with_potions": 4616,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,50,130)",
         "potion_color": "rgb(251,30,122)"
       },
@@ -511,17 +562,22 @@
           "date": "2026-10-31",
           "town_hall": 14,
           "league": "Witch League 16",
-          "donated": 158,
-          "received": 553
+          "donated": 205,
+          "received": 631
         }
       ]
     },
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 14227,
@@ -549,7 +605,7 @@
       "army": {
         "weight": 3385,
         "with_potions": 3922,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,105,164)",
         "potion_color": "rgb(255,70,142)"
       },
@@ -606,17 +662,22 @@
           "date": "2026-10-31",
           "town_hall": 13,
           "league": "Witch League 16",
-          "donated": 1832,
-          "received": 1370
+          "donated": 1910,
+          "received": 1471
         }
       ]
     },
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -628,7 +689,7 @@
       "army": {
         "weight": 3692,
         "with_potions": 3918,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,85,152)",
         "potion_color": "rgb(255,70,143)"
       },
@@ -678,9 +739,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 10715,
@@ -708,7 +774,7 @@
       "army": {
         "weight": 3573,
         "with_potions": 4476,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,93,156)",
         "potion_color": "rgb(255,33,120)"
       },
@@ -790,9 +856,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 15664,
@@ -818,10 +889,10 @@
         ]
       },
       "army": {
-        "weight": 3740,
+        "weight": 3755,
         "with_potions": 4360,
-        "updated": "2026-10-31 18:42",
-        "color": "rgb(255,82,150)",
+        "updated": "2026-10-31 20:22",
+        "color": "rgb(255,81,149)",
         "potion_color": "rgb(255,40,125)"
       },
       "role": "member",
@@ -902,9 +973,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -916,7 +992,7 @@
       "army": {
         "weight": 3509,
         "with_potions": 3954,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,97,159)",
         "potion_color": "rgb(255,67,141)"
       },
@@ -966,9 +1042,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 11093,
@@ -996,7 +1077,7 @@
       "army": {
         "weight": 3156,
         "with_potions": 4132,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,120,173)",
         "potion_color": "rgb(255,56,134)"
       },
@@ -1046,9 +1127,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -1060,7 +1146,7 @@
       "army": {
         "weight": 3083,
         "with_potions": 3796,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,125,176)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -1134,9 +1220,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -1146,9 +1237,9 @@
         "history": []
       },
       "army": {
-        "weight": 3785,
+        "weight": 3787,
         "with_potions": 4316,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,79,148)",
         "potion_color": "rgb(255,43,127)"
       },
@@ -1205,7 +1296,7 @@
           "date": "2026-10-31",
           "town_hall": 14,
           "league": "Valkyrie League 14",
-          "donated": 141,
+          "donated": 148,
           "received": 545
         }
       ]
@@ -1213,9 +1304,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 11026,
@@ -1243,7 +1339,7 @@
       "army": {
         "weight": 2653,
         "with_potions": 3135,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,154,194)",
         "potion_color": "rgb(255,122,174)"
       },
@@ -1317,21 +1413,42 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 12965,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-10-30T10:00:00+03:00",
+          "end": "2026-11-02T10:00:00+03:00",
+          "date_label": "2026-10-30",
+          "attacks": 6,
+          "loot": 12965,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-10-30T10:00:00+03:00",
+            "end": "2026-11-02T10:00:00+03:00",
+            "date_label": "2026-10-30",
+            "attacks": 6,
+            "loot": 12965,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
         "weight": 3105,
         "with_potions": 3654,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,124,175)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -1373,7 +1490,7 @@
           "date": "2026-10-31",
           "town_hall": 13,
           "league": "Wizard League 12",
-          "donated": 794,
+          "donated": 801,
           "received": 4265
         }
       ]
@@ -1381,9 +1498,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -1395,7 +1517,7 @@
       "army": {
         "weight": 3145,
         "with_potions": 3892,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,121,174)",
         "potion_color": "rgb(255,72,144)"
       },
@@ -1445,9 +1567,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 9510,
@@ -1475,7 +1602,7 @@
       "army": {
         "weight": 1769,
         "with_potions": 2617,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,213,229)",
         "potion_color": "rgb(255,156,195)"
       },
@@ -1557,9 +1684,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -1571,7 +1703,7 @@
       "army": {
         "weight": 3142,
         "with_potions": 3654,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,121,174)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -1636,9 +1768,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 13344,
@@ -1666,7 +1803,7 @@
       "army": {
         "weight": 3423,
         "with_potions": 3798,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,103,163)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -1716,9 +1853,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 13114,
@@ -1746,7 +1888,7 @@
       "army": {
         "weight": 2034,
         "with_potions": 2428,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,195,219)",
         "potion_color": "rgb(255,169,203)"
       },
@@ -1796,9 +1938,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 8985,
@@ -1826,7 +1973,7 @@
       "army": {
         "weight": 1824,
         "with_potions": 2408,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,209,227)",
         "potion_color": "rgb(255,170,204)"
       },
@@ -1908,9 +2055,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -1922,7 +2074,7 @@
       "army": {
         "weight": 2920,
         "with_potions": 3063,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,136,183)",
         "potion_color": "rgb(255,127,177)"
       },
@@ -1996,9 +2148,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2010,7 +2167,7 @@
       "army": {
         "weight": 3175,
         "with_potions": 3175,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,119,173)"
       },
@@ -2084,9 +2241,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2098,7 +2260,7 @@
       "army": {
         "weight": 1954,
         "with_potions": 2324,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,200,222)",
         "potion_color": "rgb(255,176,207)"
       },
@@ -2165,16 +2327,21 @@
           "town_hall": 11,
           "league": "Barbarian League 6",
           "donated": 127,
-          "received": 1574
+          "received": 1641
         }
       ]
     },
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 10403,
@@ -2202,7 +2369,7 @@
       "army": {
         "weight": 1204,
         "with_potions": 1706,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,250,252)",
         "potion_color": "rgb(255,217,232)"
       },
@@ -2252,9 +2419,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 13941,
@@ -2282,7 +2454,7 @@
       "army": {
         "weight": 1254,
         "with_potions": 1356,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,247,250)",
         "potion_color": "rgb(255,240,246)"
       },
@@ -2332,9 +2504,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2346,7 +2523,7 @@
       "army": {
         "weight": 1074,
         "with_potions": 1306,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,243,248)"
       },
@@ -2396,9 +2573,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 8853,
@@ -2426,7 +2608,7 @@
       "army": {
         "weight": 832,
         "with_potions": 1130,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -2476,9 +2658,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2490,7 +2677,7 @@
       "army": {
         "weight": 660,
         "with_potions": 1062,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -2540,9 +2727,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2554,7 +2746,7 @@
       "army": {
         "weight": 648,
         "with_potions": 772,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -2604,9 +2796,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2618,7 +2815,7 @@
       "army": {
         "weight": 482,
         "with_potions": 750,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -2668,9 +2865,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 2765,
@@ -2698,7 +2900,7 @@
       "army": {
         "weight": 440,
         "with_potions": 502,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -2748,9 +2950,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2762,7 +2969,7 @@
       "army": {
         "weight": 5439,
         "with_potions": 6484,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(179,16,170)"
       },
@@ -2812,9 +3019,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2826,7 +3038,7 @@
       "army": {
         "weight": 4381,
         "with_potions": 6318,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,39,124)",
         "potion_color": "rgb(185,18,165)"
       },
@@ -2876,9 +3088,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 11660,
@@ -2906,7 +3123,7 @@
       "army": {
         "weight": 4510,
         "with_potions": 5283,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,31,119)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -2956,9 +3173,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -2970,7 +3192,7 @@
       "army": {
         "weight": 4360,
         "with_potions": 4648,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,40,125)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -3020,9 +3242,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 11235,
@@ -3050,7 +3277,7 @@
       "army": {
         "weight": 3588,
         "with_potions": 4308,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,92,156)",
         "potion_color": "rgb(255,44,127)"
       },
@@ -3100,9 +3327,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 10347,
@@ -3130,7 +3362,7 @@
       "army": {
         "weight": 3278,
         "with_potions": 3766,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,112,168)",
         "potion_color": "rgb(255,80,149)"
       },
@@ -3180,9 +3412,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -3194,7 +3431,7 @@
       "army": {
         "weight": 4236,
         "with_potions": 5279,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(255,49,130)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -3244,9 +3481,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -3258,7 +3500,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -3308,9 +3550,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -3322,7 +3569,7 @@
       "army": {
         "weight": 4878,
         "with_potions": 6849,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(241,28,129)",
         "potion_color": "rgb(165,14,179)"
       },
@@ -3372,9 +3619,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -3386,7 +3638,7 @@
       "army": {
         "weight": 4539,
         "with_potions": 4636,
-        "updated": "2026-10-31 18:42",
+        "updated": "2026-10-31 20:22",
         "color": "rgb(254,31,120)",
         "potion_color": "rgb(250,30,122)"
       },

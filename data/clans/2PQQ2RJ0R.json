@@ -4,7 +4,7 @@
   "level": 8,
   "description": "Новичок? Старичок? Неважно, если ищешь клан то заходи к нам, гарантирую постоянные клановые войны, активные жертвы. Мат в меру. Клановые войны 1 - зеркало, 2 - добив после 12 часов. Зашел в клан - представился. Играем в свое удовольствие.",
   "war_league": "Gold League II",
-  "generated": "31.10.2026, 18:33 МСК",
+  "generated": "31.10.2026, 20:22 МСК",
   "players": [
     {
       "name": "GHOST",
@@ -13,7 +13,7 @@
       "league_name": "Dragon League 28",
       "role": "member",
       "trophies": 102,
-      "donations": 2492,
+      "donations": 2677,
       "received": 55
     },
     {
@@ -122,9 +122,9 @@
       "league": 17,
       "league_name": "Witch League 17",
       "role": "member",
-      "trophies": 276,
+      "trophies": 376,
       "donations": 1729,
-      "received": 2712
+      "received": 2790
     },
     {
       "name": "MONSTER TJK",
@@ -133,8 +133,8 @@
       "league_name": "Witch League 16",
       "role": "member",
       "trophies": 389,
-      "donations": 158,
-      "received": 553
+      "donations": 205,
+      "received": 631
     },
     {
       "name": "Джони-Рубироид",
@@ -173,7 +173,7 @@
       "league_name": "Valkyrie League 14",
       "role": "member",
       "trophies": 115,
-      "donations": 141,
+      "donations": 148,
       "received": 545
     },
     {
@@ -212,9 +212,9 @@
       "league": 16,
       "league_name": "Witch League 16",
       "role": "admin",
-      "trophies": 159,
-      "donations": 1832,
-      "received": 1370
+      "trophies": 252,
+      "donations": 1910,
+      "received": 1471
     },
     {
       "name": "Рузаль",
@@ -263,7 +263,7 @@
       "league_name": "Wizard League 12",
       "role": "member",
       "trophies": 143,
-      "donations": 794,
+      "donations": 801,
       "received": 4265
     },
     {
@@ -364,7 +364,7 @@
       "role": "member",
       "trophies": 330,
       "donations": 127,
-      "received": 1574
+      "received": 1641
     },
     {
       "name": "Токсикоз",
