@@ -14,6 +14,7 @@ def attack_matrix(players):
                     continue
                 cells[th].append(stars);levels.add(th)
         groups[index]=cells
+    levels.update(p['town_hall'] for p in players if isinstance(p.get('town_hall'),int) and p['town_hall']>0)
     levels=sorted(levels)
     colors=[(120,25,48),(230,75,75),(235,194,55),(65,185,110)]
     rows=[]
@@ -22,10 +23,10 @@ def attack_matrix(players):
         for th in levels:
             stars=groups[number-1].get(th,[])
             if not stars:
-                cells.append(dict(known=False,th=th));continue
+                cells.append(dict(known=False,th=th,own_th=th==player.get('town_hall')));continue
             average=sum(stars)/len(stars)
             lower=int(average);upper=min(3,lower+1);fraction=average-lower
             color=','.join(str(round(a+(b-a)*fraction)) for a,b in zip(colors[lower],colors[upper]))
-            cells.append(dict(known=True,th=th,average=average,count=len(stars),color=color))
+            cells.append(dict(known=True,th=th,own_th=th==player.get('town_hall'),average=average,count=len(stars),color=color))
         rows.append(dict(number=number,name=player['name'],slug=player.get('slug'),town_hall=player.get('town_hall'),cells=cells))
-    return dict(levels=levels,rows=rows)
+    return dict(levels=levels,rows=rows,width=152+34*len(levels))
