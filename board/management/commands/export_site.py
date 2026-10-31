@@ -25,15 +25,19 @@ class Command(BaseCommand):
         with tempfile.TemporaryDirectory(dir=target.parent) as tmp:
             stage = Path(tmp) / 'site'
             stage.mkdir()
-            (stage / 'index.html').write_text(render_to_string('board/home.html', home_context(data)))
-            for player in data['players']:
-                folder = stage / 'players' / player['slug']
-                folder.mkdir(parents=True)
-                (folder / 'index.html').write_text(render_to_string('board/player.html', dict(context(data, '../../'), player=player)))
+            for design, prefix in [('classic', ''), ('berserk', 'berserk')]:
+                destination = stage / prefix
+                destination.mkdir(exist_ok=True)
+                templates = 'board/berserk' if design == 'berserk' else 'board'
+                (destination / 'index.html').write_text(render_to_string(templates+'/home.html', home_context(data, design=design)))
+                for player in data['players']:
+                    folder = destination / 'players' / player['slug']
+                    folder.mkdir(parents=True)
+                    (folder / 'index.html').write_text(render_to_string(templates+'/player.html', dict(context(data, '../../', design), player=player)))
             shutil.copytree(settings.BASE_DIR / 'board/static/board', stage / 'assets/board')
             (stage / '.nojekyll').touch()
             (stage / marker).touch()
             if target.exists():
                 shutil.rmtree(target)
             stage.rename(target)
-        self.stdout.write(self.style.SUCCESS(f'Создан сайт: {target} · Профилей: {len(data["players"])}'))
+        self.stdout.write(self.style.SUCCESS(f'Создан сайт: {target} · Дизайнов: 2 · Профилей: {len(data["players"])}'))

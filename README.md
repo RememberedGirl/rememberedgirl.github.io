@@ -43,7 +43,9 @@ python3 -m venv .venv
 4. После push workflow `.github/workflows/pages.yml` проверит проект, соберёт HTML и опубликует Pages.
 5. Адрес сайта будет в GitHub Actions и Settings → Pages. Относительные ссылки работают и на `username.github.io`, и на `username.github.io/repository/`.
 
-Сайт: https://rememberedgirl.github.io/
+Сайт, вариант 1: https://rememberedgirl.github.io/
+
+Вариант 2, сохранённый дизайн «Берсерк»: https://rememberedgirl.github.io/berserk/
 
 Репозиторий: https://github.com/RememberedGirl/rememberedgirl.github.io
 
