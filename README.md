@@ -43,7 +43,11 @@ python3 -m venv .venv
 4. После push workflow `.github/workflows/pages.yml` проверит проект, соберёт HTML и опубликует Pages.
 5. Адрес сайта будет в GitHub Actions и Settings → Pages. Относительные ссылки работают и на `username.github.io`, и на `username.github.io/repository/`.
 
-Репозиторий ещё не создан и сайт в интернет не опубликован. Workflow готов для отдельного репозитория с этой структурой.
+Сайт: https://rememberedgirl.github.io/
+
+Репозиторий: https://github.com/RememberedGirl/rememberedgirl.github.io
+
+Публикация включена через GitHub Actions. Push в `main` автоматически запускает проверки, сборку и обновление Pages.
 
 ## Как считаем
 
