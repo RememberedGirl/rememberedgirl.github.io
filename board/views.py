@@ -1,4 +1,5 @@
 import json
+import hashlib
 from django.conf import settings
 from django.http import Http404
 from django.shortcuts import render
@@ -11,7 +12,9 @@ def load_data():
 
 
 def context(data, root=''):
-    return dict(site=data, root=root)
+    css = settings.BASE_DIR / 'board/static/board/site.css'
+    version = hashlib.sha256(css.read_bytes()).hexdigest()[:12]
+    return dict(site=data, root=root, asset_version=version)
 
 
 def rankings(players, kind):
