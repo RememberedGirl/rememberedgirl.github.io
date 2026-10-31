@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "31.10.2026, 16:46 МСК",
+  "generated": "31.10.2026, 18:00 МСК",
   "season": "2026-10",
   "players": [
     {
@@ -3076,11 +3076,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 86.0,
+              "own_th": 9,
+              "target_th": 10,
+              "target_name": "Korea",
+              "contribution": 2
+            },
+            {
+              "stars": 1,
+              "destruction": 54.0,
+              "own_th": 9,
+              "target_th": 9,
+              "target_name": "huraira",
+              "contribution": 1
+            }
+          ]
         },
         {
           "kind": "CW",
@@ -10467,10 +10484,10 @@
     {
       "slug": "cde787c38321f643",
       "name": "Sukhrob",
-      "active": true,
+      "active": false,
       "town_hall": 11,
-      "league": 6,
-      "days": 5,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-25",
       "stats": {
         "CW": {
@@ -11977,11 +11994,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 5,
+          "clan_stars": 5,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 10,
+              "target_name": "ABHIJEET",
+              "contribution": 3
+            },
+            {
+              "stars": 2,
+              "destruction": 67.0,
+              "own_th": 10,
+              "target_th": 10,
+              "target_name": "Tek-t",
+              "contribution": 2
+            }
+          ]
         }
       ],
       "development": [
@@ -12181,7 +12215,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -12216,11 +12250,20 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 76.0,
+              "own_th": 14,
+              "target_th": 15,
+              "target_name": "samrath karma",
+              "contribution": 1
+            }
+          ]
         }
       ],
       "development": [
@@ -12252,7 +12295,7 @@
       "active": true,
       "town_hall": 12,
       "league": 8,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -12526,11 +12569,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 6,
+          "clan_stars": 6,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 11,
+              "target_name": "haboy",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 11,
+              "target_name": "DG.y.t",
+              "contribution": 3
+            }
+          ]
         }
       ],
       "development": [
@@ -12592,11 +12652,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 6,
+          "clan_stars": 6,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 11,
+              "target_name": "Dev FT",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 11,
+              "target_name": "sahil@@@",
+              "contribution": 3
+            }
+          ]
         }
       ],
       "development": [
@@ -12877,11 +12954,28 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 6,
+          "clan_stars": 6,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "THUNDER",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 13,
+              "target_name": "lee",
+              "contribution": 3
+            }
+          ]
         }
       ],
       "development": [
@@ -12906,7 +13000,7 @@
       "slug": "a3f8aa5aee69cce3",
       "name": "Aferist",
       "active": true,
-      "town_hall": 10,
+      "town_hall": 11,
       "league": 7,
       "days": 2,
       "first_seen": "2026-10-29",
@@ -12943,17 +13037,34 @@
           "opponent": "A F R I D I",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 6,
+          "clan_stars": 6,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "Shad",
+              "contribution": 3
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "Michael Lane",
+              "contribution": 3
+            }
+          ]
         }
       ],
       "development": [
         {
           "date": "2026-10-31",
-          "town_hall": 10,
+          "town_hall": 11,
           "league": "Archer League 7"
         },
         {
@@ -13101,7 +13212,7 @@
       "active": true,
       "town_hall": 11,
       "league": 6,
-      "days": 0,
+      "days": 1,
       "first_seen": "2026-10-30",
       "stats": {
         "CW": {
