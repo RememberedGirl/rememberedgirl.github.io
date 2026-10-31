@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "31.10.2026, 19:02 МСК",
+  "generated": "31.10.2026, 19:15 МСК",
   "season": "2026-10",
   "players": [
     {
@@ -119,32 +119,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 17,
-          "league": "Titan League 27"
+          "league": "Titan League 27",
+          "donated": 262,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 17,
-          "league": "Titan League 27"
+          "league": "Titan League 27",
+          "donated": 39,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 17,
-          "league": "Titan League 27"
+          "league": "Titan League 27",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 17,
-          "league": "Titan League 27"
+          "league": "Titan League 27",
+          "donated": 1,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 17,
-          "league": "Titan League 27"
+          "league": "Titan League 27",
+          "donated": 55,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 17,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -263,32 +275,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 15,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 667,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 15,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 437,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 15,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 432,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 15,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 371,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 15,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 30,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 15,
-          "league": null
+          "league": null,
+          "donated": 30,
+          "received": null
         }
       ]
     },
@@ -390,32 +414,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 4,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 3,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 3,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 3,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 14,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -517,32 +553,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 67,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 44,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 44,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 44,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 14,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -644,32 +692,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 14,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -771,32 +831,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 5,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 2,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 2,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 2,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 13,
-          "league": "Wizard League 12"
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 13,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -898,32 +970,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 13,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -1157,72 +1241,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 136,
+          "received": 363
         },
         {
           "date": "2026-10-30",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 136,
+          "received": 337
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 136,
+          "received": 285
         },
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 136,
+          "received": 285
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 101,
+          "received": 259
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 101,
+          "received": 259
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 101,
+          "received": 259
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 49,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 49,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 49,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 49,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 49,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 48,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 48,
+          "received": null
         }
       ]
     },
@@ -1473,72 +1585,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-30",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-29",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-28",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 90,
+          "received": 26
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 67,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 67,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 66,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 66,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 66,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 66,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 36,
+          "received": null
         }
       ]
     },
@@ -1657,22 +1797,30 @@
         {
           "date": "2026-10-21",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 251,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 251,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 251,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 11,
-          "league": null
+          "league": null,
+          "donated": 236,
+          "received": null
         }
       ]
     },
@@ -1757,22 +1905,30 @@
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 9,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -1843,7 +1999,9 @@
         {
           "date": "2026-10-18",
           "town_hall": 9,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -1914,12 +2072,16 @@
         {
           "date": "2026-10-19",
           "town_hall": 9,
-          "league": null
+          "league": null,
+          "donated": 10,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 9,
-          "league": null
+          "league": null,
+          "donated": 10,
+          "received": null
         }
       ]
     },
@@ -2004,27 +2166,37 @@
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 34,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 34,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 34,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 34,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 7,
-          "league": null
+          "league": null,
+          "donated": 14,
+          "received": null
         }
       ]
     },
@@ -2080,7 +2252,9 @@
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 11,
+          "received": null
         }
       ]
     },
@@ -2288,72 +2462,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 218,
+          "received": 393
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 218,
+          "received": 393
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 218,
+          "received": 393
         },
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 218,
+          "received": 300
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 161,
+          "received": 238
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 125,
+          "received": 114
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 125,
+          "received": 114
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 125,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 125,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 125,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 125,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 125,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 37,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 37,
+          "received": null
         }
       ]
     },
@@ -2607,72 +2809,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 61,
+          "received": 60
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 583,
+          "received": 636
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 547,
+          "received": 574
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 257,
+          "received": 569
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 161,
+          "received": 414
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 141,
+          "received": 389
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 59,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 436,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 401,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 401,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 360,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 197,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 151,
+          "received": null
         }
       ]
     },
@@ -2922,72 +3152,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 281,
+          "received": 207
         },
         {
           "date": "2026-10-30",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 281,
+          "received": 181
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 281,
+          "received": 181
         },
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 281,
+          "received": 155
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 246,
+          "received": 103
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 160,
+          "received": 52
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 160,
+          "received": 47
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 160,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 160,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 137,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 137,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 117,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 117,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 116,
+          "received": null
         }
       ]
     },
@@ -3137,57 +3395,79 @@
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 21,
+          "received": 145
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 21,
+          "received": 145
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 21,
+          "received": 145
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 21,
+          "received": 125
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 21,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 21,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 15,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 15,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 15,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 15,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 15,
+          "received": null
         }
       ]
     },
@@ -3410,57 +3690,79 @@
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 72,
+          "received": 60
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 72,
+          "received": 60
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 72,
+          "received": 45
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 72,
+          "received": 45
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 72,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 52,
+          "received": null
         }
       ]
     },
@@ -3730,72 +4032,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 357,
+          "received": 423
         },
         {
           "date": "2026-10-30",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 347,
+          "received": 408
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 327,
+          "received": 408
         },
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 324,
+          "received": 408
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 297,
+          "received": 393
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 118,
+          "received": 378
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 118,
+          "received": 348
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 112,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 8,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 112,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 8,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 83,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 8,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 83,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 83,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 75,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 7,
-          "league": null
+          "league": null,
+          "donated": 69,
+          "received": null
         }
       ]
     },
@@ -3897,32 +4227,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 25,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 25,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 25,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 25,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 25,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 7,
-          "league": null
+          "league": null,
+          "donated": 25,
+          "received": null
         }
       ]
     },
@@ -4024,32 +4366,44 @@
         {
           "date": "2026-10-23",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 9,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -4285,72 +4639,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 124,
+          "received": 245
         },
         {
           "date": "2026-10-30",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 124,
+          "received": 245
         },
         {
           "date": "2026-10-29",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 88,
+          "received": 225
         },
         {
           "date": "2026-10-28",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 36,
+          "received": 205
         },
         {
           "date": "2026-10-27",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 36,
+          "received": 185
         },
         {
           "date": "2026-10-26",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 31,
+          "received": 165
         },
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": 165
         },
         {
           "date": "2026-10-24",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -4406,12 +4788,16 @@
         {
           "date": "2026-10-19",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -4681,72 +5067,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 359,
+          "received": 690
         },
         {
           "date": "2026-10-30",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 359,
+          "received": 638
         },
         {
           "date": "2026-10-29",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 313,
+          "received": 611
         },
         {
           "date": "2026-10-28",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 277,
+          "received": 577
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 274,
+          "received": 525
         },
         {
           "date": "2026-10-26",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 194,
+          "received": 465
         },
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 193,
+          "received": 465
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 122,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 72,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 47,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 42,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 15,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -4966,72 +5380,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 154,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 154,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 114,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 62,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 62,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 32,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 32,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 13,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 13,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -5149,47 +5591,65 @@
         {
           "date": "2026-10-27",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 12,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 12,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -5344,47 +5804,65 @@
         {
           "date": "2026-10-26",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 52,
+          "received": 485
         },
         {
           "date": "2026-10-25",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 51,
+          "received": 445
         },
         {
           "date": "2026-10-24",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 51,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 51,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 36,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 36,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 36,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 10,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 5,
+          "received": null
         }
       ]
     },
@@ -5514,42 +5992,58 @@
         {
           "date": "2026-10-25",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 40
         },
         {
           "date": "2026-10-24",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 4,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 4,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -5625,47 +6119,65 @@
         {
           "date": "2026-10-26",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": 215
         },
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": 215
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 227,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 217,
+          "received": null
         }
       ]
     },
@@ -5721,12 +6233,16 @@
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": null
+          "league": null,
+          "donated": 64,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 7,
-          "league": null
+          "league": null,
+          "donated": 64,
+          "received": null
         }
       ]
     },
@@ -5864,42 +6380,58 @@
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 7,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -5955,7 +6487,9 @@
         {
           "date": "2026-10-18",
           "town_hall": 4,
-          "league": null
+          "league": null,
+          "donated": 14,
+          "received": null
         }
       ]
     },
@@ -6085,72 +6619,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 191,
+          "received": 280
         },
         {
           "date": "2026-10-28",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 191,
+          "received": 280
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 191,
+          "received": 280
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 171,
+          "received": 220
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 171,
+          "received": 200
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 171,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 171,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 110,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 110,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 110,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 105,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 105,
+          "received": null
         }
       ]
     },
@@ -6404,72 +6966,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 336,
+          "received": 50
         },
         {
           "date": "2026-10-30",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 336,
+          "received": 50
         },
         {
           "date": "2026-10-29",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 336,
+          "received": 50
         },
         {
           "date": "2026-10-28",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 280,
+          "received": 50
         },
         {
           "date": "2026-10-27",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 280,
+          "received": 50
         },
         {
           "date": "2026-10-26",
           "town_hall": 7,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 259,
+          "received": 50
         },
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 259,
+          "received": 50
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 225,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 225,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 199,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 199,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 179,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 138,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 133,
+          "received": null
         }
       ]
     },
@@ -6571,27 +7161,37 @@
         {
           "date": "2026-10-22",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 51,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 51,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 51,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 15,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -6681,42 +7281,58 @@
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": 246
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 31,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 10,
-          "league": null
+          "league": null,
+          "donated": 31,
+          "received": null
         }
       ]
     },
@@ -6772,12 +7388,16 @@
         {
           "date": "2026-10-19",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 23,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 23,
+          "received": null
         }
       ]
     },
@@ -6833,7 +7453,9 @@
         {
           "date": "2026-10-18",
           "town_hall": 15,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -7103,72 +7725,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 145
         },
         {
           "date": "2026-10-30",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 145
         },
         {
           "date": "2026-10-29",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 125
         },
         {
           "date": "2026-10-28",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 105
         },
         {
           "date": "2026-10-27",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 105
         },
         {
           "date": "2026-10-26",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 105
         },
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 121,
+          "received": 105
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 86,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 86,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 75,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 75,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 75,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 75,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 55,
+          "received": null
         }
       ]
     },
@@ -7258,42 +7908,58 @@
         {
           "date": "2026-10-25",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 56
         },
         {
           "date": "2026-10-24",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 5,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -7397,57 +8063,79 @@
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 12,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -7684,72 +8372,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 382,
+          "received": 573
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 250,
+          "received": 436
         },
         {
           "date": "2026-10-27",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 141,
+          "received": 304
         },
         {
           "date": "2026-10-26",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 499,
+          "received": 504
         },
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 433,
+          "received": 439
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 365,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 349,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 314,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 294,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 254,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 109,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -7805,7 +8521,9 @@
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -7938,72 +8656,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-27",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-26",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-25",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": 164
         },
         {
           "date": "2026-10-24",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 13,
-          "league": null
+          "league": null,
+          "donated": 20,
+          "received": null
         }
       ]
     },
@@ -8231,72 +8977,100 @@
         {
           "date": "2026-10-31",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 256,
+          "received": 225
         },
         {
           "date": "2026-10-30",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 256,
+          "received": 205
         },
         {
           "date": "2026-10-29",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 256,
+          "received": 185
         },
         {
           "date": "2026-10-28",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 256,
+          "received": 145
         },
         {
           "date": "2026-10-27",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 256,
+          "received": 145
         },
         {
           "date": "2026-10-26",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 220,
+          "received": 105
         },
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 220,
+          "received": 105
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 200,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 200,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 200,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 200,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 180,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 6,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 180,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 156,
+          "received": null
         }
       ]
     },
@@ -8372,42 +9146,58 @@
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 10,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -8497,62 +9287,86 @@
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 40
         },
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 40
         },
         {
           "date": "2026-10-27",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 40
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 40
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 40
         },
         {
           "date": "2026-10-24",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 11,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -8608,12 +9422,16 @@
         {
           "date": "2026-10-19",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 6,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -8684,17 +9502,23 @@
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-18",
           "town_hall": 8,
-          "league": null
+          "league": null,
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -8883,67 +9707,93 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 1,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 726,
+          "received": 144
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 726,
+          "received": 144
         },
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 690,
+          "received": 144
         },
         {
           "date": "2026-10-27",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 660,
+          "received": 72
         },
         {
           "date": "2026-10-26",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 513,
+          "received": 72
         },
         {
           "date": "2026-10-25",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 488,
+          "received": 72
         },
         {
           "date": "2026-10-24",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 247,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 247,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 150,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 150,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 120,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 60,
+          "received": null
         }
       ]
     },
@@ -8999,12 +9849,16 @@
         {
           "date": "2026-10-20",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 80,
+          "received": null
         },
         {
           "date": "2026-10-19",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -9075,12 +9929,16 @@
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -9252,62 +10110,86 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 174,
+          "received": 124
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 143,
+          "received": 124
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 143,
+          "received": 124
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 143,
+          "received": 124
         },
         {
           "date": "2026-10-27",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 143,
+          "received": 124
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 40,
+          "received": 31
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 40,
+          "received": 31
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 40,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 20,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -9529,62 +10411,86 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 105,
+          "received": 295
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 105,
+          "received": 228
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 69,
+          "received": 162
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 64,
+          "received": 156
         },
         {
           "date": "2026-10-27",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 62,
+          "received": 95
         },
         {
           "date": "2026-10-26",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 61,
+          "received": 64
         },
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 61,
+          "received": 33
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 61,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 61,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 52,
+          "received": null
         },
         {
           "date": "2026-10-20",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 27,
+          "received": null
         }
       ]
     },
@@ -9758,57 +10664,79 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 452,
+          "received": 685
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 452,
+          "received": 649
         },
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 406,
+          "received": 582
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 314,
+          "received": 509
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 313,
+          "received": 406
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 265,
+          "received": 237
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 182,
+          "received": 170
         },
         {
           "date": "2026-10-24",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 80,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 68,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 62,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 15,
+          "received": null
         }
       ]
     },
@@ -9932,52 +10860,72 @@
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 175,
+          "received": 691
         },
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 175,
+          "received": 589
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 175,
+          "received": 500
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 175,
+          "received": 500
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 26,
+          "received": 170
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 26,
+          "received": 170
         },
         {
           "date": "2026-10-24",
           "town_hall": 11,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 11,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 11,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 11,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -10152,57 +11100,79 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 341,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 341,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 341,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 320,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 320,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 313,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 313,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 204,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 158,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -10315,42 +11285,58 @@
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 18,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 18,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 18,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 12,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 12,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 12,
+          "received": null
         },
         {
           "date": "2026-10-22",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-21",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -10406,7 +11392,9 @@
         {
           "date": "2026-10-22",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -10496,32 +11484,44 @@
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-23",
           "town_hall": 11,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -10597,17 +11597,23 @@
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 22,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 22,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 11,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 12,
+          "received": null
         }
       ]
     },
@@ -10751,42 +11757,58 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 57,
+          "received": 587
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 57,
+          "received": 485
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 37,
+          "received": 449
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 37,
+          "received": 383
         },
         {
           "date": "2026-10-27",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 31,
+          "received": 294
         },
         {
           "date": "2026-10-26",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 31,
+          "received": 162
         },
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 31,
+          "received": 138
         },
         {
           "date": "2026-10-24",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -10876,37 +11898,51 @@
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 130
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 104
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 78
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 52
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 52
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 26
         },
         {
           "date": "2026-10-24",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11058,42 +12094,58 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 231,
+          "received": 1
         },
         {
           "date": "2026-10-30",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 227,
+          "received": 1
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 211,
+          "received": 1
         },
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 211,
+          "received": 1
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 136,
+          "received": 1
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 100,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 64,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 54,
+          "received": null
         }
       ]
     },
@@ -11154,12 +12206,16 @@
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 31,
+          "received": 31
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11252,27 +12308,37 @@
         {
           "date": "2026-10-28",
           "town_hall": 8,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 79
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 79
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11333,12 +12399,16 @@
         {
           "date": "2026-10-25",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11515,42 +12585,58 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 93
         },
         {
           "date": "2026-10-30",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 93
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 93
         },
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 62
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 62
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-24",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11626,27 +12712,37 @@
         {
           "date": "2026-10-28",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 11
         },
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 11
         },
         {
           "date": "2026-10-26",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 10
         },
         {
           "date": "2026-10-25",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 10
         },
         {
           "date": "2026-10-24",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11707,12 +12803,16 @@
         {
           "date": "2026-10-25",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         },
         {
           "date": "2026-10-24",
           "town_hall": 5,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11773,7 +12873,9 @@
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -11829,7 +12931,9 @@
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": null
         }
       ]
     },
@@ -11905,22 +13009,30 @@
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -12027,22 +13139,30 @@
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -12118,12 +13238,16 @@
         {
           "date": "2026-10-26",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 167
         },
         {
           "date": "2026-10-25",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 101
         }
       ]
     },
@@ -12199,22 +13323,30 @@
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -12275,12 +13407,16 @@
         {
           "date": "2026-10-26",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 41,
+          "received": 44
         },
         {
           "date": "2026-10-25",
           "town_hall": 13,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 191,
+          "received": 0
         }
       ]
     },
@@ -12384,37 +13520,51 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 199
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 199
         },
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 199
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 132
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 65
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 30
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 30
         }
       ]
     },
@@ -12521,32 +13671,44 @@
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 103
         },
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 103
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 103
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 38
         },
         {
           "date": "2026-10-26",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -12707,37 +13869,51 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-25",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -12798,12 +13974,16 @@
         {
           "date": "2026-10-27",
           "town_hall": 16,
-          "league": "Electro League 31"
+          "league": "Electro League 31",
+          "donated": 103,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 16,
-          "league": "Electro League 31"
+          "league": "Electro League 31",
+          "donated": 121,
+          "received": 0
         }
       ]
     },
@@ -12896,12 +14076,16 @@
         {
           "date": "2026-10-27",
           "town_hall": 18,
-          "league": "Electro League 31"
+          "league": "Electro League 31",
+          "donated": 77,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 18,
-          "league": "Electro League 31"
+          "league": "Electro League 31",
+          "donated": 5,
+          "received": 0
         }
       ]
     },
@@ -12957,7 +14141,9 @@
         {
           "date": "2026-10-26",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -13024,32 +14210,44 @@
         {
           "date": "2026-10-31",
           "town_hall": 17,
-          "league": "P.E.K.K.A League 23"
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 17,
-          "league": "P.E.K.K.A League 23"
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 17,
-          "league": "P.E.K.K.A League 23"
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 17,
-          "league": "P.E.K.K.A League 23"
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 17,
-          "league": "P.E.K.K.A League 23"
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-26",
           "town_hall": 17,
-          "league": "P.E.K.K.A League 23"
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -13105,7 +14303,9 @@
         {
           "date": "2026-10-26",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 1,
+          "received": 123
         }
       ]
     },
@@ -13166,17 +14366,23 @@
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 60,
+          "received": 209
         },
         {
           "date": "2026-10-27",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 60,
+          "received": 209
         },
         {
           "date": "2026-10-26",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 30,
+          "received": 0
         }
       ]
     },
@@ -13268,27 +14474,37 @@
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 65,
+          "received": 400
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 65,
+          "received": 400
         },
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 30,
+          "received": 206
         },
         {
           "date": "2026-10-27",
           "town_hall": 12,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 30,
+          "received": 171
         },
         {
           "date": "2026-10-26",
           "town_hall": 12,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 30,
+          "received": 66
         }
       ]
     },
@@ -13401,27 +14617,37 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 151,
+          "received": 239
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 141,
+          "received": 239
         },
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 141,
+          "received": 239
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 108,
+          "received": 239
         },
         {
           "date": "2026-10-27",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 29,
+          "received": 188
         }
       ]
     },
@@ -13482,7 +14708,9 @@
         {
           "date": "2026-10-27",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -13558,27 +14786,37 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -13674,27 +14912,37 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -13770,12 +15018,16 @@
         {
           "date": "2026-10-28",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -13873,27 +15125,37 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 934,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 841,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 764,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 461,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 99,
+          "received": 0
         }
       ]
     },
@@ -13969,22 +15231,30 @@
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-27",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -14060,12 +15330,16 @@
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Wizard League 12"
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Wizard League 12"
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -14126,7 +15400,9 @@
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 2,
+          "received": 71
         }
       ]
     },
@@ -14217,17 +15493,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 77,
+          "received": 6
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 56,
+          "received": 2
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Archer League 9"
+          "league": "Archer League 9",
+          "donated": 16,
+          "received": 7
         }
       ]
     },
@@ -14326,17 +15608,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 1,
+          "received": 65
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 1,
+          "received": 65
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 42,
+          "received": 65
         }
       ]
     },
@@ -14418,22 +15706,30 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 38,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 1,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 1,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 1,
+          "received": 0
         }
       ]
     },
@@ -14562,22 +15858,30 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 122,
+          "received": 324
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 122,
+          "received": 324
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 96,
+          "received": 288
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 26,
+          "received": 246
         }
       ]
     },
@@ -14684,22 +15988,30 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 313,
+          "received": 42
         },
         {
           "date": "2026-10-30",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 137,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 90,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 30,
+          "received": 0
         }
       ]
     },
@@ -14781,17 +16093,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 55,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -14843,7 +16161,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -14889,22 +16207,30 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 5,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 2,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 2,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 1,
+          "received": 0
         }
       ]
     },
@@ -14956,7 +16282,7 @@
       "active": true,
       "town_hall": 10,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -14987,12 +16313,16 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-28",
           "town_hall": 10,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -15028,7 +16358,7 @@
       "active": true,
       "town_hall": 12,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -15059,22 +16389,30 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 7,
+          "received": 218
         },
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 7,
+          "received": 106
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 7,
+          "received": 74
         },
         {
           "date": "2026-10-28",
           "town_hall": 12,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 32
         }
       ]
     },
@@ -15173,17 +16511,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -15282,17 +16626,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -15390,17 +16740,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 43,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 43,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 31,
+          "received": 0
         }
       ]
     },
@@ -15467,12 +16823,16 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 9,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -15570,17 +16930,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 137,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 75,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 43,
+          "received": 0
         }
       ]
     },
@@ -15636,7 +17002,9 @@
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 35
         }
       ]
     },
@@ -15735,17 +17103,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 77,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 20,
+          "received": 67
         },
         {
           "date": "2026-10-29",
           "town_hall": 11,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 47
         }
       ]
     },
@@ -15844,17 +17218,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 10,
-          "league": "Archer League 7"
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -15936,17 +17316,23 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 4,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 34,
+          "received": 0
         },
         {
           "date": "2026-10-29",
           "town_hall": 12,
-          "league": "Archer League 8"
+          "league": "Archer League 8",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -16028,12 +17414,16 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -16100,12 +17490,16 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         },
         {
           "date": "2026-10-30",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -16172,7 +17566,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 35,
+          "received": 155
         }
       ]
     }

@@ -116,9 +116,11 @@ def main():
         players = [dict(r) for r in conn.execute('SELECT p.tag,p.name,p.active,p.first_seen,s.role FROM players p LEFT JOIN snapshots s ON s.tag=p.tag AND s.snapshot_date=(SELECT MAX(snapshot_date) FROM snapshots WHERE tag=p.tag)')]
         columns = {r[1] for r in conn.execute('PRAGMA table_info(snapshots)')}
         league = 'ranked_league_name' if 'ranked_league_name' in columns else 'NULL'
+        donated = 'donations' if 'donations' in columns else 'NULL'
+        received = 'donations_received' if 'donations_received' in columns else 'NULL'
         histories = defaultdict(list)
-        for r in conn.execute(f'SELECT tag,snapshot_date,town_hall,{league} AS league FROM snapshots ORDER BY snapshot_date DESC'):
-            histories[r['tag']].append(dict(date=r['snapshot_date'], town_hall=r['town_hall'], league=r['league']))
+        for r in conn.execute(f'SELECT tag,snapshot_date,town_hall,{league} AS league,{donated} AS donated,{received} AS received FROM snapshots ORDER BY snapshot_date DESC'):
+            histories[r['tag']].append(dict(date=r['snapshot_date'], town_hall=r['town_hall'], league=r['league'], donated=r['donated'], received=r['received']))
     payload = build_public(data, players, histories, args.clan_name)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(payload, ensure_ascii=False, indent=2)+'\n')

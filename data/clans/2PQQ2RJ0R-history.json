@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "31.10.2026, 19:02 МСК",
+  "generated": "31.10.2026, 19:15 МСК",
   "season": "2026-10",
   "players": [
     {
@@ -62,7 +62,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 18,
-          "league": "Dragon League 28"
+          "league": "Dragon League 28",
+          "donated": 2492,
+          "received": 55
         }
       ]
     },
@@ -140,7 +142,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 18,
-          "league": "Titan League 27"
+          "league": "Titan League 27",
+          "donated": 2271,
+          "received": 1577
         }
       ]
     },
@@ -202,7 +206,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 15,
-          "league": "Titan League 25"
+          "league": "Titan League 25",
+          "donated": 3742,
+          "received": 316
         }
       ]
     },
@@ -280,7 +286,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 16,
-          "league": "Golem League 21"
+          "league": "Golem League 21",
+          "donated": 240,
+          "received": 0
         }
       ]
     },
@@ -358,7 +366,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 15,
-          "league": "Witch League 18"
+          "league": "Witch League 18",
+          "donated": 1571,
+          "received": 165
         }
       ]
     },
@@ -436,7 +446,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 1729,
+          "received": 2712
         }
       ]
     },
@@ -498,7 +510,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Witch League 16"
+          "league": "Witch League 16",
+          "donated": 158,
+          "received": 553
         }
       ]
     },
@@ -591,7 +605,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Witch League 16"
+          "league": "Witch League 16",
+          "donated": 1832,
+          "received": 1370
         }
       ]
     },
@@ -653,7 +669,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Witch League 16"
+          "league": "Witch League 16",
+          "donated": 279,
+          "received": 122
         }
       ]
     },
@@ -763,7 +781,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Witch League 16"
+          "league": "Witch League 16",
+          "donated": 475,
+          "received": 684
         }
       ]
     },
@@ -873,7 +893,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 206,
+          "received": 248
         }
       ]
     },
@@ -935,7 +957,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 916,
+          "received": 0
         }
       ]
     },
@@ -1013,7 +1037,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Valkyrie League 15"
+          "league": "Valkyrie League 15",
+          "donated": 1183,
+          "received": 419
         }
       ]
     },
@@ -1099,7 +1125,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 2078,
+          "received": 781
         }
       ]
     },
@@ -1176,7 +1204,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Valkyrie League 14"
+          "league": "Valkyrie League 14",
+          "donated": 141,
+          "received": 545
         }
       ]
     },
@@ -1278,7 +1308,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Valkyrie League 13"
+          "league": "Valkyrie League 13",
+          "donated": 393,
+          "received": 112
         }
       ]
     },
@@ -1340,7 +1372,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 12"
+          "league": "Wizard League 12",
+          "donated": 794,
+          "received": 4265
         }
       ]
     },
@@ -1402,7 +1436,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 12"
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -1512,7 +1548,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -1589,7 +1627,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 132,
+          "received": 0
         }
       ]
     },
@@ -1667,7 +1707,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Wizard League 11"
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -1745,7 +1787,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 973,
+          "received": 4276
         }
       ]
     },
@@ -1855,7 +1899,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 550,
+          "received": 72
         }
       ]
     },
@@ -1941,7 +1987,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 201,
+          "received": 702
         }
       ]
     },
@@ -2027,7 +2075,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 12,
-          "league": "Wizard League 10"
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -2113,7 +2163,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 11,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 127,
+          "received": 1574
         }
       ]
     },
@@ -2191,7 +2243,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 10,
-          "league": "Barbarian League 6"
+          "league": "Barbarian League 6",
+          "donated": 700,
+          "received": 1209
         }
       ]
     },
@@ -2269,7 +2323,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Barbarian League 5"
+          "league": "Barbarian League 5",
+          "donated": 147,
+          "received": 335
         }
       ]
     },
@@ -2331,7 +2387,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 214
         }
       ]
     },
@@ -2409,7 +2467,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Barbarian League 4"
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -2471,7 +2531,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 9,
-          "league": "Skeleton League 3"
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 158
         }
       ]
     },
@@ -2533,7 +2595,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 216,
+          "received": 120
         }
       ]
     },
@@ -2595,7 +2659,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 8,
-          "league": "Skeleton League 2"
+          "league": "Skeleton League 2",
+          "donated": 126,
+          "received": 240
         }
       ]
     },
@@ -2673,7 +2739,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 7,
-          "league": "Skeleton League 1"
+          "league": "Skeleton League 1",
+          "donated": 0,
+          "received": 35
         }
       ]
     },
@@ -2735,7 +2803,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 16,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -2797,7 +2867,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 16,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 111,
+          "received": 113
         }
       ]
     },
@@ -2875,7 +2947,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 15,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 374,
+          "received": 467
         }
       ]
     },
@@ -2937,7 +3011,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -3015,7 +3091,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -3093,7 +3171,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 13,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
         }
       ]
     },
@@ -3155,7 +3235,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 15,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 506,
+          "received": 101
         }
       ]
     },
@@ -3217,7 +3299,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 15,
-          "league": "Witch League 17"
+          "league": "Witch League 17",
+          "donated": 618,
+          "received": 115
         }
       ]
     },
@@ -3279,7 +3363,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 17,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 839,
+          "received": 206
         }
       ]
     },
@@ -3341,7 +3427,9 @@
         {
           "date": "2026-10-31",
           "town_hall": 14,
-          "league": "Unranked"
+          "league": "Unranked",
+          "donated": 332,
+          "received": 764
         }
       ]
     }
