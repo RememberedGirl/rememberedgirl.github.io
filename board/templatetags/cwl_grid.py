@@ -19,7 +19,7 @@ def build_grid(players):
                 continue
             mirror = [a for a in member.get('attack_rows', []) if a.get('mirror') in (True, 1)]
             stars = max((a.get('stars') or 0 for a in mirror), default=0)
-            cells.append(dict(stars=stars, title=war['opponent'] + ' · ' + war['date_label'] + ' · ' + str(stars) + ' ★ по зеркалу'))
+            cells.append(dict(stars=stars, attacked=bool(mirror), title=war['opponent'] + ' · ' + war['date_label'] + ' · ' + (str(stars) + ' ★ по зеркалу' if mirror else 'Нет сохранённой атаки по зеркалу')))
         if any(c is not None for c in cells):
             rows.append(dict(player=p, cells=cells))
     return dict(rows=rows, wars=[dict(number=i+1, opponent=w['opponent'], date=w['date_label']) for i, (_, w) in enumerate(ordered)], month=month)
