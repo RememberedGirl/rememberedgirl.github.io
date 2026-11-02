@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "02.11.2026, 14:34 МСК",
+  "generated": "02.11.2026, 19:04 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -74,21 +74,6 @@
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
-          "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
-        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
@@ -159,7 +144,7 @@
       "army": {
         "weight": 6715,
         "with_potions": 7856,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(170,15,176)",
         "potion_color": "rgb(126,6,205)"
       },
@@ -169,7 +154,7 @@
       "active": true,
       "town_hall": 18,
       "league": 27,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -232,7 +217,7 @@
           "date": "2026-11-02",
           "town_hall": 18,
           "league": "Titan League 27",
-          "donated": 72,
+          "donated": 117,
           "received": 0
         },
         {
@@ -273,7 +258,7 @@
       "army": {
         "weight": 5002,
         "with_potions": 5347,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(236,27,132)",
         "potion_color": "rgb(222,25,141)"
       },
@@ -283,7 +268,7 @@
       "active": true,
       "town_hall": 15,
       "league": 24,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -334,11 +319,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 11,
+              "target_name": "~Cennet~",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
@@ -403,7 +398,7 @@
       "army": {
         "weight": 5236,
         "with_potions": 6405,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(227,26,138)",
         "potion_color": "rgb(182,17,168)"
       },
@@ -413,7 +408,7 @@
       "active": true,
       "town_hall": 16,
       "league": 21,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -543,7 +538,7 @@
       "army": {
         "weight": 4953,
         "with_potions": 5765,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(238,28,131)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -553,7 +548,7 @@
       "active": true,
       "town_hall": 15,
       "league": 18,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -604,11 +599,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 71.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "RIDVAN rtr",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
@@ -617,7 +622,7 @@
           "town_hall": 15,
           "league": "Witch League 18",
           "donated": 0,
-          "received": 0
+          "received": 2
         },
         {
           "date": "2026-11-01",
@@ -673,7 +678,7 @@
       "army": {
         "weight": 4060,
         "with_potions": 4458,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,60,137)",
         "potion_color": "rgb(255,34,121)"
       },
@@ -683,7 +688,7 @@
       "active": true,
       "town_hall": 14,
       "league": 18,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -756,8 +761,8 @@
           "date": "2026-11-02",
           "town_hall": 14,
           "league": "Witch League 18",
-          "donated": 0,
-          "received": 279
+          "donated": 65,
+          "received": 356
         },
         {
           "date": "2026-11-01",
@@ -797,7 +802,7 @@
       "army": {
         "weight": 4236,
         "with_potions": 4616,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,49,130)",
         "potion_color": "rgb(251,30,122)"
       },
@@ -807,7 +812,7 @@
       "active": true,
       "town_hall": 14,
       "league": 17,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -896,7 +901,7 @@
       "army": {
         "weight": 3423,
         "with_potions": 3926,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,103,163)",
         "potion_color": "rgb(255,69,142)"
       },
@@ -906,7 +911,7 @@
       "active": true,
       "town_hall": 13,
       "league": 17,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1023,9 +1028,9 @@
         "history": []
       },
       "army": {
-        "weight": 3722,
+        "weight": 3724,
         "with_potions": 3922,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,83,150)",
         "potion_color": "rgb(255,70,142)"
       },
@@ -1035,7 +1040,7 @@
       "active": true,
       "town_hall": 13,
       "league": 17,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1086,11 +1091,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "MicHalengeL0",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
@@ -1098,8 +1113,8 @@
           "date": "2026-11-02",
           "town_hall": 13,
           "league": "Witch League 17",
-          "donated": 125,
-          "received": 0
+          "donated": 226,
+          "received": 65
         },
         {
           "date": "2026-11-01",
@@ -1153,10 +1168,10 @@
         ]
       },
       "army": {
-        "weight": 3578,
+        "weight": 3603,
         "with_potions": 4476,
-        "updated": "2026-11-02 14:24",
-        "color": "rgb(255,92,156)",
+        "updated": "2026-11-02 19:04",
+        "color": "rgb(255,91,155)",
         "potion_color": "rgb(255,33,120)"
       },
       "role": "member",
@@ -1165,7 +1180,7 @@
       "active": true,
       "town_hall": 14,
       "league": 16,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1287,11 +1302,11 @@
         ]
       },
       "army": {
-        "weight": 3808,
-        "with_potions": 4366,
-        "updated": "2026-11-02 14:24",
-        "color": "rgb(255,77,147)",
-        "potion_color": "rgb(255,40,124)"
+        "weight": 3830,
+        "with_potions": 4388,
+        "updated": "2026-11-02 19:04",
+        "color": "rgb(255,76,146)",
+        "potion_color": "rgb(255,39,124)"
       },
       "role": "member",
       "slug": "75a1d687d2b228f0",
@@ -1299,7 +1314,7 @@
       "active": true,
       "town_hall": 14,
       "league": 16,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1461,11 +1476,11 @@
         ]
       },
       "army": {
-        "weight": 3533,
-        "with_potions": 3964,
-        "updated": "2026-11-02 14:24",
+        "weight": 3545,
+        "with_potions": 3976,
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,95,158)",
-        "potion_color": "rgb(255,67,141)"
+        "potion_color": "rgb(255,66,140)"
       },
       "role": "admin",
       "slug": "025674afef3a9bd8",
@@ -1473,7 +1488,7 @@
       "active": true,
       "town_hall": 13,
       "league": 14,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1524,11 +1539,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "Nuray",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
@@ -1593,7 +1618,7 @@
       "army": {
         "weight": 3170,
         "with_potions": 4146,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,120,173)",
         "potion_color": "rgb(255,55,133)"
       },
@@ -1603,7 +1628,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1676,7 +1701,7 @@
           "date": "2026-11-02",
           "town_hall": 14,
           "league": "Valkyrie League 15",
-          "donated": 0,
+          "donated": 46,
           "received": 0
         },
         {
@@ -1733,7 +1758,7 @@
       "army": {
         "weight": 3093,
         "with_potions": 3796,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,125,176)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -1743,7 +1768,7 @@
       "active": true,
       "town_hall": 13,
       "league": 15,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1870,10 +1895,10 @@
         "history": []
       },
       "army": {
-        "weight": 3827,
-        "with_potions": 4334,
-        "updated": "2026-11-02 14:24",
-        "color": "rgb(255,76,146)",
+        "weight": 3838,
+        "with_potions": 4340,
+        "updated": "2026-11-02 19:04",
+        "color": "rgb(255,75,146)",
         "potion_color": "rgb(255,42,126)"
       },
       "role": "member",
@@ -1882,7 +1907,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1933,11 +1958,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 11,
+              "target_name": "Dimorta",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -1961,7 +1996,7 @@
           "town_hall": 14,
           "league": "Valkyrie League 15",
           "donated": 0,
-          "received": 0
+          "received": 46
         },
         {
           "date": "2026-11-01",
@@ -2017,7 +2052,7 @@
       "army": {
         "weight": 2663,
         "with_potions": 3135,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,153,193)",
         "potion_color": "rgb(255,122,174)"
       },
@@ -2027,7 +2062,7 @@
       "active": true,
       "town_hall": 12,
       "league": 13,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2180,9 +2215,9 @@
         ]
       },
       "army": {
-        "weight": 3123,
+        "weight": 3125,
         "with_potions": 3658,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,123,175)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -2192,7 +2227,7 @@
       "active": true,
       "town_hall": 13,
       "league": 13,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2218,7 +2253,23 @@
           "success": 0
         }
       },
-      "wars": [],
+      "wars": [
+        {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        }
+      ],
       "development": [
         {
           "date": "2026-11-02",
@@ -2265,7 +2316,7 @@
       "army": {
         "weight": 3159,
         "with_potions": 4266,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,120,173)",
         "potion_color": "rgb(255,47,129)"
       },
@@ -2275,7 +2326,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2301,7 +2352,23 @@
           "success": 0
         }
       },
-      "wars": [],
+      "wars": [
+        {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        }
+      ],
       "development": [
         {
           "date": "2026-11-02",
@@ -2364,7 +2431,7 @@
       "army": {
         "weight": 1769,
         "with_potions": 2617,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,213,229)",
         "potion_color": "rgb(255,156,195)"
       },
@@ -2374,7 +2441,7 @@
       "active": true,
       "town_hall": 12,
       "league": 12,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2401,6 +2468,21 @@
         }
       },
       "wars": [
+        {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
@@ -2482,7 +2564,7 @@
       "army": {
         "weight": 3152,
         "with_potions": 3654,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,121,173)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -2492,7 +2574,7 @@
       "active": true,
       "town_hall": 13,
       "league": 12,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2519,21 +2601,6 @@
         }
       },
       "wars": [
-        {
-          "war_id": "5f2d9a832823223e",
-          "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
@@ -2627,7 +2694,7 @@
       "army": {
         "weight": 3431,
         "with_potions": 3798,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,102,162)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -2637,7 +2704,7 @@
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2767,7 +2834,7 @@
       "army": {
         "weight": 2110,
         "with_potions": 2450,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,190,216)",
         "potion_color": "rgb(255,167,202)"
       },
@@ -2777,7 +2844,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2907,7 +2974,7 @@
       "army": {
         "weight": 1842,
         "with_potions": 2408,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,208,226)",
         "potion_color": "rgb(255,170,204)"
       },
@@ -2917,7 +2984,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2968,11 +3035,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "TrabzonLu61",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -3055,7 +3132,7 @@
       "army": {
         "weight": 2920,
         "with_potions": 3063,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,136,183)",
         "potion_color": "rgb(255,127,177)"
       },
@@ -3065,7 +3142,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3092,21 +3169,6 @@
         }
       },
       "wars": [
-        {
-          "war_id": "5f2d9a832823223e",
-          "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
@@ -3194,7 +3256,7 @@
       "army": {
         "weight": 3175,
         "with_potions": 3175,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,119,173)"
       },
@@ -3204,7 +3266,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3301,10 +3363,10 @@
         "history": []
       },
       "army": {
-        "weight": 1958,
+        "weight": 1968,
         "with_potions": 2324,
-        "updated": "2026-11-02 14:24",
-        "color": "rgb(255,200,222)",
+        "updated": "2026-11-02 19:04",
+        "color": "rgb(255,199,221)",
         "potion_color": "rgb(255,176,207)"
       },
       "role": "member",
@@ -3313,7 +3375,7 @@
       "active": true,
       "town_hall": 11,
       "league": 7,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3372,7 +3434,7 @@
           "town_hall": 11,
           "league": "Archer League 7",
           "donated": 0,
-          "received": 132
+          "received": 199
         },
         {
           "date": "2026-11-01",
@@ -3514,7 +3576,7 @@
       "army": {
         "weight": 1346,
         "with_potions": 1720,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,241,246)",
         "potion_color": "rgb(255,216,231)"
       },
@@ -3524,7 +3586,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3613,7 +3675,7 @@
       "army": {
         "weight": 1110,
         "with_potions": 1318,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,243,247)"
       },
@@ -3623,7 +3685,7 @@
       "active": true,
       "town_hall": 9,
       "league": 5,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3712,7 +3774,7 @@
       "army": {
         "weight": 842,
         "with_potions": 1130,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -3722,7 +3784,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3795,7 +3857,7 @@
       "army": {
         "weight": 700,
         "with_potions": 1102,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -3805,7 +3867,7 @@
       "active": true,
       "town_hall": 9,
       "league": 3,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3892,9 +3954,9 @@
         ]
       },
       "army": {
-        "weight": 734,
+        "weight": 744,
         "with_potions": 776,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -3904,7 +3966,7 @@
       "active": true,
       "town_hall": 8,
       "league": 3,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3993,7 +4055,7 @@
       "army": {
         "weight": 520,
         "with_potions": 808,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4003,7 +4065,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4092,7 +4154,7 @@
       "army": {
         "weight": 498,
         "with_potions": 502,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4102,7 +4164,7 @@
       "active": true,
       "town_hall": 7,
       "league": 2,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4175,7 +4237,7 @@
       "army": {
         "weight": 5449,
         "with_potions": 6484,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(218,24,143)",
         "potion_color": "rgb(179,16,170)"
       },
@@ -4185,7 +4247,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4236,11 +4298,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 13,
+              "target_name": "Fatih1453",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
@@ -4287,9 +4359,9 @@
         "history": []
       },
       "army": {
-        "weight": 4381,
-        "with_potions": 6318,
-        "updated": "2026-11-02 14:24",
+        "weight": 4383,
+        "with_potions": 6320,
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,39,124)",
         "potion_color": "rgb(185,18,165)"
       },
@@ -4299,7 +4371,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4350,11 +4422,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 13,
+              "target_name": "apache",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
@@ -4419,7 +4501,7 @@
       "army": {
         "weight": 4510,
         "with_potions": 5283,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,31,119)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -4429,7 +4511,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4543,7 +4625,7 @@
       "army": {
         "weight": 4370,
         "with_potions": 4648,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,40,124)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -4553,7 +4635,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4604,11 +4686,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 11,
+              "target_name": "Yargıç Bey",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
@@ -4673,7 +4765,7 @@
       "army": {
         "weight": 3590,
         "with_potions": 4308,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,92,156)",
         "potion_color": "rgb(255,44,127)"
       },
@@ -4683,7 +4775,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4811,10 +4903,10 @@
         ]
       },
       "army": {
-        "weight": 3290,
+        "weight": 3292,
         "with_potions": 3766,
-        "updated": "2026-11-02 14:24",
-        "color": "rgb(255,112,168)",
+        "updated": "2026-11-02 19:04",
+        "color": "rgb(255,111,168)",
         "potion_color": "rgb(255,80,149)"
       },
       "role": "member",
@@ -4823,7 +4915,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4953,7 +5045,7 @@
       "army": {
         "weight": 4269,
         "with_potions": 5307,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,46,128)",
         "potion_color": "rgb(224,25,140)"
       },
@@ -4963,7 +5055,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5067,7 +5159,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -5077,7 +5169,7 @@
       "active": true,
       "town_hall": 15,
       "league": 17,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5128,11 +5220,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 12,
+              "target_name": "berk",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
@@ -5181,7 +5283,7 @@
       "army": {
         "weight": 4878,
         "with_potions": 6849,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(241,28,129)",
         "potion_color": "rgb(165,14,179)"
       },
@@ -5191,7 +5293,7 @@
       "active": true,
       "town_hall": 17,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5242,11 +5344,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 17,
+              "target_th": 14,
+              "target_name": "kuzgun",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
@@ -5293,10 +5405,10 @@
         "history": []
       },
       "army": {
-        "weight": 4539,
+        "weight": 4541,
         "with_potions": 4636,
-        "updated": "2026-11-02 14:24",
-        "color": "rgb(254,31,120)",
+        "updated": "2026-11-02 19:04",
+        "color": "rgb(253,31,120)",
         "potion_color": "rgb(250,30,122)"
       },
       "role": "admin",
@@ -5305,7 +5417,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5356,11 +5468,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 11,
+              "target_name": "ZEYOSKİ",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
@@ -5409,7 +5531,7 @@
       "army": {
         "weight": 4686,
         "with_potions": 6127,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(248,30,124)",
         "potion_color": "rgb(192,19,161)"
       },
@@ -5507,9 +5629,9 @@
         "history": []
       },
       "army": {
-        "weight": 1170,
+        "weight": 1180,
         "with_potions": 1332,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,252,253)",
         "potion_color": "rgb(255,242,247)"
       },
@@ -5578,7 +5700,7 @@
       "army": {
         "weight": 2414,
         "with_potions": 2884,
-        "updated": "2026-11-02 14:24",
+        "updated": "2026-11-02 19:04",
         "color": "rgb(255,170,203)",
         "potion_color": "rgb(255,139,184)"
       },
