@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "02.11.2026, 19:11 МСК",
+  "generated": "02.11.2026, 19:25 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -10234,7 +10234,7 @@
       "active": true,
       "town_hall": 12,
       "league": 9,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-19",
       "stats": {
         "CW": {
