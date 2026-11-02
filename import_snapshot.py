@@ -60,9 +60,9 @@ def build_public(data, all_players, histories, clan_name='Blushing snow'):
             mine = sorted(attacks[row['tag'], war['war_id']], key=lambda a: a['attack_order'])
             ended = war['state'] in ENDED
             allowed = member.get('attacks_allowed') or war.get('attacks_per_member') or 2
-            attack_rows = [dict(stars=a['stars'], destruction=a['destruction'], own_th=a['attacker_th'], target_th=a['defender_th'], target_name=a['defender_name'], contribution=a['clan_stars']) for a in mine]
+            attack_rows = [dict(stars=a['stars'], destruction=a['destruction'], own_th=a['attacker_th'], target_th=a['defender_th'], target_name=a['defender_name'], contribution=a['clan_stars'], mirror=a.get('mirror')) for a in mine]
             date = war.get('end_time') or ''
-            history.append(dict(kind=war['kind'], end=date, month=date[:7], date_label=date[:10], opponent=war['opponent'], state=war['state'], ended=ended, attacks=len(mine), allowed=allowed, stars=sum(a['stars'] or 0 for a in mine), clan_stars=sum(a['clan_stars'] for a in mine), attack_rows=attack_rows))
+            history.append(dict(war_id=hashlib.sha256(war['war_id'].encode()).hexdigest()[:16], kind=war['kind'], end=date, month=date[:7], date_label=date[:10], opponent=war['opponent'], state=war['state'], ended=ended, attacks=len(mine), allowed=allowed, stars=sum(a['stars'] or 0 for a in mine), clan_stars=sum(a['clan_stars'] for a in mine), attack_rows=attack_rows))
         history.sort(key=lambda w: w['end'], reverse=True)
         stats = {}
         for kind in ('CW', 'CWL'):

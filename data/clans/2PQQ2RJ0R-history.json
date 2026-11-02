@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "02.11.2026, 14:24 МСК",
+  "generated": "02.11.2026, 14:34 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -74,6 +74,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -88,6 +89,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -195,6 +197,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -209,6 +212,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -307,6 +311,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -321,6 +326,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -435,6 +441,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -449,6 +456,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -467,7 +475,8 @@
               "own_th": 16,
               "target_th": 12,
               "target_name": "hsyn_murat",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 1
             }
           ]
         }
@@ -572,6 +581,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -586,6 +596,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -700,6 +711,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -714,6 +726,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -732,7 +745,8 @@
               "own_th": 14,
               "target_th": 11,
               "target_name": "SAMET",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         }
@@ -920,6 +934,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -934,6 +949,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -948,6 +964,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -1046,6 +1063,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -1060,6 +1078,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -1174,6 +1193,7 @@
       },
       "wars": [
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -1192,7 +1212,8 @@
               "own_th": 14,
               "target_th": 14,
               "target_name": "Tachyon",
-              "contribution": 1
+              "contribution": 1,
+              "mirror": 1
             },
             {
               "stars": 1,
@@ -1200,7 +1221,8 @@
               "own_th": 14,
               "target_th": 14,
               "target_name": "grumio",
-              "contribution": 1
+              "contribution": 1,
+              "mirror": 0
             }
           ]
         }
@@ -1305,6 +1327,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -1319,6 +1342,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -1337,11 +1361,13 @@
               "own_th": 14,
               "target_th": 11,
               "target_name": "kaan",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -1360,7 +1386,8 @@
               "own_th": 14,
               "target_th": 15,
               "target_name": "Awesome Andre",
-              "contribution": 2
+              "contribution": 2,
+              "mirror": 1
             },
             {
               "stars": 3,
@@ -1368,7 +1395,8 @@
               "own_th": 14,
               "target_th": 14,
               "target_name": "grumio",
-              "contribution": 2
+              "contribution": 2,
+              "mirror": 0
             }
           ]
         }
@@ -1473,6 +1501,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -1487,6 +1516,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -1601,6 +1631,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -1615,6 +1646,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -1622,11 +1654,21 @@
           "opponent": "ışıldaak",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 11,
+              "target_name": "asoka66",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
@@ -1729,6 +1771,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -1743,6 +1786,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -1757,6 +1801,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -1775,7 +1820,8 @@
               "own_th": 13,
               "target_th": 13,
               "target_name": "juanmaca",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 1
             }
           ]
         }
@@ -1864,6 +1910,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -1878,6 +1925,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -1892,6 +1940,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -2006,6 +2055,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -2020,6 +2070,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -2038,11 +2089,13 @@
               "own_th": 12,
               "target_th": 11,
               "target_name": "kral",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -2061,7 +2114,8 @@
               "own_th": 12,
               "target_th": 12,
               "target_name": "sigmapork",
-              "contribution": 2
+              "contribution": 2,
+              "mirror": 1
             }
           ]
         }
@@ -2348,6 +2402,7 @@
       },
       "wars": [
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -2366,7 +2421,8 @@
               "own_th": 12,
               "target_th": 12,
               "target_name": "ishaan",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 1
             },
             {
               "stars": 3,
@@ -2374,7 +2430,8 @@
               "own_th": 12,
               "target_th": 12,
               "target_name": "sigmapork",
-              "contribution": 1
+              "contribution": 1,
+              "mirror": 0
             }
           ]
         }
@@ -2463,6 +2520,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -2477,6 +2535,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -2491,6 +2550,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -2605,6 +2665,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -2619,6 +2680,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -2637,7 +2699,8 @@
               "own_th": 13,
               "target_th": 11,
               "target_name": "SPEDDY",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         }
@@ -2742,6 +2805,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -2756,6 +2820,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -2774,7 +2839,8 @@
               "own_th": 11,
               "target_th": 11,
               "target_name": "BİLALİN KURDU",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         }
@@ -2879,6 +2945,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -2893,6 +2960,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -2907,6 +2975,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -2925,7 +2994,8 @@
               "own_th": 11,
               "target_th": 11,
               "target_name": "TommyTomTom",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 1
             },
             {
               "stars": 3,
@@ -2933,7 +3003,8 @@
               "own_th": 11,
               "target_th": 12,
               "target_name": "DAKOTA",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         }
@@ -3022,6 +3093,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -3036,6 +3108,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -3050,6 +3123,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -3068,7 +3142,8 @@
               "own_th": 12,
               "target_th": 13,
               "target_name": "yayaland",
-              "contribution": 2
+              "contribution": 2,
+              "mirror": 0
             }
           ]
         }
@@ -3157,6 +3232,7 @@
       },
       "wars": [
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -3175,7 +3251,8 @@
               "own_th": 12,
               "target_th": 13,
               "target_name": "tinydaddy",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 1
             }
           ]
         }
@@ -3264,6 +3341,7 @@
       },
       "wars": [
         {
+          "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
           "month": "2026-10",
@@ -3282,7 +3360,8 @@
               "own_th": 11,
               "target_th": 12,
               "target_name": "cocmaster7",
-              "contribution": 2
+              "contribution": 2,
+              "mirror": 0
             }
           ]
         }
@@ -4134,6 +4213,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4148,6 +4228,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -4246,6 +4327,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4260,6 +4342,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -4374,6 +4457,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4388,6 +4472,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -4406,7 +4491,8 @@
               "own_th": 15,
               "target_th": 12,
               "target_name": "UÇAN TEKME",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 1
             }
           ]
         }
@@ -4495,6 +4581,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4509,6 +4596,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -4623,6 +4711,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4637,6 +4726,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -4655,7 +4745,8 @@
               "own_th": 14,
               "target_th": 11,
               "target_name": "mami",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         }
@@ -4760,6 +4851,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4774,6 +4866,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -4792,7 +4885,8 @@
               "own_th": 13,
               "target_th": 11,
               "target_name": "Vortex",
-              "contribution": 3
+              "contribution": 3,
+              "mirror": 0
             }
           ]
         }
@@ -4897,6 +4991,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -4911,6 +5006,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -5009,6 +5105,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -5023,6 +5120,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -5121,6 +5219,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -5135,6 +5234,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -5233,6 +5333,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -5247,6 +5348,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
@@ -5345,6 +5447,7 @@
       },
       "wars": [
         {
+          "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T13:41:23+03:00",
           "month": "2026-11",
@@ -5359,6 +5462,7 @@
           "attack_rows": []
         },
         {
+          "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
