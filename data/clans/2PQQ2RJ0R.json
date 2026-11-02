@@ -4,18 +4,8 @@
   "level": 8,
   "description": "Новичок? Старичок? Неважно, если ищешь клан то заходи к нам, гарантирую постоянные клановые войны, активные жертвы. Мат в меру. Клановые войны 1 - зеркало, 2 - добив после 12 часов. Зашел в клан - представился. Играем в свое удовольствие.",
   "war_league": "Gold League II",
-  "generated": "01.11.2026, 12:53 МСК",
+  "generated": "02.11.2026, 14:24 МСК",
   "players": [
-    {
-      "name": "GHOST",
-      "town_hall": 18,
-      "league": 28,
-      "league_name": "Dragon League 28",
-      "role": "member",
-      "trophies": 131,
-      "donations": 2677,
-      "received": 55
-    },
     {
       "name": "█■ONE SOUL■█",
       "town_hall": 18,
@@ -23,8 +13,8 @@
       "league_name": "Titan League 27",
       "role": "member",
       "trophies": 0,
-      "donations": 2357,
-      "received": 1577
+      "donations": 72,
+      "received": 0
     },
     {
       "name": "ᴍʀܔＹＡＵＪＩ`",
@@ -33,8 +23,18 @@
       "league_name": "Unranked",
       "role": "admin",
       "trophies": 0,
-      "donations": 839,
-      "received": 206
+      "donations": 0,
+      "received": 0
+    },
+    {
+      "name": "SDvioret",
+      "town_hall": 16,
+      "league": 24,
+      "league_name": "P.E.K.K.A League 24",
+      "role": "member",
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "sergey",
@@ -43,7 +43,7 @@
       "league_name": "Golem League 21",
       "role": "admin",
       "trophies": 0,
-      "donations": 338,
+      "donations": 168,
       "received": 0
     },
     {
@@ -53,8 +53,8 @@
       "league_name": "Unranked",
       "role": "admin",
       "trophies": 0,
-      "donations": 111,
-      "received": 113
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "『BS』ＥＬＥＧＡＮＴＩＫ`",
@@ -69,12 +69,12 @@
     {
       "name": "Kord",
       "town_hall": 15,
-      "league": 25,
-      "league_name": "Titan League 25",
+      "league": 24,
+      "league_name": "P.E.K.K.A League 24",
       "role": "coLeader",
-      "trophies": 204,
-      "donations": 3742,
-      "received": 316
+      "trophies": 0,
+      "donations": 75,
+      "received": 0
     },
     {
       "name": "☆МеХаНиК☆",
@@ -83,8 +83,8 @@
       "league_name": "Witch League 18",
       "role": "admin",
       "trophies": 0,
-      "donations": 1571,
-      "received": 165
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "Na -ｋｕｒａｚｈｅ♥️",
@@ -93,8 +93,8 @@
       "league_name": "Unranked",
       "role": "coLeader",
       "trophies": 0,
-      "donations": 618,
-      "received": 115
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "vouse.9slvm",
@@ -103,8 +103,8 @@
       "league_name": "Unranked",
       "role": "member",
       "trophies": 0,
-      "donations": 506,
-      "received": 101
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "КРАКЕН",
@@ -113,28 +113,38 @@
       "league_name": "Unranked",
       "role": "admin",
       "trophies": 0,
-      "donations": 414,
-      "received": 467
+      "donations": 45,
+      "received": 0
     },
     {
       "name": "☆ Ex3eM ☆",
       "town_hall": 14,
-      "league": 17,
-      "league_name": "Witch League 17",
+      "league": 18,
+      "league_name": "Witch League 18",
       "role": "member",
-      "trophies": 376,
-      "donations": 1729,
-      "received": 2790
+      "trophies": 0,
+      "donations": 0,
+      "received": 279
     },
     {
       "name": "MONSTER TJK",
       "town_hall": 14,
+      "league": 17,
+      "league_name": "Witch League 17",
+      "role": "member",
+      "trophies": 0,
+      "donations": 0,
+      "received": 78
+    },
+    {
+      "name": "WinRar",
+      "town_hall": 14,
       "league": 16,
       "league_name": "Witch League 16",
       "role": "member",
-      "trophies": 389,
-      "donations": 205,
-      "received": 631
+      "trophies": 0,
+      "donations": 73,
+      "received": 93
     },
     {
       "name": "Джони-Рубироид",
@@ -143,8 +153,8 @@
       "league_name": "Witch League 16",
       "role": "member",
       "trophies": 0,
-      "donations": 475,
-      "received": 684
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "pelmen57ì",
@@ -153,28 +163,28 @@
       "league_name": "Valkyrie League 15",
       "role": "member",
       "trophies": 0,
-      "donations": 1183,
-      "received": 419
-    },
-    {
-      "name": "WinRar",
-      "town_hall": 14,
-      "league": 15,
-      "league_name": "Valkyrie League 15",
-      "role": "member",
-      "trophies": 330,
-      "donations": 234,
-      "received": 248
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "xfazen-",
       "town_hall": 14,
+      "league": 15,
+      "league_name": "Valkyrie League 15",
+      "role": "member",
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
+    },
+    {
+      "name": "beka",
+      "town_hall": 14,
       "league": 14,
       "league_name": "Valkyrie League 14",
       "role": "member",
-      "trophies": 217,
-      "donations": 153,
-      "received": 717
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "weak.",
@@ -203,67 +213,67 @@
       "league_name": "Unranked",
       "role": "admin",
       "trophies": 0,
-      "donations": 332,
-      "received": 764
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "Алтын",
       "town_hall": 13,
-      "league": 16,
-      "league_name": "Witch League 16",
+      "league": 17,
+      "league_name": "Witch League 17",
       "role": "admin",
-      "trophies": 391,
-      "donations": 2055,
-      "received": 1565
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "Рузаль",
       "town_hall": 13,
-      "league": 16,
-      "league_name": "Witch League 16",
+      "league": 17,
+      "league_name": "Witch League 17",
       "role": "leader",
-      "trophies": 53,
-      "donations": 353,
-      "received": 122
-    },
-    {
-      "name": "vairysha",
-      "town_hall": 13,
-      "league": 15,
-      "league_name": "Valkyrie League 15",
-      "role": "admin",
-      "trophies": 77,
-      "donations": 918,
+      "trophies": 0,
+      "donations": 125,
       "received": 0
     },
     {
       "name": "Мин Татар Малае",
       "town_hall": 13,
+      "league": 15,
+      "league_name": "Valkyrie League 15",
+      "role": "coLeader",
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
+    },
+    {
+      "name": "vairysha",
+      "town_hall": 13,
       "league": 14,
       "league_name": "Valkyrie League 14",
-      "role": "coLeader",
-      "trophies": 312,
-      "donations": 2078,
-      "received": 781
+      "role": "admin",
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "Никита рус",
       "town_hall": 13,
-      "league": 12,
-      "league_name": "Wizard League 12",
+      "league": 13,
+      "league_name": "Valkyrie League 13",
       "role": "member",
-      "trophies": 331,
-      "donations": 808,
-      "received": 4432
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "Z€d",
       "town_hall": 13,
-      "league": 11,
-      "league_name": "Wizard League 11",
+      "league": 12,
+      "league_name": "Wizard League 12",
       "role": "member",
-      "trophies": 129,
-      "donations": 132,
+      "trophies": 0,
+      "donations": 0,
       "received": 0
     },
     {
@@ -272,7 +282,7 @@
       "league": 11,
       "league_name": "Wizard League 11",
       "role": "member",
-      "trophies": 96,
+      "trophies": 0,
       "donations": 0,
       "received": 0
     },
@@ -292,17 +302,17 @@
       "league": 13,
       "league_name": "Valkyrie League 13",
       "role": "member",
-      "trophies": 176,
-      "donations": 393,
-      "received": 112
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "Qwerty",
       "town_hall": 12,
-      "league": 11,
-      "league_name": "Wizard League 11",
+      "league": 12,
+      "league_name": "Wizard League 12",
       "role": "member",
-      "trophies": 241,
+      "trophies": 0,
       "donations": 0,
       "received": 0
     },
@@ -312,9 +322,9 @@
       "league": 10,
       "league_name": "Wizard League 10",
       "role": "admin",
-      "trophies": 124,
-      "donations": 201,
-      "received": 702
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "♂️ S E K A ♂️",
@@ -327,14 +337,24 @@
       "received": 0
     },
     {
+      "name": "ААА",
+      "town_hall": 12,
+      "league": 0,
+      "league_name": "Unranked",
+      "role": "member",
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
+    },
+    {
       "name": "qqyuoqq",
       "town_hall": 11,
       "league": 10,
       "league_name": "Wizard League 10",
       "role": "admin",
-      "trophies": 137,
-      "donations": 550,
-      "received": 72
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "youko",
@@ -342,49 +362,39 @@
       "league": 10,
       "league_name": "Wizard League 10",
       "role": "coLeader",
-      "trophies": 280,
-      "donations": 976,
-      "received": 4276
+      "trophies": 0,
+      "donations": 50,
+      "received": 0
     },
     {
       "name": "Hyper_Beast",
       "town_hall": 11,
-      "league": 6,
-      "league_name": "Barbarian League 6",
+      "league": 7,
+      "league_name": "Archer League 7",
       "role": "member",
-      "trophies": 330,
-      "donations": 127,
-      "received": 1641
+      "trophies": 0,
+      "donations": 0,
+      "received": 132
     },
     {
-      "name": "Токсикоз",
+      "name": "DRAMA",
       "town_hall": 10,
       "league": 6,
       "league_name": "Barbarian League 6",
       "role": "member",
-      "trophies": 128,
-      "donations": 700,
-      "received": 1209
-    },
-    {
-      "name": "DRAMA",
-      "town_hall": 9,
-      "league": 5,
-      "league_name": "Barbarian League 5",
-      "role": "member",
-      "trophies": 222,
-      "donations": 154,
-      "received": 366
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "gilvy28",
       "town_hall": 9,
-      "league": 4,
-      "league_name": "Barbarian League 4",
+      "league": 5,
+      "league_name": "Barbarian League 5",
       "role": "admin",
-      "trophies": 247,
+      "trophies": 0,
       "donations": 0,
-      "received": 248
+      "received": 0
     },
     {
       "name": "hezzzz102",
@@ -392,7 +402,17 @@
       "league": 4,
       "league_name": "Barbarian League 4",
       "role": "admin",
-      "trophies": 162,
+      "trophies": 0,
+      "donations": 0,
+      "received": 0
+    },
+    {
+      "name": "maboss",
+      "town_hall": 9,
+      "league": 4,
+      "league_name": "Barbarian League 4",
+      "role": "member",
+      "trophies": 0,
       "donations": 0,
       "received": 0
     },
@@ -404,37 +424,37 @@
       "role": "member",
       "trophies": 0,
       "donations": 0,
-      "received": 158
+      "received": 31
+    },
+    {
+      "name": "vouse.7ert",
+      "town_hall": 8,
+      "league": 3,
+      "league_name": "Skeleton League 3",
+      "role": "member",
+      "trophies": 0,
+      "donations": 31,
+      "received": 26
     },
     {
       "name": "miniPelmen",
       "town_hall": 8,
       "league": 2,
       "league_name": "Skeleton League 2",
-      "role": "member",
+      "role": "admin",
       "trophies": 0,
-      "donations": 126,
-      "received": 240
-    },
-    {
-      "name": "vouse.7ert",
-      "town_hall": 8,
-      "league": 2,
-      "league_name": "Skeleton League 2",
-      "role": "member",
-      "trophies": 338,
-      "donations": 219,
-      "received": 120
+      "donations": 0,
+      "received": 0
     },
     {
       "name": "arslan",
       "town_hall": 7,
-      "league": 1,
-      "league_name": "Skeleton League 1",
+      "league": 2,
+      "league_name": "Skeleton League 2",
       "role": "member",
-      "trophies": 254,
+      "trophies": 0,
       "donations": 0,
-      "received": 35
+      "received": 0
     }
   ]
 }
