@@ -8,6 +8,13 @@ def cwl_opponents(clan,asset_root=''):
     path=settings.BASE_DIR/'data/clans'/f'{clan}-opponents.json'
     if not path.is_file():return dict(opponents=None)
     data=json.loads(path.read_text())
+    maximum=max((c.get('total_stars') or 0 for c in data['columns']),default=0)
+    for column in data['columns']:
+        column['strength']=sum(m.get('th') or 0 for m in column['members'])
+    for column in data['columns']:
+        column['strength_rank']=1+sum(c['strength']>column['strength'] for c in data['columns'])
+        column['star_maximum']=maximum
+        column['star_percent']=round(100*(column.get('total_stars') or 0)/maximum,2) if maximum else 0
     rows=[]
     for index in range(30):
         cells=[]

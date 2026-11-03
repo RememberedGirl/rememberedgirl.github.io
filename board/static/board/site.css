@@ -26,3 +26,6 @@ nav{flex-wrap:wrap}
 .public-opponents-grid th,.masters .public-opponents-grid th{overflow:hidden;overflow-wrap:anywhere}
 
 .public-opponents-grid th:first-child,.public-opponents-grid td:first-child,.masters .public-opponents-grid th:first-child,.masters .public-opponents-grid td:first-child{border-right:2px solid #8798b0}
+
+.clan-strength{display:block;margin:4px 0 3px;font-size:10px;line-height:13px;color:#dce3ee;font-weight:600}.clan-strength small{display:block!important;font-size:8px!important;font-weight:400;color:#9daac0}.clan-star-histogram{margin:3px 6px 0}.clan-total-stars{display:block;font-size:12px;line-height:15px;font-weight:700;color:#e7c97e}.clan-star-track{height:6px;width:100%;background:#ffffff12;border-radius:2px;overflow:hidden}.clan-star-track i{display:block;height:100%;background:#b4965f;border-radius:2px}.clan-star-axis{display:flex;justify-content:space-between;font-size:7px;line-height:10px;font-weight:400;color:#99a4b6}@media(max-width:600px){.clan-strength{font-size:8px;line-height:10px}.clan-strength small{font-size:7px!important}.clan-total-stars{font-size:10px;line-height:12px}.clan-star-histogram{margin-left:3px;margin-right:3px}.clan-star-track{height:5px}}
+.public-opponents-grid th,.masters .public-opponents-grid th{height:124px}
