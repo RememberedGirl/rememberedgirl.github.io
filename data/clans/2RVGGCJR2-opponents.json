@@ -1,11 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-03T23:29:06+03:00",
+  "collected_at": "2026-11-03T23:31:00+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Blushing snow",
+      "total_stars": 46,
       "played": false,
       "state": "roster",
       "members": [
@@ -134,6 +135,7 @@
     {
       "day": 1,
       "name": "SILENT SPADES",
+      "total_stars": 72,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -262,6 +264,7 @@
     {
       "day": 2,
       "name": "smushed up",
+      "total_stars": 35,
       "played": true,
       "state": "inWar",
       "members": [
@@ -390,6 +393,7 @@
     {
       "day": 3,
       "name": "Board of Pieces",
+      "total_stars": 110,
       "played": false,
       "state": "preparation",
       "members": [
@@ -518,6 +522,7 @@
     {
       "day": null,
       "name": "Atap",
+      "total_stars": 115,
       "played": false,
       "state": "unknown",
       "members": [
@@ -646,6 +651,7 @@
     {
       "day": null,
       "name": "Alison Angel",
+      "total_stars": 66,
       "played": false,
       "state": "unknown",
       "members": [
@@ -774,6 +780,7 @@
     {
       "day": null,
       "name": "MABAIT CLAN",
+      "total_stars": 67,
       "played": false,
       "state": "unknown",
       "members": [
@@ -902,6 +909,7 @@
     {
       "day": null,
       "name": "BETHEL3226",
+      "total_stars": 50,
       "played": false,
       "state": "unknown",
       "members": [

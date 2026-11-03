@@ -1,11 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-03T23:29:06+03:00",
+  "collected_at": "2026-11-03T23:31:01+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Masters of War",
+      "total_stars": 173,
       "played": false,
       "state": "roster",
       "members": [
@@ -134,6 +135,7 @@
     {
       "day": 1,
       "name": "ışıldaak",
+      "total_stars": 44,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -262,6 +264,7 @@
     {
       "day": 2,
       "name": "ACB CLASHER",
+      "total_stars": 103,
       "played": true,
       "state": "inWar",
       "members": [
@@ -390,6 +393,7 @@
     {
       "day": 3,
       "name": "transformer",
+      "total_stars": 41,
       "played": false,
       "state": "preparation",
       "members": [
@@ -518,6 +522,7 @@
     {
       "day": null,
       "name": "Gió Lạnh ĐầuMùa",
+      "total_stars": 45,
       "played": false,
       "state": "unknown",
       "members": [
@@ -646,6 +651,7 @@
     {
       "day": null,
       "name": "The Brutes",
+      "total_stars": 116,
       "played": false,
       "state": "unknown",
       "members": [
@@ -774,6 +780,7 @@
     {
       "day": null,
       "name": "ogi to barru",
+      "total_stars": 77,
       "played": false,
       "state": "unknown",
       "members": [
@@ -902,6 +909,7 @@
     {
       "day": null,
       "name": "my friends",
+      "total_stars": 52,
       "played": false,
       "state": "unknown",
       "members": [
