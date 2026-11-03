@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "02.11.2026, 19:25 МСК",
+  "generated": "03.11.2026, 23:10 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -61,9 +61,9 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
+          "wars": 1,
           "attended": 0,
-          "missed": 0,
+          "missed": 1,
           "attacks": 0,
           "stars": 0,
           "clan_stars": 0,
@@ -80,8 +80,8 @@
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 0,
           "allowed": 1,
           "stars": 0,
@@ -142,10 +142,10 @@
         ]
       },
       "army": {
-        "weight": 6715,
-        "with_potions": 7856,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(170,15,176)",
+        "weight": 6732,
+        "with_potions": 7858,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(169,15,176)",
         "potion_color": "rgb(126,6,205)"
       },
       "role": "member",
@@ -154,7 +154,7 @@
       "active": true,
       "town_hall": 18,
       "league": 27,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -169,25 +169,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -197,22 +197,64 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 76.0,
+              "own_th": 18,
+              "target_th": 18,
+              "target_name": "DAKU DRAGON",
+              "contribution": 2,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 18,
+              "target_th": 17,
+              "target_name": "KaaN",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 18,
+          "league": "Titan League 27",
+          "donated": 241,
+          "received": 4
+        },
         {
           "date": "2026-11-02",
           "town_hall": 18,
@@ -256,11 +298,11 @@
         "history": []
       },
       "army": {
-        "weight": 5002,
-        "with_potions": 5347,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(236,27,132)",
-        "potion_color": "rgb(222,25,141)"
+        "weight": 5026,
+        "with_potions": 5407,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(235,27,132)",
+        "potion_color": "rgb(220,24,142)"
       },
       "role": "coLeader",
       "slug": "0b1a1070fa8ba44e",
@@ -268,7 +310,7 @@
       "active": true,
       "town_hall": 15,
       "league": 24,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -283,25 +325,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -311,14 +353,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "Rowel 2.",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -337,6 +404,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 15,
+          "league": "P.E.K.K.A League 24",
+          "donated": 396,
+          "received": 107
+        },
         {
           "date": "2026-11-02",
           "town_hall": 15,
@@ -396,10 +470,10 @@
         ]
       },
       "army": {
-        "weight": 5236,
+        "weight": 5243,
         "with_potions": 6405,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(227,26,138)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(226,26,138)",
         "potion_color": "rgb(182,17,168)"
       },
       "role": "admin",
@@ -408,7 +482,7 @@
       "active": true,
       "town_hall": 16,
       "league": 21,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -423,25 +497,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -451,14 +525,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 89.0,
+              "own_th": 16,
+              "target_th": 17,
+              "target_name": "SINGH",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -477,6 +576,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 16,
+          "league": "Golem League 21",
+          "donated": 202,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 16,
@@ -536,10 +642,10 @@
         ]
       },
       "army": {
-        "weight": 4953,
+        "weight": 4962,
         "with_potions": 5765,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(238,28,131)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(237,28,131)",
         "potion_color": "rgb(206,22,151)"
       },
       "role": "admin",
@@ -548,7 +654,7 @@
       "active": true,
       "town_hall": 15,
       "league": 18,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -563,25 +669,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "average": 2.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -591,14 +697,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "Assasin",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -617,6 +748,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 15,
+          "league": "Witch League 18",
+          "donated": 135,
+          "received": 2
+        },
         {
           "date": "2026-11-02",
           "town_hall": 15,
@@ -676,10 +814,10 @@
         ]
       },
       "army": {
-        "weight": 4060,
-        "with_potions": 4458,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,60,137)",
+        "weight": 4069,
+        "with_potions": 4460,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,60,136)",
         "potion_color": "rgb(255,34,121)"
       },
       "role": "member",
@@ -688,7 +826,7 @@
       "active": true,
       "town_hall": 14,
       "league": 18,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -703,25 +841,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -731,14 +869,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "Rowel3",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -757,6 +920,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Witch League 18",
+          "donated": 789,
+          "received": 847
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -800,10 +970,10 @@
         "history": []
       },
       "army": {
-        "weight": 4236,
+        "weight": 4254,
         "with_potions": 4616,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,49,130)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,47,129)",
         "potion_color": "rgb(251,30,122)"
       },
       "role": "member",
@@ -812,7 +982,7 @@
       "active": true,
       "town_hall": 14,
       "league": 17,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -838,8 +1008,31 @@
           "success": 0
         }
       },
-      "wars": [],
+      "wars": [
+        {
+          "war_id": "d2d3b477beb72b50",
+          "kind": "CWL",
+          "end": "2026-11-05T13:42:11+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        }
+      ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 0,
+          "received": 78
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -899,10 +1092,10 @@
         ]
       },
       "army": {
-        "weight": 3423,
+        "weight": 3439,
         "with_potions": 3926,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,103,163)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,102,162)",
         "potion_color": "rgb(255,69,142)"
       },
       "role": "admin",
@@ -911,7 +1104,7 @@
       "active": true,
       "town_hall": 13,
       "league": 17,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -926,25 +1119,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -954,19 +1147,54 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 12,
+              "target_name": "Gandorff",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "oguzlu48",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -985,6 +1213,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Witch League 17",
+          "donated": 70,
+          "received": 4
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -1028,19 +1263,19 @@
         "history": []
       },
       "army": {
-        "weight": 3724,
-        "with_potions": 3922,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,83,150)",
-        "potion_color": "rgb(255,70,142)"
+        "weight": 3750,
+        "with_potions": 4298,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,81,149)",
+        "potion_color": "rgb(255,45,127)"
       },
       "role": "leader",
       "slug": "726fa45909a1d11d",
       "name": "Рузаль",
       "active": true,
-      "town_hall": 13,
+      "town_hall": 14,
       "league": 17,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1055,25 +1290,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1083,14 +1318,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "you can beat me",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1109,6 +1369,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 599,
+          "received": 378
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -1170,7 +1437,7 @@
       "army": {
         "weight": 3603,
         "with_potions": 4476,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,91,155)",
         "potion_color": "rgb(255,33,120)"
       },
@@ -1180,7 +1447,7 @@
       "active": true,
       "town_hall": 14,
       "league": 16,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1244,6 +1511,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Witch League 16",
+          "donated": 30,
+          "received": 0
+        },
+        {
           "date": "2026-11-02",
           "town_hall": 14,
           "league": "Witch League 16",
@@ -1302,19 +1576,19 @@
         ]
       },
       "army": {
-        "weight": 3830,
-        "with_potions": 4388,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,76,146)",
-        "potion_color": "rgb(255,39,124)"
+        "weight": 3900,
+        "with_potions": 4873,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,71,143)",
+        "potion_color": "rgb(241,28,128)"
       },
       "role": "member",
       "slug": "75a1d687d2b228f0",
       "name": "WinRar",
       "active": true,
-      "town_hall": 14,
+      "town_hall": 15,
       "league": 16,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1329,25 +1603,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1357,14 +1631,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 12,
+              "target_name": "ACE0069",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1417,6 +1716,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 15,
+          "league": "Witch League 16",
+          "donated": 537,
+          "received": 647
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -1476,10 +1782,10 @@
         ]
       },
       "army": {
-        "weight": 3545,
+        "weight": 3582,
         "with_potions": 3976,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,95,158)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,92,156)",
         "potion_color": "rgb(255,66,140)"
       },
       "role": "admin",
@@ -1488,7 +1794,7 @@
       "active": true,
       "town_hall": 13,
       "league": 14,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1503,25 +1809,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1531,14 +1837,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "♤KHAN G♤",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1557,6 +1888,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Valkyrie League 14",
+          "donated": 113,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -1616,11 +1954,11 @@
         ]
       },
       "army": {
-        "weight": 3170,
-        "with_potions": 4146,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,120,173)",
-        "potion_color": "rgb(255,55,133)"
+        "weight": 3175,
+        "with_potions": 4196,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,119,173)",
+        "potion_color": "rgb(255,51,131)"
       },
       "role": "member",
       "slug": "3da2eb8b9f7d902d",
@@ -1628,7 +1966,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1643,25 +1981,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1671,14 +2009,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "my base",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1697,6 +2060,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 151,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -1758,7 +2128,7 @@
       "army": {
         "weight": 3093,
         "with_potions": 3796,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,125,176)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -1768,7 +2138,7 @@
       "active": true,
       "town_hall": 13,
       "league": 15,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1783,25 +2153,25 @@
           "success": 1
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1811,19 +2181,54 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "Aashish",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "yucel",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -1852,6 +2257,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Valkyrie League 15",
+          "donated": 100,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -1895,11 +2307,11 @@
         "history": []
       },
       "army": {
-        "weight": 3838,
-        "with_potions": 4340,
-        "updated": "2026-11-02 19:04",
+        "weight": 3843,
+        "with_potions": 4390,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,75,146)",
-        "potion_color": "rgb(255,42,126)"
+        "potion_color": "rgb(255,38,124)"
       },
       "role": "member",
       "slug": "a6926e303d99df4c",
@@ -1907,7 +2319,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1922,18 +2334,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "d2d3b477beb72b50",
+          "kind": "CWL",
+          "end": "2026-11-05T13:42:11+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
@@ -1941,7 +2368,7 @@
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -1956,8 +2383,8 @@
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1991,6 +2418,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 186,
+          "received": 466
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -2050,9 +2484,9 @@
         ]
       },
       "army": {
-        "weight": 2663,
+        "weight": 2673,
         "with_potions": 3135,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,153,193)",
         "potion_color": "rgb(255,122,174)"
       },
@@ -2062,7 +2496,7 @@
       "active": true,
       "town_hall": 12,
       "league": 13,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2077,25 +2511,25 @@
           "success": 1
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2105,14 +2539,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 11,
+              "target_name": "chirag",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -2156,6 +2615,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 12,
+          "league": "Valkyrie League 13",
+          "donated": 106,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 12,
@@ -2215,10 +2681,10 @@
         ]
       },
       "army": {
-        "weight": 3125,
+        "weight": 3131,
         "with_potions": 3658,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,123,175)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,122,174)",
         "potion_color": "rgb(255,87,153)"
       },
       "role": "member",
@@ -2227,7 +2693,7 @@
       "active": true,
       "town_hall": 13,
       "league": 13,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2261,16 +2727,33 @@
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "Super",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Valkyrie League 13",
+          "donated": 0,
+          "received": 575
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -2314,10 +2797,10 @@
         "history": []
       },
       "army": {
-        "weight": 3159,
+        "weight": 3181,
         "with_potions": 4266,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,120,173)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,119,172)",
         "potion_color": "rgb(255,47,129)"
       },
       "role": "member",
@@ -2326,7 +2809,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2360,16 +2843,33 @@
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "Xiao Xiao",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 75
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -2429,10 +2929,10 @@
         ]
       },
       "army": {
-        "weight": 1769,
-        "with_potions": 2617,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,213,229)",
+        "weight": 1781,
+        "with_potions": 2619,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,212,229)",
         "potion_color": "rgb(255,156,195)"
       },
       "role": "member",
@@ -2441,7 +2941,7 @@
       "active": true,
       "town_hall": 12,
       "league": 12,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2475,7 +2975,7 @@
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -2519,6 +3019,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 12,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 12,
@@ -2564,7 +3071,7 @@
       "army": {
         "weight": 3152,
         "with_potions": 3654,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,121,173)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -2574,7 +3081,7 @@
       "active": true,
       "town_hall": 13,
       "league": 12,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2589,18 +3096,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "d2d3b477beb72b50",
+          "kind": "CWL",
+          "end": "2026-11-05T13:42:11+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
@@ -2608,13 +3130,23 @@
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "Lastkinq06",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -2633,6 +3165,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -2692,9 +3231,9 @@
         ]
       },
       "army": {
-        "weight": 3431,
+        "weight": 3441,
         "with_potions": 3798,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,102,162)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -2704,7 +3243,7 @@
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2719,25 +3258,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2747,14 +3286,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 12,
+              "target_name": "Tamim",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -2773,6 +3337,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -2832,10 +3403,10 @@
         ]
       },
       "army": {
-        "weight": 2110,
+        "weight": 2130,
         "with_potions": 2450,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,190,216)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,189,215)",
         "potion_color": "rgb(255,167,202)"
       },
       "role": "coLeader",
@@ -2844,7 +3415,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2859,25 +3430,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2887,14 +3458,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "Ajmir",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -2913,6 +3509,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 54,
+          "received": 197
+        },
         {
           "date": "2026-11-02",
           "town_hall": 11,
@@ -2972,10 +3575,10 @@
         ]
       },
       "army": {
-        "weight": 1842,
+        "weight": 1862,
         "with_potions": 2408,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,208,226)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,206,226)",
         "potion_color": "rgb(255,170,204)"
       },
       "role": "admin",
@@ -2984,7 +3587,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2999,25 +3602,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -3027,14 +3630,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "game changer",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -3088,6 +3716,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-03",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 9,
+          "received": 0
+        },
+        {
           "date": "2026-11-02",
           "town_hall": 11,
           "league": "Wizard League 10",
@@ -3130,9 +3765,9 @@
         "history": []
       },
       "army": {
-        "weight": 2920,
+        "weight": 2922,
         "with_potions": 3063,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,136,183)",
         "potion_color": "rgb(255,127,177)"
       },
@@ -3142,7 +3777,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3157,18 +3792,33 @@
           "success": 1
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "d2d3b477beb72b50",
+          "kind": "CWL",
+          "end": "2026-11-05T13:42:11+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
@@ -3176,13 +3826,23 @@
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 11,
+              "target_name": "Burak",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -3211,6 +3871,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 46,
+          "received": 42
+        },
         {
           "date": "2026-11-02",
           "town_hall": 12,
@@ -3256,7 +3923,7 @@
       "army": {
         "weight": 3175,
         "with_potions": 3175,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,119,173)"
       },
@@ -3266,7 +3933,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3321,6 +3988,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-03",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-02",
           "town_hall": 12,
           "league": "Wizard League 10",
@@ -3363,11 +4037,11 @@
         "history": []
       },
       "army": {
-        "weight": 1968,
-        "with_potions": 2324,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,199,221)",
-        "potion_color": "rgb(255,176,207)"
+        "weight": 1994,
+        "with_potions": 2338,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,198,220)",
+        "potion_color": "rgb(255,175,206)"
       },
       "role": "member",
       "slug": "ed64cfbc0f123e52",
@@ -3375,7 +4049,7 @@
       "active": true,
       "town_hall": 11,
       "league": 7,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3429,6 +4103,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 11,
+          "league": "Archer League 7",
+          "donated": 138,
+          "received": 467
+        },
         {
           "date": "2026-11-02",
           "town_hall": 11,
@@ -3574,11 +4255,11 @@
         ]
       },
       "army": {
-        "weight": 1346,
-        "with_potions": 1720,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,241,246)",
-        "potion_color": "rgb(255,216,231)"
+        "weight": 1366,
+        "with_potions": 1732,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,239,246)",
+        "potion_color": "rgb(255,215,231)"
       },
       "role": "member",
       "slug": "80b4f53b9e0580af",
@@ -3586,7 +4267,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3614,6 +4295,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 10,
@@ -3673,11 +4361,11 @@
         ]
       },
       "army": {
-        "weight": 1110,
-        "with_potions": 1318,
-        "updated": "2026-11-02 19:04",
+        "weight": 1132,
+        "with_potions": 1338,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,243,247)"
+        "potion_color": "rgb(255,241,247)"
       },
       "role": "admin",
       "slug": "9e30e52718e27059",
@@ -3685,7 +4373,7 @@
       "active": true,
       "town_hall": 9,
       "league": 5,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3713,6 +4401,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 9,
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 9,
@@ -3772,11 +4467,11 @@
         ]
       },
       "army": {
-        "weight": 842,
-        "with_potions": 1130,
-        "updated": "2026-11-02 19:04",
+        "weight": 862,
+        "with_potions": 1150,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,255,255)"
+        "potion_color": "rgb(255,254,254)"
       },
       "role": "admin",
       "slug": "f42230b348d0406b",
@@ -3784,7 +4479,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3812,6 +4507,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 9,
@@ -3855,11 +4557,11 @@
         "history": []
       },
       "army": {
-        "weight": 700,
-        "with_potions": 1102,
-        "updated": "2026-11-02 19:04",
+        "weight": 742,
+        "with_potions": 1156,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,255,255)"
+        "potion_color": "rgb(255,253,254)"
       },
       "role": "member",
       "slug": "fe92c2908430474c",
@@ -3867,7 +4569,7 @@
       "active": true,
       "town_hall": 9,
       "league": 3,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3895,6 +4597,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 93
+        },
         {
           "date": "2026-11-02",
           "town_hall": 9,
@@ -3954,9 +4663,9 @@
         ]
       },
       "army": {
-        "weight": 744,
-        "with_potions": 776,
-        "updated": "2026-11-02 19:04",
+        "weight": 778,
+        "with_potions": 826,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -3966,7 +4675,7 @@
       "active": true,
       "town_hall": 8,
       "league": 3,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3994,6 +4703,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 8,
+          "league": "Skeleton League 3",
+          "donated": 32,
+          "received": 26
+        },
         {
           "date": "2026-11-02",
           "town_hall": 8,
@@ -4053,9 +4769,9 @@
         ]
       },
       "army": {
-        "weight": 520,
-        "with_potions": 808,
-        "updated": "2026-11-02 19:04",
+        "weight": 544,
+        "with_potions": 828,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4065,7 +4781,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4093,6 +4809,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 8,
@@ -4152,9 +4875,9 @@
         ]
       },
       "army": {
-        "weight": 498,
-        "with_potions": 502,
-        "updated": "2026-11-02 19:04",
+        "weight": 502,
+        "with_potions": 682,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4162,9 +4885,9 @@
       "slug": "35e776ae4db69949",
       "name": "arslan",
       "active": true,
-      "town_hall": 7,
+      "town_hall": 8,
       "league": 2,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4192,6 +4915,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 7,
@@ -4235,11 +4965,11 @@
         "history": []
       },
       "army": {
-        "weight": 5449,
-        "with_potions": 6484,
-        "updated": "2026-11-02 19:04",
+        "weight": 5453,
+        "with_potions": 6488,
+        "updated": "2026-11-03 23:10",
         "color": "rgb(218,24,143)",
-        "potion_color": "rgb(179,16,170)"
+        "potion_color": "rgb(178,16,170)"
       },
       "role": "member",
       "slug": "3b266631423d4acc",
@@ -4247,7 +4977,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4262,25 +4992,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -4290,14 +5020,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 93.0,
+              "own_th": 16,
+              "target_th": 17,
+              "target_name": "DAKU DEVIL",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4316,6 +5071,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 16,
@@ -4359,10 +5121,10 @@
         "history": []
       },
       "army": {
-        "weight": 4383,
+        "weight": 4393,
         "with_potions": 6320,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,39,124)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,38,123)",
         "potion_color": "rgb(185,18,165)"
       },
       "role": "admin",
@@ -4371,7 +5133,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4386,25 +5148,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -4414,14 +5176,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 17,
+              "target_name": "SASUKE UCHIHA",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4440,6 +5227,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 77,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 16,
@@ -4501,7 +5295,7 @@
       "army": {
         "weight": 4510,
         "with_potions": 5283,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,31,119)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -4511,7 +5305,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4526,25 +5320,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -4554,14 +5348,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 13,
+              "target_name": "Stranger Danger",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4580,6 +5399,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 45,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 15,
@@ -4625,7 +5451,7 @@
       "army": {
         "weight": 4370,
         "with_potions": 4648,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,40,124)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -4635,7 +5461,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4650,25 +5476,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -4678,14 +5504,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "SHaDow_777",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4704,6 +5555,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -4763,10 +5621,10 @@
         ]
       },
       "army": {
-        "weight": 3590,
+        "weight": 3592,
         "with_potions": 4308,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,92,156)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,91,156)",
         "potion_color": "rgb(255,44,127)"
       },
       "role": "member",
@@ -4775,7 +5633,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4790,25 +5648,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -4818,14 +5676,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "Yoichi★",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4844,6 +5727,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -4903,10 +5793,10 @@
         ]
       },
       "army": {
-        "weight": 3292,
+        "weight": 3304,
         "with_potions": 3766,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,111,168)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,111,167)",
         "potion_color": "rgb(255,80,149)"
       },
       "role": "member",
@@ -4915,7 +5805,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4930,25 +5820,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -4958,14 +5848,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "thor",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4984,6 +5899,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 13,
@@ -5043,9 +5965,9 @@
         ]
       },
       "army": {
-        "weight": 4269,
+        "weight": 4276,
         "with_potions": 5307,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(255,46,128)",
         "potion_color": "rgb(224,25,140)"
       },
@@ -5055,7 +5977,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5070,25 +5992,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -5098,22 +6020,64 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "Rowel",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 12,
+              "target_name": "kadir",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 4,
+          "received": 33
+        },
         {
           "date": "2026-11-02",
           "town_hall": 15,
@@ -5159,7 +6123,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -5169,7 +6133,7 @@
       "active": true,
       "town_hall": 15,
       "league": 17,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5184,25 +6148,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -5212,14 +6176,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "Jinx",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -5238,6 +6227,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 15,
+          "league": "Witch League 17",
+          "donated": 55,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 15,
@@ -5283,7 +6279,7 @@
       "army": {
         "weight": 4878,
         "with_potions": 6849,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(241,28,129)",
         "potion_color": "rgb(165,14,179)"
       },
@@ -5293,7 +6289,7 @@
       "active": true,
       "town_hall": 17,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5308,25 +6304,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -5336,14 +6332,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 57.0,
+              "own_th": 17,
+              "target_th": 18,
+              "target_name": "!UNDERTAKER!",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -5362,6 +6383,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 17,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 17,
@@ -5407,7 +6435,7 @@
       "army": {
         "weight": 4541,
         "with_potions": 4636,
-        "updated": "2026-11-02 19:04",
+        "updated": "2026-11-03 23:10",
         "color": "rgb(253,31,120)",
         "potion_color": "rgb(250,30,122)"
       },
@@ -5417,7 +6445,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5432,25 +6460,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "5f2d9a832823223e",
+          "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-05T13:42:11+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-04",
-          "opponent": "ACB CLASHER",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -5460,14 +6488,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "5f2d9a832823223e",
+          "kind": "CWL",
+          "end": "2026-11-04T13:41:23+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-04",
+          "opponent": "ACB CLASHER",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 13,
+              "target_name": "stranger01",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "f3997182f8ad1168",
           "kind": "CWL",
           "end": "2026-11-03T13:41:15+03:00",
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -5486,6 +6539,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 14,
@@ -5529,11 +6589,11 @@
         "history": []
       },
       "army": {
-        "weight": 4686,
-        "with_potions": 6127,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(248,30,124)",
-        "potion_color": "rgb(192,19,161)"
+        "weight": 4731,
+        "with_potions": 6172,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(246,29,125)",
+        "potion_color": "rgb(191,19,162)"
       },
       "role": "member",
       "slug": "eeb93df1a0dfd6ec",
@@ -5541,7 +6601,7 @@
       "active": true,
       "town_hall": 16,
       "league": 24,
-      "days": 0,
+      "days": 1,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -5556,18 +6616,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "d2d3b477beb72b50",
+          "kind": "CWL",
+          "end": "2026-11-05T13:42:11+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
@@ -5575,7 +6650,7 @@
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5590,16 +6665,33 @@
           "month": "2026-11",
           "date_label": "2026-11-03",
           "opponent": "ışıldaak",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 12,
+              "target_name": "Lion King ⚠",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 16,
+          "league": "P.E.K.K.A League 24",
+          "donated": 9,
+          "received": 0
+        },
         {
           "date": "2026-11-02",
           "town_hall": 16,
@@ -5629,10 +6721,10 @@
         "history": []
       },
       "army": {
-        "weight": 1180,
+        "weight": 1190,
         "with_potions": 1332,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,252,253)",
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,251,253)",
         "potion_color": "rgb(255,242,247)"
       },
       "role": "member",
@@ -5641,7 +6733,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 0,
+      "days": 1,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -5669,6 +6761,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 31
+        },
         {
           "date": "2026-11-02",
           "town_hall": 9,
@@ -5698,11 +6797,11 @@
         "history": []
       },
       "army": {
-        "weight": 2414,
-        "with_potions": 2884,
-        "updated": "2026-11-02 19:04",
-        "color": "rgb(255,170,203)",
-        "potion_color": "rgb(255,139,184)"
+        "weight": 2429,
+        "with_potions": 2929,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,169,203)",
+        "potion_color": "rgb(255,136,182)"
       },
       "role": "member",
       "slug": "8ceb120a0998ef76",
@@ -5710,7 +6809,7 @@
       "active": true,
       "town_hall": 12,
       "league": 0,
-      "days": 0,
+      "days": 1,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -5739,11 +6838,82 @@
       "wars": [],
       "development": [
         {
+          "date": "2026-11-03",
+          "town_hall": 12,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-02",
           "town_hall": 12,
           "league": "Unranked",
           "donated": 0,
           "received": 0
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1400,
+        "with_potions": 1720,
+        "updated": "2026-11-03 23:10",
+        "color": "rgb(255,237,244)",
+        "potion_color": "rgb(255,216,231)"
+      },
+      "role": "member",
+      "slug": "ba4207b85f0927f1",
+      "name": "Yuki",
+      "active": true,
+      "town_hall": 10,
+      "league": 6,
+      "days": 0,
+      "first_seen": "2026-11-03",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-03",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 31
         }
       ]
     }
