@@ -1,7 +1,136 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-03T23:14:07+03:00",
+  "collected_at": "2026-11-03T23:29:06+03:00",
   "columns": [
+    {
+      "own": true,
+      "day": null,
+      "name": "Masters of War",
+      "played": false,
+      "state": "roster",
+      "members": [
+        {
+          "th": 18,
+          "stars": null
+        },
+        {
+          "th": 17,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        }
+      ]
+    },
     {
       "day": 1,
       "name": "ışıldaak",

@@ -24,3 +24,5 @@ nav{flex-wrap:wrap}
 .public-opponents-grid table{height:calc(100% - 18px);margin-bottom:18px}
 .public-opponents-grid img{max-width:calc(100% - 6px)}
 .public-opponents-grid th,.masters .public-opponents-grid th{overflow:hidden;overflow-wrap:anywhere}
+
+.public-opponents-grid th:first-child,.public-opponents-grid td:first-child,.masters .public-opponents-grid th:first-child,.masters .public-opponents-grid td:first-child{border-right:2px solid #8798b0}
