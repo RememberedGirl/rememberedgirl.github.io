@@ -12,8 +12,8 @@ def cwl_opponents(clan,asset_root=''):
     for column in data['columns']:
         column['strength']=sum(m.get('th') or 0 for m in column['members'])
     rivals=[c for c in data['columns'] if not c.get('own')]
-    minimum_strength=min(c['strength'] for c in rivals)
-    maximum_strength=max(c['strength'] for c in rivals)
+    minimum_strength=min(c['strength'] for c in data['columns'])
+    maximum_strength=max(c['strength'] for c in data['columns'])
     for column in data['columns']:
         column['difficulty']=min(7,1+sum(c['strength']<column['strength'] for c in rivals))
         ratio=(column['strength']-minimum_strength)/(maximum_strength-minimum_strength) if maximum_strength>minimum_strength else 0
