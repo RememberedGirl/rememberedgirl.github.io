@@ -12,7 +12,7 @@ def export(source,clan,filename):
         team=teams.get(day['opponent_tag']);unknown=team is None
         if unknown:team=next(pending)
         played=day['state'] in ('inWar','warEnded')
-        members=day['members'] if played else team['members']
+        members=day.get('members') or team['members']
         columns.append(dict(day=None if unknown else day['round'],name=team['name'],played=played,state=day['state'],members=[dict(th=m['town_hall'],stars=m.get('stars') if played else None) for m in members]))
     result=dict(season=raw['season'],collected_at=raw['collected_at'],columns=columns)
     output=Path(__file__).resolve().parent/'data/clans'/f'{clan}-opponents.json'
