@@ -1,0 +1,902 @@
+{
+  "season": "2026-11-01",
+  "collected_at": "2026-11-03T23:03:00+03:00",
+  "columns": [
+    {
+      "day": 1,
+      "name": "SILENT SPADES",
+      "played": true,
+      "state": "warEnded",
+      "members": [
+        {
+          "th": 17,
+          "stars": 3
+        },
+        {
+          "th": 17,
+          "stars": 3
+        },
+        {
+          "th": 18,
+          "stars": 2
+        },
+        {
+          "th": 17,
+          "stars": 0
+        },
+        {
+          "th": 17,
+          "stars": 0
+        },
+        {
+          "th": 17,
+          "stars": 0
+        },
+        {
+          "th": 16,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 16,
+          "stars": 0
+        },
+        {
+          "th": 16,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 1
+        },
+        {
+          "th": 14,
+          "stars": 2
+        },
+        {
+          "th": 15,
+          "stars": 2
+        },
+        {
+          "th": 11,
+          "stars": 3
+        },
+        {
+          "th": 8,
+          "stars": 3
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "name": "smushed up",
+      "played": true,
+      "state": "inWar",
+      "members": [
+        {
+          "th": 18,
+          "stars": 3
+        },
+        {
+          "th": 16,
+          "stars": 3
+        },
+        {
+          "th": 17,
+          "stars": 1
+        },
+        {
+          "th": 16,
+          "stars": 0
+        },
+        {
+          "th": 16,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 2
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 1
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 2
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 2
+        },
+        {
+          "th": 14,
+          "stars": 1
+        },
+        {
+          "th": 13,
+          "stars": 1
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 1
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 2
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "name": "Board of Pieces",
+      "played": false,
+      "state": "preparation",
+      "members": [
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        }
+      ]
+    },
+    {
+      "day": null,
+      "name": "Atap",
+      "played": false,
+      "state": "unknown",
+      "members": [
+        {
+          "th": 18,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 8,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        }
+      ]
+    },
+    {
+      "day": null,
+      "name": "Alison Angel",
+      "played": false,
+      "state": "unknown",
+      "members": [
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 8,
+          "stars": null
+        },
+        {
+          "th": 8,
+          "stars": null
+        },
+        {
+          "th": 8,
+          "stars": null
+        }
+      ]
+    },
+    {
+      "day": null,
+      "name": "MABAIT CLAN",
+      "played": false,
+      "state": "unknown",
+      "members": [
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        }
+      ]
+    },
+    {
+      "day": null,
+      "name": "BETHEL3226",
+      "played": false,
+      "state": "unknown",
+      "members": [
+        {
+          "th": 17,
+          "stars": null
+        },
+        {
+          "th": 18,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 10,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        }
+      ]
+    }
+  ]
+}

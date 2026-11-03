@@ -14,6 +14,8 @@ def load_data():
 def context(data, root='', design='classic'):
     css = settings.BASE_DIR / 'board/static/board' / ('berserk.css' if design == 'berserk' else 'site.css')
     styles = css.read_bytes()
+    extra = settings.BASE_DIR/'board/static/board/cwl_opponents.css'
+    if extra.exists(): styles += extra.read_bytes()
     if design == 'masters':
         styles += (settings.BASE_DIR/'board/static/board/masters.css').read_bytes()
     styles += (settings.BASE_DIR/'board/static/board/site.js').read_bytes()
