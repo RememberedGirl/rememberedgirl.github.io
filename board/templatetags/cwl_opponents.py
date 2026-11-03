@@ -11,8 +11,10 @@ def cwl_opponents(clan,asset_root=''):
     maximum=max((c.get('total_stars') or 0 for c in data['columns']),default=0)
     for column in data['columns']:
         column['strength']=sum(m.get('th') or 0 for m in column['members'])
+    ordered_strengths=sorted({c['strength'] for c in data['columns']})
     for column in data['columns']:
-        column['strength_rank']=1+sum(c['strength']>column['strength'] for c in data['columns'])
+        position=ordered_strengths.index(column['strength'])
+        column['difficulty']=1+int(9*position/max(1,len(ordered_strengths)-1)+0.5)
         column['star_maximum']=maximum
         column['star_percent']=round(100*(column.get('total_stars') or 0)/maximum,2) if maximum else 0
     rows=[]
