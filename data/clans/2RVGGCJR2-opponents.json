@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-03T23:31:00+03:00",
+  "collected_at": "2026-11-04T13:45:09+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Blushing snow",
-      "total_stars": 46,
+      "total_stars": 52,
       "played": false,
       "state": "roster",
       "members": [
@@ -135,7 +135,7 @@
     {
       "day": 1,
       "name": "SILENT SPADES",
-      "total_stars": 72,
+      "total_stars": 90,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -264,7 +264,7 @@
     {
       "day": 2,
       "name": "smushed up",
-      "total_stars": 35,
+      "total_stars": 59,
       "played": true,
       "state": "inWar",
       "members": [
@@ -338,15 +338,15 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 13,
@@ -393,7 +393,7 @@
     {
       "day": 3,
       "name": "Board of Pieces",
-      "total_stars": 110,
+      "total_stars": 143,
       "played": false,
       "state": "preparation",
       "members": [
@@ -522,7 +522,7 @@
     {
       "day": null,
       "name": "Atap",
-      "total_stars": 115,
+      "total_stars": 126,
       "played": false,
       "state": "unknown",
       "members": [
@@ -651,7 +651,7 @@
     {
       "day": null,
       "name": "Alison Angel",
-      "total_stars": 66,
+      "total_stars": 101,
       "played": false,
       "state": "unknown",
       "members": [
@@ -780,7 +780,7 @@
     {
       "day": null,
       "name": "MABAIT CLAN",
-      "total_stars": 67,
+      "total_stars": 84,
       "played": false,
       "state": "unknown",
       "members": [
@@ -909,7 +909,7 @@
     {
       "day": null,
       "name": "BETHEL3226",
-      "total_stars": 50,
+      "total_stars": 71,
       "played": false,
       "state": "unknown",
       "members": [

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "03.11.2026, 23:10 МСК",
+  "generated": "04.11.2026, 13:45 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -144,7 +144,7 @@
       "army": {
         "weight": 6732,
         "with_potions": 7858,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(169,15,176)",
         "potion_color": "rgb(126,6,205)"
       },
@@ -184,7 +184,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -199,7 +199,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -248,6 +248,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 18,
+          "league": "Titan League 27",
+          "donated": 277,
+          "received": 63
+        },
         {
           "date": "2026-11-03",
           "town_hall": 18,
@@ -298,10 +305,10 @@
         "history": []
       },
       "army": {
-        "weight": 5026,
+        "weight": 5036,
         "with_potions": 5407,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(235,27,132)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(234,27,133)",
         "potion_color": "rgb(220,24,142)"
       },
       "role": "coLeader",
@@ -340,7 +347,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -355,7 +362,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -404,6 +411,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 15,
+          "league": "P.E.K.K.A League 24",
+          "donated": 482,
+          "received": 107
+        },
         {
           "date": "2026-11-03",
           "town_hall": 15,
@@ -470,9 +484,9 @@
         ]
       },
       "army": {
-        "weight": 5243,
+        "weight": 5245,
         "with_potions": 6405,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(226,26,138)",
         "potion_color": "rgb(182,17,168)"
       },
@@ -512,7 +526,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -527,7 +541,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -576,6 +590,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 16,
+          "league": "Golem League 21",
+          "donated": 247,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 16,
@@ -644,7 +665,7 @@
       "army": {
         "weight": 4962,
         "with_potions": 5765,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(237,28,131)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -684,7 +705,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -699,7 +720,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -748,6 +769,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 15,
+          "league": "Witch League 18",
+          "donated": 135,
+          "received": 2
+        },
         {
           "date": "2026-11-03",
           "town_hall": 15,
@@ -814,10 +842,10 @@
         ]
       },
       "army": {
-        "weight": 4069,
+        "weight": 4086,
         "with_potions": 4460,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,60,136)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,59,136)",
         "potion_color": "rgb(255,34,121)"
       },
       "role": "member",
@@ -856,7 +884,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -871,7 +899,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -920,6 +948,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Witch League 18",
+          "donated": 907,
+          "received": 1000
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -970,9 +1005,9 @@
         "history": []
       },
       "army": {
-        "weight": 4254,
+        "weight": 4259,
         "with_potions": 4616,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,47,129)",
         "potion_color": "rgb(251,30,122)"
       },
@@ -1012,7 +1047,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -1026,6 +1061,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 0,
+          "received": 78
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -1092,10 +1134,10 @@
         ]
       },
       "army": {
-        "weight": 3439,
+        "weight": 3461,
         "with_potions": 3926,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,102,162)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,100,161)",
         "potion_color": "rgb(255,69,142)"
       },
       "role": "admin",
@@ -1134,7 +1176,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -1149,7 +1191,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -1214,6 +1256,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Witch League 17",
+          "donated": 129,
+          "received": 4
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 13,
           "league": "Witch League 17",
@@ -1263,11 +1312,11 @@
         "history": []
       },
       "army": {
-        "weight": 3750,
-        "with_potions": 4298,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,81,149)",
-        "potion_color": "rgb(255,45,127)"
+        "weight": 3760,
+        "with_potions": 4348,
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,80,149)",
+        "potion_color": "rgb(255,41,125)"
       },
       "role": "leader",
       "slug": "726fa45909a1d11d",
@@ -1305,7 +1354,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -1320,7 +1369,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -1369,6 +1418,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 774,
+          "received": 378
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -1437,7 +1493,7 @@
       "army": {
         "weight": 3603,
         "with_potions": 4476,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,91,155)",
         "potion_color": "rgb(255,33,120)"
       },
@@ -1511,6 +1567,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Witch League 16",
+          "donated": 60,
+          "received": 0
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 14,
           "league": "Witch League 16",
@@ -1578,7 +1641,7 @@
       "army": {
         "weight": 3900,
         "with_potions": 4873,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,71,143)",
         "potion_color": "rgb(241,28,128)"
       },
@@ -1618,7 +1681,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -1633,7 +1696,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -1717,6 +1780,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 15,
+          "league": "Witch League 16",
+          "donated": 645,
+          "received": 742
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 15,
           "league": "Witch League 16",
@@ -1782,11 +1852,11 @@
         ]
       },
       "army": {
-        "weight": 3582,
-        "with_potions": 3976,
-        "updated": "2026-11-03 23:10",
+        "weight": 3590,
+        "with_potions": 3984,
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,92,156)",
-        "potion_color": "rgb(255,66,140)"
+        "potion_color": "rgb(255,65,140)"
       },
       "role": "admin",
       "slug": "025674afef3a9bd8",
@@ -1824,7 +1894,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -1839,7 +1909,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -1888,6 +1958,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Valkyrie League 14",
+          "donated": 113,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 13,
@@ -1956,7 +2033,7 @@
       "army": {
         "weight": 3175,
         "with_potions": 4196,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,51,131)"
       },
@@ -1996,7 +2073,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -2011,7 +2088,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -2060,6 +2137,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 151,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -2126,10 +2210,10 @@
         ]
       },
       "army": {
-        "weight": 3093,
+        "weight": 3105,
         "with_potions": 3796,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,125,176)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,124,175)",
         "potion_color": "rgb(255,78,147)"
       },
       "role": "coLeader",
@@ -2168,7 +2252,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -2183,7 +2267,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -2258,6 +2342,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Valkyrie League 15",
+          "donated": 100,
+          "received": 0
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 13,
           "league": "Valkyrie League 15",
@@ -2307,10 +2398,10 @@
         "history": []
       },
       "army": {
-        "weight": 3843,
+        "weight": 3853,
         "with_potions": 4390,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,75,146)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,74,145)",
         "potion_color": "rgb(255,38,124)"
       },
       "role": "member",
@@ -2349,7 +2440,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -2364,17 +2455,27 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "susu",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "f3997182f8ad1168",
@@ -2418,6 +2519,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 212,
+          "received": 635
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -2484,10 +2592,10 @@
         ]
       },
       "army": {
-        "weight": 2673,
+        "weight": 2683,
         "with_potions": 3135,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,153,193)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,152,192)",
         "potion_color": "rgb(255,122,174)"
       },
       "role": "member",
@@ -2526,7 +2634,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -2541,7 +2649,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -2616,6 +2724,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 12,
+          "league": "Valkyrie League 13",
+          "donated": 106,
+          "received": 0
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 12,
           "league": "Valkyrie League 13",
@@ -2681,10 +2796,10 @@
         ]
       },
       "army": {
-        "weight": 3131,
+        "weight": 3143,
         "with_potions": 3658,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,122,174)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,121,174)",
         "potion_color": "rgb(255,87,153)"
       },
       "role": "member",
@@ -2723,7 +2838,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -2747,6 +2862,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Valkyrie League 13",
+          "donated": 65,
+          "received": 695
+        },
         {
           "date": "2026-11-03",
           "town_hall": 13,
@@ -2797,10 +2919,10 @@
         "history": []
       },
       "army": {
-        "weight": 3181,
+        "weight": 3190,
         "with_potions": 4266,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,119,172)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,118,172)",
         "potion_color": "rgb(255,47,129)"
       },
       "role": "member",
@@ -2839,7 +2961,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -2863,6 +2985,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 75
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -2931,7 +3060,7 @@
       "army": {
         "weight": 1781,
         "with_potions": 2619,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,212,229)",
         "potion_color": "rgb(255,156,195)"
       },
@@ -2971,17 +3100,27 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 11,
+              "target_name": "Rowel4",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -3019,6 +3158,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 12,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 12,
@@ -3069,9 +3215,9 @@
         "history": []
       },
       "army": {
-        "weight": 3152,
-        "with_potions": 3654,
-        "updated": "2026-11-03 23:10",
+        "weight": 3154,
+        "with_potions": 3656,
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,121,173)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -3111,7 +3257,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -3165,6 +3311,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 13,
@@ -3233,7 +3386,7 @@
       "army": {
         "weight": 3441,
         "with_potions": 3798,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,102,162)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -3273,7 +3426,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -3288,7 +3441,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -3337,6 +3490,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 13,
@@ -3403,10 +3563,10 @@
         ]
       },
       "army": {
-        "weight": 2130,
-        "with_potions": 2450,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,189,215)",
+        "weight": 2142,
+        "with_potions": 2452,
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,188,214)",
         "potion_color": "rgb(255,167,202)"
       },
       "role": "coLeader",
@@ -3445,7 +3605,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -3460,7 +3620,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -3509,6 +3669,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 54,
+          "received": 362
+        },
         {
           "date": "2026-11-03",
           "town_hall": 11,
@@ -3577,7 +3744,7 @@
       "army": {
         "weight": 1862,
         "with_potions": 2408,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,206,226)",
         "potion_color": "rgb(255,170,204)"
       },
@@ -3617,7 +3784,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -3632,7 +3799,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -3716,6 +3883,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 91,
+          "received": 0
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 11,
           "league": "Wizard League 10",
@@ -3767,7 +3941,7 @@
       "army": {
         "weight": 2922,
         "with_potions": 3063,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,136,183)",
         "potion_color": "rgb(255,127,177)"
       },
@@ -3807,7 +3981,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -3872,6 +4046,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 46,
+          "received": 42
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 12,
           "league": "Wizard League 10",
@@ -3923,7 +4104,7 @@
       "army": {
         "weight": 3175,
         "with_potions": 3175,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,119,173)"
       },
@@ -3961,6 +4142,21 @@
       },
       "wars": [
         {
+          "war_id": "d2d3b477beb72b50",
+          "kind": "CWL",
+          "end": "2026-11-05T14:07:33+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "transformer",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
           "war_id": "d4856c1cb4e224ff",
           "kind": "CW",
           "end": "2026-10-31T10:09:50+03:00",
@@ -3987,6 +4183,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 12,
@@ -4037,10 +4240,10 @@
         "history": []
       },
       "army": {
-        "weight": 1994,
+        "weight": 2004,
         "with_potions": 2338,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,198,220)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,197,220)",
         "potion_color": "rgb(255,175,206)"
       },
       "role": "member",
@@ -4103,6 +4306,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 11,
+          "league": "Archer League 7",
+          "donated": 138,
+          "received": 467
+        },
         {
           "date": "2026-11-03",
           "town_hall": 11,
@@ -4255,11 +4465,11 @@
         ]
       },
       "army": {
-        "weight": 1366,
-        "with_potions": 1732,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,239,246)",
-        "potion_color": "rgb(255,215,231)"
+        "weight": 1390,
+        "with_potions": 1762,
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,238,245)",
+        "potion_color": "rgb(255,213,230)"
       },
       "role": "member",
       "slug": "80b4f53b9e0580af",
@@ -4295,6 +4505,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 25,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 10,
@@ -4363,7 +4580,7 @@
       "army": {
         "weight": 1132,
         "with_potions": 1338,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,241,247)"
       },
@@ -4401,6 +4618,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 9,
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 9,
@@ -4469,7 +4693,7 @@
       "army": {
         "weight": 862,
         "with_potions": 1150,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,254,254)"
       },
@@ -4507,6 +4731,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 9,
@@ -4557,9 +4788,9 @@
         "history": []
       },
       "army": {
-        "weight": 742,
+        "weight": 764,
         "with_potions": 1156,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,253,254)"
       },
@@ -4597,6 +4828,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 52,
+          "received": 124
+        },
         {
           "date": "2026-11-03",
           "town_hall": 9,
@@ -4663,9 +4901,9 @@
         ]
       },
       "army": {
-        "weight": 778,
-        "with_potions": 826,
-        "updated": "2026-11-03 23:10",
+        "weight": 820,
+        "with_potions": 846,
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4703,6 +4941,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 8,
+          "league": "Skeleton League 3",
+          "donated": 112,
+          "received": 155
+        },
         {
           "date": "2026-11-03",
           "town_hall": 8,
@@ -4771,7 +5016,7 @@
       "army": {
         "weight": 544,
         "with_potions": 828,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4809,6 +5054,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 8,
@@ -4877,7 +5129,7 @@
       "army": {
         "weight": 502,
         "with_potions": 682,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4915,6 +5167,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 8,
@@ -4967,7 +5226,7 @@
       "army": {
         "weight": 5453,
         "with_potions": 6488,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(218,24,143)",
         "potion_color": "rgb(178,16,170)"
       },
@@ -5007,7 +5266,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -5022,7 +5281,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -5071,6 +5330,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 16,
@@ -5123,7 +5389,7 @@
       "army": {
         "weight": 4393,
         "with_potions": 6320,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,38,123)",
         "potion_color": "rgb(185,18,165)"
       },
@@ -5163,7 +5429,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -5178,7 +5444,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -5227,6 +5493,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 77,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 16,
@@ -5295,7 +5568,7 @@
       "army": {
         "weight": 4510,
         "with_potions": 5283,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,31,119)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -5335,7 +5608,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -5350,7 +5623,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -5399,6 +5672,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 45,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 15,
@@ -5451,7 +5731,7 @@
       "army": {
         "weight": 4370,
         "with_potions": 4648,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,40,124)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -5491,7 +5771,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -5506,7 +5786,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -5555,6 +5835,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -5623,7 +5910,7 @@
       "army": {
         "weight": 3592,
         "with_potions": 4308,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,91,156)",
         "potion_color": "rgb(255,44,127)"
       },
@@ -5663,7 +5950,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -5678,7 +5965,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -5727,6 +6014,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -5795,7 +6089,7 @@
       "army": {
         "weight": 3304,
         "with_potions": 3766,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,111,167)",
         "potion_color": "rgb(255,80,149)"
       },
@@ -5835,7 +6129,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -5850,7 +6144,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -5899,6 +6193,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 13,
@@ -5967,7 +6268,7 @@
       "army": {
         "weight": 4276,
         "with_potions": 5307,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,46,128)",
         "potion_color": "rgb(224,25,140)"
       },
@@ -6007,7 +6308,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -6022,7 +6323,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -6071,6 +6372,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 4,
+          "received": 33
+        },
         {
           "date": "2026-11-03",
           "town_hall": 15,
@@ -6123,7 +6431,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -6163,7 +6471,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -6178,7 +6486,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -6227,6 +6535,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 15,
+          "league": "Witch League 17",
+          "donated": 55,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 15,
@@ -6279,7 +6594,7 @@
       "army": {
         "weight": 4878,
         "with_potions": 6849,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(241,28,129)",
         "potion_color": "rgb(165,14,179)"
       },
@@ -6319,7 +6634,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -6334,7 +6649,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -6383,6 +6698,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 17,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 17,
@@ -6435,7 +6757,7 @@
       "army": {
         "weight": 4541,
         "with_potions": 4636,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(253,31,120)",
         "potion_color": "rgb(250,30,122)"
       },
@@ -6475,7 +6797,7 @@
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
+          "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
@@ -6490,7 +6812,7 @@
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -6539,6 +6861,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-03",
           "town_hall": 14,
@@ -6591,7 +6920,7 @@
       "army": {
         "weight": 4731,
         "with_potions": 6172,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(246,29,125)",
         "potion_color": "rgb(191,19,162)"
       },
@@ -6601,7 +6930,7 @@
       "active": true,
       "town_hall": 16,
       "league": 24,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -6629,24 +6958,9 @@
       },
       "wars": [
         {
-          "war_id": "d2d3b477beb72b50",
-          "kind": "CWL",
-          "end": "2026-11-05T13:42:11+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-05",
-          "opponent": "transformer",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
-        {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
-          "end": "2026-11-04T13:41:23+03:00",
+          "end": "2026-11-04T14:06:02+03:00",
           "month": "2026-11",
           "date_label": "2026-11-04",
           "opponent": "ACB CLASHER",
@@ -6686,6 +7000,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 16,
+          "league": "P.E.K.K.A League 24",
+          "donated": 9,
+          "received": 0
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 16,
           "league": "P.E.K.K.A League 24",
@@ -6723,7 +7044,7 @@
       "army": {
         "weight": 1190,
         "with_potions": 1332,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,251,253)",
         "potion_color": "rgb(255,242,247)"
       },
@@ -6733,7 +7054,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -6761,6 +7082,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 31
+        },
         {
           "date": "2026-11-03",
           "town_hall": 9,
@@ -6799,7 +7127,7 @@
       "army": {
         "weight": 2429,
         "with_potions": 2929,
-        "updated": "2026-11-03 23:10",
+        "updated": "2026-11-04 13:45",
         "color": "rgb(255,169,203)",
         "potion_color": "rgb(255,136,182)"
       },
@@ -6809,7 +7137,7 @@
       "active": true,
       "town_hall": 12,
       "league": 0,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -6838,6 +7166,13 @@
       "wars": [],
       "development": [
         {
+          "date": "2026-11-04",
+          "town_hall": 12,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-03",
           "town_hall": 12,
           "league": "Unranked",
@@ -6856,9 +7191,14 @@
     {
       "games": {
         "current_season": "2026-10",
-        "current": null,
-        "total": null,
-        "seasons": []
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
       },
       "raids": {
         "total_loot": 0,
@@ -6868,10 +7208,10 @@
         "history": []
       },
       "army": {
-        "weight": 1400,
+        "weight": 1412,
         "with_potions": 1720,
-        "updated": "2026-11-03 23:10",
-        "color": "rgb(255,237,244)",
+        "updated": "2026-11-04 13:45",
+        "color": "rgb(255,236,244)",
         "potion_color": "rgb(255,216,231)"
       },
       "role": "member",
@@ -6908,6 +7248,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 97
+        },
         {
           "date": "2026-11-03",
           "town_hall": 10,
