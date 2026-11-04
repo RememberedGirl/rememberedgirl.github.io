@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-04T15:04:44+03:00",
+  "collected_at": "2026-11-04T20:54:59+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Masters of War",
-      "total_stars": 198,
+      "total_stars": 224,
       "played": false,
       "state": "roster",
       "members": [
@@ -34,6 +34,11 @@
           "th": 16,
           "stars": null,
           "name": "sergey"
+        },
+        {
+          "th": 16,
+          "stars": null,
+          "name": "SDvioret"
         },
         {
           "th": 15,
@@ -93,6 +98,11 @@
         {
           "th": 14,
           "stars": null,
+          "name": "Джони-Рубироид"
+        },
+        {
+          "th": 14,
+          "stars": null,
           "name": "xfazen-"
         },
         {
@@ -104,6 +114,11 @@
           "th": 14,
           "stars": null,
           "name": "pelmen57ì"
+        },
+        {
+          "th": 14,
+          "stars": null,
+          "name": "beka"
         },
         {
           "th": 13,
@@ -126,29 +141,14 @@
           "name": "Мин Татар Малае"
         },
         {
-          "th": 13,
-          "stars": null,
-          "name": "nikita"
-        },
-        {
-          "th": 13,
-          "stars": null,
-          "name": "Z€d"
-        },
-        {
-          "th": 12,
-          "stars": null,
-          "name": "♂️ S E K A ♂️"
-        },
-        {
-          "th": 12,
-          "stars": null,
-          "name": "Креативный"
-        },
-        {
           "th": 12,
           "stars": null,
           "name": "Bylbeka!!!"
+        },
+        {
+          "th": 12,
+          "stars": null,
+          "name": "Qwerty"
         },
         {
           "th": 11,
@@ -165,7 +165,7 @@
     {
       "day": 1,
       "name": "ışıldaak",
-      "total_stars": 49,
+      "total_stars": 62,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -294,7 +294,7 @@
     {
       "day": 2,
       "name": "ACB CLASHER",
-      "total_stars": 153,
+      "total_stars": 170,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -423,7 +423,7 @@
     {
       "day": 3,
       "name": "transformer",
-      "total_stars": 49,
+      "total_stars": 59,
       "played": true,
       "state": "inWar",
       "members": [
@@ -445,7 +445,7 @@
         },
         {
           "th": 15,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 15,
@@ -465,7 +465,7 @@
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 15,
@@ -477,7 +477,7 @@
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 15,
@@ -489,7 +489,7 @@
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 14,
@@ -497,11 +497,11 @@
         },
         {
           "th": 15,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 14,
@@ -509,7 +509,7 @@
         },
         {
           "th": 15,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 13,
@@ -525,11 +525,11 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 12,
@@ -552,7 +552,7 @@
     {
       "day": 4,
       "name": "Gió Lạnh ĐầuMùa",
-      "total_stars": 63,
+      "total_stars": 77,
       "played": false,
       "state": "preparation",
       "members": [
@@ -681,7 +681,7 @@
     {
       "day": null,
       "name": "The Brutes",
-      "total_stars": 145,
+      "total_stars": 166,
       "played": false,
       "state": "unknown",
       "members": [
@@ -690,10 +690,6 @@
           "stars": null
         },
         {
-          "th": 17,
-          "stars": null
-        },
-        {
           "th": 18,
           "stars": null
         },
@@ -710,6 +706,22 @@
           "stars": null
         },
         {
+          "th": 17,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 16,
+          "stars": null
+        },
+        {
+          "th": 15,
+          "stars": null
+        },
+        {
           "th": 16,
           "stars": null
         },
@@ -723,14 +735,6 @@
         },
         {
           "th": 15,
-          "stars": null
-        },
-        {
-          "th": 15,
-          "stars": null
-        },
-        {
-          "th": 16,
           "stars": null
         },
         {
@@ -746,10 +750,6 @@
           "stars": null
         },
         {
-          "th": 15,
-          "stars": null
-        },
-        {
           "th": 14,
           "stars": null
         },
@@ -782,7 +782,7 @@
           "stars": null
         },
         {
-          "th": 11,
+          "th": 12,
           "stars": null
         },
         {
@@ -810,7 +810,7 @@
     {
       "day": null,
       "name": "ogi to barru",
-      "total_stars": 109,
+      "total_stars": 124,
       "played": false,
       "state": "unknown",
       "members": [
@@ -843,10 +843,6 @@
           "stars": null
         },
         {
-          "th": 13,
-          "stars": null
-        },
-        {
           "th": 14,
           "stars": null
         },
@@ -855,7 +851,7 @@
           "stars": null
         },
         {
-          "th": 13,
+          "th": 14,
           "stars": null
         },
         {
@@ -895,10 +891,6 @@
           "stars": null
         },
         {
-          "th": 12,
-          "stars": null
-        },
-        {
           "th": 13,
           "stars": null
         },
@@ -912,6 +904,14 @@
         },
         {
           "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 11,
           "stars": null
         },
         {
@@ -939,7 +939,7 @@
     {
       "day": null,
       "name": "my friends",
-      "total_stars": 82,
+      "total_stars": 99,
       "played": false,
       "state": "unknown",
       "members": [
