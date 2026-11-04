@@ -16,7 +16,7 @@ def export(source,clan,filename):
         columns.append(dict(day=None if unknown else day['round'],name=team['name'],total_stars=team.get('total_stars'),played=played,state=day['state'],members=[dict(th=m['town_hall'],stars=m.get('stars') if played else None) for m in members]))
     if raw.get('own_lineup'):
         own=raw['own_lineup']
-        columns.insert(0,dict(own=True,day=None,name=own['name'],total_stars=own.get('total_stars'),played=False,state='roster',members=[dict(th=m['town_hall'],stars=None) for m in own['members']]))
+        columns.insert(0,dict(own=True,day=None,name=own['name'],total_stars=own.get('total_stars'),played=False,state='roster',members=[dict(th=m['town_hall'],stars=None,name=m['name']) for m in own['members']]))
     result=dict(season=raw['season'],collected_at=raw['collected_at'],columns=columns)
     output=Path(__file__).resolve().parent/'data/clans'/f'{clan}-opponents.json'
     output.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')

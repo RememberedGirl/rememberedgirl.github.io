@@ -9,3 +9,5 @@
 .public-opponents-grid th,.masters .public-opponents-grid th{height:124px}
 
 .clan-strength{margin:4px 6px 5px}.clan-difficulty-number{display:block;font-size:12px;line-height:15px;color:#c6b5e8;font-weight:700}.clan-difficulty-track{height:6px;width:100%;background:#ffffff12;border-radius:2px;overflow:hidden}.clan-difficulty-track i{display:block;height:100%;background:#9680b5;border-radius:2px}@media(max-width:600px){.clan-strength{margin-left:3px;margin-right:3px}.clan-difficulty-number{font-size:10px;line-height:12px}.clan-difficulty-track{height:5px}}
+
+.own-roster-name{position:absolute;left:2px;bottom:0;right:21px;z-index:5;font-size:9px;line-height:12px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#eef1f6;background:rgba(12,19,32,.8);border-radius:2px;padding:0 2px}@media(max-width:600px){.own-roster-name{font-size:7px;right:15px;padding:0 1px}}

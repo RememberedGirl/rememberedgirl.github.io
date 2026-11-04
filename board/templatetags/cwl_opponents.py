@@ -25,6 +25,6 @@ def cwl_opponents(clan,asset_root=''):
         cells=[]
         for column in data['columns']:
             m=column['members'][index] if index<len(column['members']) else None
-            cells.append(dict(member=m,played=column['played'],name=column['name'],number=index+1))
+            cells.append(dict(member=m,own=column.get('own',False),played=column['played'],name=column['name'],number=index+1))
         rows.append(cells)
     return dict(opponents=data,rows=rows,asset_root=asset_root)
