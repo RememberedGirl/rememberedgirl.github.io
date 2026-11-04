@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-04T13:45:09+03:00",
+  "collected_at": "2026-11-04T15:04:44+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Masters of War",
-      "total_stars": 179,
+      "total_stars": 198,
       "played": false,
       "state": "roster",
       "members": [
@@ -51,19 +51,19 @@
           "stars": null
         },
         {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
           "th": 15,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 14,
           "stars": null
         },
         {
@@ -135,7 +135,7 @@
     {
       "day": 1,
       "name": "ışıldaak",
-      "total_stars": 46,
+      "total_stars": 49,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -264,9 +264,9 @@
     {
       "day": 2,
       "name": "ACB CLASHER",
-      "total_stars": 128,
+      "total_stars": 153,
       "played": true,
-      "state": "inWar",
+      "state": "warEnded",
       "members": [
         {
           "th": 18,
@@ -394,137 +394,137 @@
       "day": 3,
       "name": "transformer",
       "total_stars": 49,
-      "played": false,
-      "state": "preparation",
+      "played": true,
+      "state": "inWar",
       "members": [
         {
           "th": 18,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 17,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 17,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
         },
         {
           "th": 13,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 15,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 3
         },
         {
           "th": 13,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 14,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 12,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 12,
-          "stars": null
+          "stars": 0
         },
         {
           "th": 12,
-          "stars": null
+          "stars": 3
         },
         {
           "th": 10,
-          "stars": null
+          "stars": 3
         }
       ]
     },
     {
-      "day": null,
+      "day": 4,
       "name": "Gió Lạnh ĐầuMùa",
-      "total_stars": 54,
+      "total_stars": 63,
       "played": false,
-      "state": "unknown",
+      "state": "preparation",
       "members": [
         {
           "th": 16,
@@ -567,6 +567,10 @@
           "stars": null
         },
         {
+          "th": 13,
+          "stars": null
+        },
+        {
           "th": 14,
           "stars": null
         },
@@ -599,27 +603,23 @@
           "stars": null
         },
         {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
           "th": 13,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
           "stars": null
         },
         {
@@ -651,7 +651,7 @@
     {
       "day": null,
       "name": "The Brutes",
-      "total_stars": 125,
+      "total_stars": 145,
       "played": false,
       "state": "unknown",
       "members": [
@@ -780,7 +780,7 @@
     {
       "day": null,
       "name": "ogi to barru",
-      "total_stars": 91,
+      "total_stars": 109,
       "played": false,
       "state": "unknown",
       "members": [
@@ -909,7 +909,7 @@
     {
       "day": null,
       "name": "my friends",
-      "total_stars": 67,
+      "total_stars": 82,
       "played": false,
       "state": "unknown",
       "members": [

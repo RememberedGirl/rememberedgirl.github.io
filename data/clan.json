@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "04.11.2026, 13:45 МСК",
+  "generated": "04.11.2026, 15:05 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -1081,7 +1081,7 @@
       "army": {
         "weight": 738,
         "with_potions": 1208,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,250,252)"
       },
@@ -2456,7 +2456,7 @@
       "army": {
         "weight": 1016,
         "with_potions": 1838,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,208,227)"
       },
@@ -2821,7 +2821,7 @@
       "army": {
         "weight": 674,
         "with_potions": 1646,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,221,234)"
       },
@@ -3295,7 +3295,7 @@
       "army": {
         "weight": 510,
         "with_potions": 940,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4220,7 +4220,7 @@
       "army": {
         "weight": 592,
         "with_potions": 1108,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4915,7 +4915,7 @@
       "army": {
         "weight": 454,
         "with_potions": 1030,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -5743,7 +5743,7 @@
       "army": {
         "weight": 2864,
         "with_potions": 3506,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,140,185)",
         "potion_color": "rgb(255,97,159)"
       },
@@ -7196,7 +7196,7 @@
       "army": {
         "weight": 552,
         "with_potions": 644,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -8237,7 +8237,7 @@
       "army": {
         "weight": 486,
         "with_potions": 752,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -8952,7 +8952,7 @@
       "army": {
         "weight": 1036,
         "with_potions": 2072,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,193,217)"
       },
@@ -9714,9 +9714,9 @@
         ]
       },
       "army": {
-        "weight": 498,
-        "with_potions": 756,
-        "updated": "2026-11-04 13:45",
+        "weight": 506,
+        "with_potions": 764,
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -10514,7 +10514,7 @@
       "army": {
         "weight": 2581,
         "with_potions": 3033,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,159,197)",
         "potion_color": "rgb(255,129,178)"
       },
@@ -10575,11 +10575,21 @@
           "opponent": "smushed up",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 75.0,
+              "own_th": 12,
+              "target_th": 14,
+              "target_name": "Ctn",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d21ad64c846a383d",
@@ -11048,7 +11058,7 @@
       "army": {
         "weight": 1160,
         "with_potions": 1728,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,253,254)",
         "potion_color": "rgb(255,215,231)"
       },
@@ -11397,7 +11407,7 @@
       "army": {
         "weight": 1464,
         "with_potions": 1834,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,233,242)",
         "potion_color": "rgb(255,208,227)"
       },
@@ -11771,10 +11781,10 @@
         ]
       },
       "army": {
-        "weight": 1960,
+        "weight": 1970,
         "with_potions": 2348,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,200,222)",
+        "updated": "2026-11-04 15:04",
+        "color": "rgb(255,199,221)",
         "potion_color": "rgb(255,174,206)"
       },
       "role": "coLeader",
@@ -13420,7 +13430,7 @@
       "army": {
         "weight": 1264,
         "with_potions": 1306,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,246,250)",
         "potion_color": "rgb(255,243,248)"
       },
@@ -13939,20 +13949,14 @@
           }
         ]
       },
-      "army": {
-        "weight": 898,
-        "with_potions": 1226,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,249,251)"
-      },
+      "army": null,
       "role": "admin",
       "slug": "cdac7f73fdb0f782",
       "name": "Rejep",
-      "active": true,
+      "active": false,
       "town_hall": 9,
-      "league": 4,
-      "days": 10,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-24",
       "stats": {
         "CW": {
@@ -15278,7 +15282,7 @@
       "army": {
         "weight": 2763,
         "with_potions": 4234,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,147,189)",
         "potion_color": "rgb(255,49,130)"
       },
@@ -15572,20 +15576,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 5861,
-        "with_potions": 6680,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(203,21,154)",
-        "potion_color": "rgb(171,15,175)"
-      },
+      "army": null,
       "role": "coLeader",
       "slug": "c1db8a468ddb6ad8",
       "name": "санечка",
-      "active": true,
+      "active": false,
       "town_hall": 16,
-      "league": 31,
-      "days": 9,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-26",
       "stats": {
         "CW": {
@@ -15915,7 +15913,7 @@
       "army": {
         "weight": 1302,
         "with_potions": 5761,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,244,248)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -16319,9 +16317,9 @@
         ]
       },
       "army": {
-        "weight": 3132,
+        "weight": 3134,
         "with_potions": 3782,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,122,174)",
         "potion_color": "rgb(255,79,148)"
       },
@@ -16890,7 +16888,7 @@
       "army": {
         "weight": 2981,
         "with_potions": 3658,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,132,180)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -17364,7 +17362,7 @@
       "army": {
         "weight": 1099,
         "with_potions": 2822,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,143,187)"
       },
@@ -17573,10 +17571,10 @@
         "history": []
       },
       "army": {
-        "weight": 1192,
+        "weight": 1206,
         "with_potions": 1832,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,251,253)",
+        "updated": "2026-11-04 15:04",
+        "color": "rgb(255,250,252)",
         "potion_color": "rgb(255,208,227)"
       },
       "role": "coLeader",
@@ -17786,7 +17784,7 @@
       "army": {
         "weight": 1222,
         "with_potions": 1732,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,249,251)",
         "potion_color": "rgb(255,215,231)"
       },
@@ -17936,7 +17934,7 @@
       "army": {
         "weight": 1990,
         "with_potions": 2340,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,198,220)",
         "potion_color": "rgb(255,175,206)"
       },
@@ -18185,7 +18183,7 @@
       "army": {
         "weight": 2856,
         "with_potions": 4176,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,140,185)",
         "potion_color": "rgb(255,53,132)"
       },
@@ -18246,11 +18244,21 @@
           "opponent": "smushed up",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 69.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "zackad09",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d21ad64c846a383d",
@@ -18382,10 +18390,10 @@
         "history": []
       },
       "army": {
-        "weight": 1281,
+        "weight": 1291,
         "with_potions": 2849,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,245,249)",
+        "updated": "2026-11-04 15:04",
+        "color": "rgb(255,244,249)",
         "potion_color": "rgb(255,141,186)"
       },
       "role": "admin",
@@ -18445,11 +18453,21 @@
           "opponent": "smushed up",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 61.0,
+              "own_th": 12,
+              "target_th": 13,
+              "target_name": "MaX",
+              "contribution": 1,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d21ad64c846a383d",
@@ -18601,7 +18619,7 @@
       "army": {
         "weight": 3366,
         "with_potions": 3704,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,107,165)",
         "potion_color": "rgb(255,84,151)"
       },
@@ -18662,11 +18680,21 @@
           "opponent": "smushed up",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 13,
+              "target_name": "Athena iq.",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d21ad64c846a383d",
@@ -18825,7 +18853,7 @@
       "army": {
         "weight": 1622,
         "with_potions": 1774,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,222,235)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -18886,11 +18914,21 @@
           "opponent": "smushed up",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 83.0,
+              "own_th": 10,
+              "target_th": 13,
+              "target_name": "clash",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d21ad64c846a383d",
@@ -18985,7 +19023,7 @@
       "army": {
         "weight": 2652,
         "with_potions": 3262,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,154,194)",
         "potion_color": "rgb(255,113,169)"
       },
@@ -19022,21 +19060,6 @@
         }
       },
       "wars": [
-        {
-          "war_id": "7401b588695ed507",
-          "kind": "CWL",
-          "end": "2026-11-05T16:59:07+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-05",
-          "opponent": "Board of Pieces",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "b6f3d07789b3f4ec",
           "kind": "CWL",
@@ -19134,7 +19157,7 @@
       "army": {
         "weight": 1690,
         "with_potions": 1840,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,218,232)",
         "potion_color": "rgb(255,208,226)"
       },
@@ -19345,7 +19368,7 @@
       "army": {
         "weight": 1860,
         "with_potions": 1860,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,207,226)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -19572,7 +19595,7 @@
       "army": {
         "weight": 1550,
         "with_potions": 1882,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,227,238)",
         "potion_color": "rgb(255,205,225)"
       },
@@ -19609,6 +19632,21 @@
         }
       },
       "wars": [
+        {
+          "war_id": "7401b588695ed507",
+          "kind": "CWL",
+          "end": "2026-11-05T16:59:07+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-05",
+          "opponent": "Board of Pieces",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "d21ad64c846a383d",
           "kind": "CWL",
@@ -19714,7 +19752,7 @@
       "army": {
         "weight": 1152,
         "with_potions": 1660,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,254,254)",
         "potion_color": "rgb(255,220,234)"
       },
@@ -20141,7 +20179,7 @@
       "army": {
         "weight": 2362,
         "with_potions": 2402,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,173,205)",
         "potion_color": "rgb(255,171,204)"
       },
@@ -20151,7 +20189,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -20352,7 +20390,7 @@
       "army": {
         "weight": 1782,
         "with_potions": 2222,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,212,229)",
         "potion_color": "rgb(255,183,211)"
       },
@@ -20362,7 +20400,7 @@
       "active": true,
       "town_hall": 11,
       "league": 7,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -20561,11 +20599,11 @@
         "history": []
       },
       "army": {
-        "weight": 1890,
-        "with_potions": 3188,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,205,224)",
-        "potion_color": "rgb(255,118,172)"
+        "weight": 1944,
+        "with_potions": 3330,
+        "updated": "2026-11-04 15:04",
+        "color": "rgb(255,201,222)",
+        "potion_color": "rgb(255,109,166)"
       },
       "role": "member",
       "slug": "27ca33a22891b2e2",
@@ -20624,11 +20662,21 @@
           "opponent": "smushed up",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 65.0,
+              "own_th": 12,
+              "target_th": 13,
+              "target_name": "B2F2",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d21ad64c846a383d",
@@ -20927,7 +20975,7 @@
       "army": {
         "weight": 1416,
         "with_potions": 1770,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,236,244)",
         "potion_color": "rgb(255,213,229)"
       },
@@ -21087,20 +21135,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 7701,
-        "with_potions": 8082,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(132,8,201)",
-        "potion_color": "rgb(117,5,210)"
-      },
+      "army": null,
       "role": "member",
       "slug": "3eba552b07d08172",
       "name": "Александр.",
-      "active": true,
+      "active": false,
       "town_hall": 18,
-      "league": 33,
-      "days": 3,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -21250,20 +21292,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 4119,
-        "with_potions": 5337,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,56,134)",
-        "potion_color": "rgb(223,25,140)"
-      },
+      "army": null,
       "role": "admin",
       "slug": "f122b625e2413f46",
       "name": "алиночка",
-      "active": true,
+      "active": false,
       "town_hall": 15,
-      "league": 19,
-      "days": 3,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -21486,7 +21522,7 @@
       "army": {
         "weight": 3248,
         "with_potions": 4360,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,114,170)",
         "potion_color": "rgb(255,40,125)"
       },
@@ -21496,7 +21532,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-01",
       "stats": {
         "CW": {
@@ -21642,7 +21678,7 @@
       "army": {
         "weight": 2758,
         "with_potions": 3624,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,147,189)",
         "potion_color": "rgb(255,89,154)"
       },
@@ -21652,7 +21688,7 @@
       "active": true,
       "town_hall": 13,
       "league": 13,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-01",
       "stats": {
         "CW": {
@@ -21851,7 +21887,7 @@
       "army": {
         "weight": 2667,
         "with_potions": 3792,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,153,193)",
         "potion_color": "rgb(255,78,148)"
       },
@@ -21992,7 +22028,7 @@
       "army": {
         "weight": 2043,
         "with_potions": 4106,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,194,218)",
         "potion_color": "rgb(255,57,135)"
       },
@@ -22002,7 +22038,7 @@
       "active": true,
       "town_hall": 15,
       "league": 14,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -22075,7 +22111,7 @@
       "army": {
         "weight": 3391,
         "with_potions": 3672,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,105,164)",
         "potion_color": "rgb(255,86,152)"
       },
@@ -22158,7 +22194,7 @@
       "army": {
         "weight": 2770,
         "with_potions": 3836,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,146,189)",
         "potion_color": "rgb(255,75,146)"
       },
@@ -22232,10 +22268,10 @@
         "history": []
       },
       "army": {
-        "weight": 2896,
+        "weight": 2906,
         "with_potions": 3724,
-        "updated": "2026-11-04 13:45",
-        "color": "rgb(255,138,184)",
+        "updated": "2026-11-04 15:04",
+        "color": "rgb(255,137,183)",
         "potion_color": "rgb(255,83,150)"
       },
       "role": "member",
@@ -22303,7 +22339,7 @@
       "army": {
         "weight": 1564,
         "with_potions": 2204,
-        "updated": "2026-11-04 13:45",
+        "updated": "2026-11-04 15:04",
         "color": "rgb(255,226,238)",
         "potion_color": "rgb(255,184,212)"
       },
@@ -22345,6 +22381,70 @@
           "date": "2026-11-04",
           "town_hall": 11,
           "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 4765,
+        "with_potions": 7506,
+        "updated": "2026-11-04 15:04",
+        "color": "rgb(245,29,126)",
+        "potion_color": "rgb(139,9,196)"
+      },
+      "role": "member",
+      "slug": "ee2db2f53a5b528a",
+      "name": "бабаджан 1",
+      "active": true,
+      "town_hall": 18,
+      "league": 28,
+      "days": 0,
+      "first_seen": "2026-11-04",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-04",
+          "town_hall": 18,
+          "league": "Dragon League 28",
           "donated": 0,
           "received": 0
         }

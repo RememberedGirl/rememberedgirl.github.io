@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-04T13:45:09+03:00",
+  "collected_at": "2026-11-04T15:04:44+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Blushing snow",
-      "total_stars": 52,
+      "total_stars": 64,
       "played": false,
       "state": "roster",
       "members": [
@@ -55,10 +55,6 @@
           "stars": null
         },
         {
-          "th": 12,
-          "stars": null
-        },
-        {
           "th": 13,
           "stars": null
         },
@@ -96,6 +92,10 @@
         },
         {
           "th": 11,
+          "stars": null
+        },
+        {
+          "th": 10,
           "stars": null
         },
         {
@@ -306,7 +306,7 @@
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 14,
@@ -318,7 +318,7 @@
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 13,
@@ -326,7 +326,7 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 13,
@@ -334,7 +334,7 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 13,
@@ -366,11 +366,11 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 14,
@@ -780,7 +780,7 @@
     {
       "day": null,
       "name": "MABAIT CLAN",
-      "total_stars": 84,
+      "total_stars": 89,
       "played": false,
       "state": "unknown",
       "members": [
