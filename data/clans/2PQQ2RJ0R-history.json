@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "04.11.2026, 15:05 МСК",
+  "generated": "05.11.2026, 16:29 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -142,9 +142,9 @@
         ]
       },
       "army": {
-        "weight": 6732,
-        "with_potions": 7858,
-        "updated": "2026-11-04 15:04",
+        "weight": 6739,
+        "with_potions": 7860,
+        "updated": "2026-11-05 16:29",
         "color": "rgb(169,15,176)",
         "potion_color": "rgb(126,6,205)"
       },
@@ -154,7 +154,7 @@
       "active": true,
       "town_hall": 18,
       "league": 27,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -169,18 +169,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 5,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 8,
+          "clan_stars": 8,
+          "average": 2.7,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -188,7 +203,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -203,13 +218,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 18,
+              "target_th": 18,
+              "target_name": "MB Mukto biswas",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -263,6 +288,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 18,
+          "league": "Titan League 27",
+          "donated": 558,
+          "received": 359
+        },
         {
           "date": "2026-11-04",
           "town_hall": 18,
@@ -320,9 +352,9 @@
         "history": []
       },
       "army": {
-        "weight": 5036,
+        "weight": 5038,
         "with_potions": 5407,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(234,27,133)",
         "potion_color": "rgb(220,24,142)"
       },
@@ -332,7 +364,7 @@
       "active": true,
       "town_hall": 15,
       "league": 24,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -347,18 +379,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -366,7 +413,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -381,13 +428,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "..",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -441,6 +498,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 15,
+          "league": "P.E.K.K.A League 24",
+          "donated": 519,
+          "received": 239
+        },
         {
           "date": "2026-11-04",
           "town_hall": 15,
@@ -514,9 +578,9 @@
         ]
       },
       "army": {
-        "weight": 5245,
+        "weight": 5252,
         "with_potions": 6405,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(226,26,138)",
         "potion_color": "rgb(182,17,168)"
       },
@@ -526,7 +590,7 @@
       "active": true,
       "town_hall": 16,
       "league": 21,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -541,18 +605,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 5,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 8,
+          "clan_stars": 8,
+          "average": 2.7,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -560,7 +639,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -575,13 +654,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 15,
+              "target_name": "Jess.Akash",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -635,6 +724,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 16,
+          "league": "Golem League 21",
+          "donated": 297,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 16,
@@ -708,9 +804,9 @@
         ]
       },
       "army": {
-        "weight": 4962,
+        "weight": 4972,
         "with_potions": 5765,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(237,28,131)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -720,7 +816,7 @@
       "active": true,
       "town_hall": 15,
       "league": 18,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -735,18 +831,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 5,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 8,
+          "clan_stars": 8,
+          "average": 2.7,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -754,7 +865,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -769,13 +880,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "GG",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -829,6 +950,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 15,
+          "league": "Witch League 18",
+          "donated": 200,
+          "received": 2
+        },
         {
           "date": "2026-11-04",
           "town_hall": 15,
@@ -902,10 +1030,10 @@
         ]
       },
       "army": {
-        "weight": 4086,
+        "weight": 4093,
         "with_potions": 4460,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,59,136)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,58,136)",
         "potion_color": "rgb(255,34,121)"
       },
       "role": "member",
@@ -914,7 +1042,7 @@
       "active": true,
       "town_hall": 14,
       "league": 18,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -929,25 +1057,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "4813df4298790a3d",
+          "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
+          "end": "2026-11-07T14:30:47+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -957,19 +1085,54 @@
           "attack_rows": []
         },
         {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "hưng vip pro",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
           "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "V9V",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -1023,6 +1186,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Witch League 18",
+          "donated": 1136,
+          "received": 1294
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -1082,7 +1252,7 @@
       "army": {
         "weight": 4259,
         "with_potions": 4616,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,47,129)",
         "potion_color": "rgb(251,30,122)"
       },
@@ -1092,7 +1262,7 @@
       "active": true,
       "town_hall": 14,
       "league": 17,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1107,18 +1277,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -1126,7 +1311,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -1141,16 +1326,33 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 15,
+              "target_name": "Yash",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 0,
+          "received": 123
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -1224,10 +1426,10 @@
         ]
       },
       "army": {
-        "weight": 3461,
+        "weight": 3489,
         "with_potions": 3926,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,100,161)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,98,160)",
         "potion_color": "rgb(255,69,142)"
       },
       "role": "admin",
@@ -1236,7 +1438,7 @@
       "active": true,
       "town_hall": 13,
       "league": 17,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1251,33 +1453,18 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
-        {
-          "war_id": "4813df4298790a3d",
-          "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
@@ -1285,13 +1472,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 14,
+              "target_name": "john",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -1361,6 +1558,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 13,
+          "league": "Witch League 17",
+          "donated": 323,
+          "received": 60
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 13,
           "league": "Witch League 17",
@@ -1417,11 +1621,11 @@
         "history": []
       },
       "army": {
-        "weight": 3760,
-        "with_potions": 4348,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,80,149)",
-        "potion_color": "rgb(255,41,125)"
+        "weight": 3792,
+        "with_potions": 4398,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,78,148)",
+        "potion_color": "rgb(255,38,123)"
       },
       "role": "leader",
       "slug": "726fa45909a1d11d",
@@ -1429,7 +1633,7 @@
       "active": true,
       "town_hall": 14,
       "league": 17,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1444,25 +1648,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "4813df4298790a3d",
+          "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
+          "end": "2026-11-07T14:30:47+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1472,19 +1676,54 @@
           "attack_rows": []
         },
         {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "NT TÔN",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
           "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 15,
+              "target_name": "TUN LIN ...pro",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -1538,6 +1777,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 994,
+          "received": 552
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -1610,20 +1856,14 @@
           }
         ]
       },
-      "army": {
-        "weight": 3603,
-        "with_potions": 4476,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,91,155)",
-        "potion_color": "rgb(255,33,120)"
-      },
+      "army": null,
       "role": "member",
       "slug": "1dec5fd80dd93d4c",
       "name": "Джони-Рубироид",
-      "active": true,
+      "active": false,
       "town_hall": 14,
-      "league": 16,
-      "days": 3,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1686,6 +1926,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Witch League 16",
+          "donated": 90,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -1759,10 +2006,10 @@
         ]
       },
       "army": {
-        "weight": 3900,
+        "weight": 3915,
         "with_potions": 4873,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,71,143)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,70,143)",
         "potion_color": "rgb(241,28,128)"
       },
       "role": "member",
@@ -1771,7 +2018,7 @@
       "active": true,
       "town_hall": 15,
       "league": 16,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1786,18 +2033,33 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -1805,7 +2067,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -1820,13 +2082,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "bkash biswas",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -1915,6 +2187,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 15,
+          "league": "Witch League 16",
+          "donated": 936,
+          "received": 790
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 15,
           "league": "Witch League 16",
@@ -1987,10 +2266,10 @@
         ]
       },
       "army": {
-        "weight": 3590,
+        "weight": 3604,
         "with_potions": 3984,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,92,156)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,91,155)",
         "potion_color": "rgb(255,65,140)"
       },
       "role": "admin",
@@ -1999,7 +2278,7 @@
       "active": true,
       "town_hall": 13,
       "league": 14,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2014,25 +2293,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "4813df4298790a3d",
+          "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
+          "end": "2026-11-07T14:30:47+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2042,14 +2321,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 12,
+              "target_name": "MieuThanKiet",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
           "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -2118,6 +2422,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 13,
+          "league": "Valkyrie League 14",
+          "donated": 155,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 13,
@@ -2191,10 +2502,10 @@
         ]
       },
       "army": {
-        "weight": 3175,
+        "weight": 3185,
         "with_potions": 4196,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,119,173)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,119,172)",
         "potion_color": "rgb(255,51,131)"
       },
       "role": "member",
@@ -2203,7 +2514,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2218,18 +2529,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -2237,7 +2563,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -2252,13 +2578,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "bhavshya",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -2312,6 +2648,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 151,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -2385,9 +2728,9 @@
         ]
       },
       "army": {
-        "weight": 3105,
+        "weight": 3107,
         "with_potions": 3796,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,124,175)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -2397,7 +2740,7 @@
       "active": true,
       "town_hall": 13,
       "league": 15,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2412,33 +2755,18 @@
           "success": 1
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
-          "average": 3.0,
+          "attacks": 3,
+          "stars": 7,
+          "clan_stars": 7,
+          "average": 2.3,
           "attendance_rate": 100,
           "success": 2
         }
       },
       "wars": [
-        {
-          "war_id": "4813df4298790a3d",
-          "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
@@ -2446,13 +2774,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 80.0,
+              "own_th": 13,
+              "target_th": 13,
+              "target_name": "BD.transformer",
+              "contribution": 1,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -2532,6 +2870,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 13,
+          "league": "Valkyrie League 15",
+          "donated": 100,
+          "received": 0
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 13,
           "league": "Valkyrie League 15",
@@ -2588,11 +2933,11 @@
         "history": []
       },
       "army": {
-        "weight": 3853,
-        "with_potions": 4390,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,74,145)",
-        "potion_color": "rgb(255,38,124)"
+        "weight": 3868,
+        "with_potions": 4460,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,73,145)",
+        "potion_color": "rgb(255,34,121)"
       },
       "role": "member",
       "slug": "a6926e303d99df4c",
@@ -2600,7 +2945,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2615,25 +2960,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "4813df4298790a3d",
+          "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
+          "end": "2026-11-07T14:30:47+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2643,19 +2988,54 @@
           "attack_rows": []
         },
         {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 13,
+              "target_name": "RemixVN",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
           "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "jai",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -2724,6 +3104,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 455,
+          "received": 857
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -2797,11 +3184,11 @@
         ]
       },
       "army": {
-        "weight": 2683,
-        "with_potions": 3135,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,152,192)",
-        "potion_color": "rgb(255,122,174)"
+        "weight": 2693,
+        "with_potions": 3155,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,151,192)",
+        "potion_color": "rgb(255,121,173)"
       },
       "role": "member",
       "slug": "cb94b49995f9c6a2",
@@ -2809,7 +3196,7 @@
       "active": true,
       "town_hall": 12,
       "league": 13,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2824,18 +3211,33 @@
           "success": 1
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -2843,7 +3245,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -2858,13 +3260,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 12,
+              "target_name": "shahid",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -2944,6 +3356,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 12,
+          "league": "Valkyrie League 13",
+          "donated": 106,
+          "received": 0
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 12,
           "league": "Valkyrie League 13",
@@ -3016,19 +3435,19 @@
         ]
       },
       "army": {
-        "weight": 3143,
-        "with_potions": 3658,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,121,174)",
-        "potion_color": "rgb(255,87,153)"
+        "weight": 3160,
+        "with_potions": 4010,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,120,173)",
+        "potion_color": "rgb(255,64,139)"
       },
       "role": "member",
       "slug": "f9b44add007968d4",
       "name": "Никита рус",
       "active": true,
-      "town_hall": 13,
+      "town_hall": 14,
       "league": 13,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3056,6 +3475,46 @@
       },
       "wars": [
         {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "jokerr",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T14:06:02+03:00",
@@ -3082,6 +3541,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Valkyrie League 13",
+          "donated": 234,
+          "received": 1120
+        },
         {
           "date": "2026-11-04",
           "town_hall": 13,
@@ -3139,11 +3605,11 @@
         "history": []
       },
       "army": {
-        "weight": 3190,
-        "with_potions": 4266,
-        "updated": "2026-11-04 15:04",
+        "weight": 3197,
+        "with_potions": 4316,
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,118,172)",
-        "potion_color": "rgb(255,47,129)"
+        "potion_color": "rgb(255,43,127)"
       },
       "role": "member",
       "slug": "b66077f3ebea29cd",
@@ -3151,7 +3617,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3179,6 +3645,46 @@
       },
       "wars": [
         {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "phương",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
           "end": "2026-11-04T14:06:02+03:00",
@@ -3205,6 +3711,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 75
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -3280,7 +3793,7 @@
       "army": {
         "weight": 1781,
         "with_potions": 2619,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,212,229)",
         "potion_color": "rgb(255,156,195)"
       },
@@ -3290,7 +3803,7 @@
       "active": true,
       "town_hall": 12,
       "league": 12,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3317,6 +3830,36 @@
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
@@ -3379,6 +3922,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 12,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 12,
           "league": "Wizard League 12",
@@ -3435,10 +3985,10 @@
         "history": []
       },
       "army": {
-        "weight": 3154,
+        "weight": 3166,
         "with_potions": 3656,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,121,173)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,120,173)",
         "potion_color": "rgb(255,87,153)"
       },
       "role": "member",
@@ -3447,7 +3997,7 @@
       "active": true,
       "town_hall": 13,
       "league": 12,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3462,33 +4012,18 @@
           "success": 0
         },
         "CWL": {
-          "wars": 1,
-          "attended": 1,
+          "wars": 2,
+          "attended": 2,
           "missed": 0,
-          "attacks": 1,
-          "stars": 3,
-          "clan_stars": 3,
+          "attacks": 2,
+          "stars": 6,
+          "clan_stars": 6,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
-        {
-          "war_id": "4813df4298790a3d",
-          "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
@@ -3496,13 +4031,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 15,
+              "target_name": "kyuo",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "f3997182f8ad1168",
@@ -3546,6 +4091,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 13,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 13,
@@ -3619,10 +4171,10 @@
         ]
       },
       "army": {
-        "weight": 3441,
+        "weight": 3451,
         "with_potions": 3798,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,102,162)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,101,161)",
         "potion_color": "rgb(255,78,147)"
       },
       "role": "member",
@@ -3631,7 +4183,7 @@
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3646,18 +4198,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
-          "average": 3.0,
+          "attacks": 3,
+          "stars": 8,
+          "clan_stars": 8,
+          "average": 2.7,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -3665,7 +4232,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -3680,13 +4247,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 99.0,
+              "own_th": 13,
+              "target_th": 15,
+              "target_name": "knockout gamer",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -3740,6 +4317,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 13,
@@ -3813,10 +4397,10 @@
         ]
       },
       "army": {
-        "weight": 2142,
+        "weight": 2162,
         "with_potions": 2452,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,188,214)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,187,213)",
         "potion_color": "rgb(255,167,202)"
       },
       "role": "coLeader",
@@ -3825,7 +4409,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3840,25 +4424,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "4813df4298790a3d",
+          "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
+          "end": "2026-11-07T14:30:47+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -3868,14 +4452,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 12,
+              "target_name": "Minh nguyễn",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
           "end": "2026-11-05T14:07:33+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -3944,6 +4553,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 128,
+          "received": 626
+        },
         {
           "date": "2026-11-04",
           "town_hall": 11,
@@ -4017,10 +4633,10 @@
         ]
       },
       "army": {
-        "weight": 1862,
+        "weight": 1872,
         "with_potions": 2408,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,206,226)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,206,225)",
         "potion_color": "rgb(255,170,204)"
       },
       "role": "admin",
@@ -4029,7 +4645,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4044,18 +4660,33 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -4063,7 +4694,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -4078,8 +4709,8 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4183,6 +4814,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 202,
+          "received": 0
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 11,
           "league": "Wizard League 10",
@@ -4241,7 +4879,7 @@
       "army": {
         "weight": 2922,
         "with_potions": 3063,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,136,183)",
         "potion_color": "rgb(255,127,177)"
       },
@@ -4251,7 +4889,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4266,18 +4904,33 @@
           "success": 1
         },
         "CWL": {
-          "wars": 1,
-          "attended": 1,
+          "wars": 2,
+          "attended": 2,
           "missed": 0,
-          "attacks": 1,
-          "stars": 3,
-          "clan_stars": 3,
-          "average": 3.0,
+          "attacks": 2,
+          "stars": 5,
+          "clan_stars": 5,
+          "average": 2.5,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -4285,7 +4938,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -4300,13 +4953,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 80.0,
+              "own_th": 12,
+              "target_th": 12,
+              "target_name": "swagking___18",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "f3997182f8ad1168",
@@ -4360,6 +5023,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 46,
+          "received": 82
+        },
         {
           "date": "2026-11-04",
           "town_hall": 12,
@@ -4419,7 +5089,7 @@
       "army": {
         "weight": 3175,
         "with_potions": 3175,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,119,173)"
       },
@@ -4429,7 +5099,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4444,33 +5114,18 @@
           "success": 1
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
-        {
-          "war_id": "4813df4298790a3d",
-          "kind": "CWL",
-          "end": "2026-11-06T14:08:05+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "d2d3b477beb72b50",
           "kind": "CWL",
@@ -4478,13 +5133,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 14,
+              "target_name": "robin",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -4513,6 +5178,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 12,
@@ -4570,9 +5242,9 @@
         "history": []
       },
       "army": {
-        "weight": 2004,
+        "weight": 2008,
         "with_potions": 2338,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,197,220)",
         "potion_color": "rgb(255,175,206)"
       },
@@ -4582,7 +5254,7 @@
       "active": true,
       "town_hall": 11,
       "league": 7,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4636,6 +5308,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 11,
+          "league": "Archer League 7",
+          "donated": 142,
+          "received": 532
+        },
         {
           "date": "2026-11-04",
           "town_hall": 11,
@@ -4795,11 +5474,11 @@
         ]
       },
       "army": {
-        "weight": 1390,
-        "with_potions": 1762,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,238,245)",
-        "potion_color": "rgb(255,213,230)"
+        "weight": 1434,
+        "with_potions": 1822,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,235,243)",
+        "potion_color": "rgb(255,209,227)"
       },
       "role": "member",
       "slug": "80b4f53b9e0580af",
@@ -4807,7 +5486,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4835,6 +5514,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 25,
+          "received": 66
+        },
         {
           "date": "2026-11-04",
           "town_hall": 10,
@@ -4908,19 +5594,19 @@
         ]
       },
       "army": {
-        "weight": 1132,
-        "with_potions": 1338,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,241,247)"
+        "weight": 1154,
+        "with_potions": 1688,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,254,254)",
+        "potion_color": "rgb(255,218,233)"
       },
       "role": "admin",
       "slug": "9e30e52718e27059",
       "name": "gilvy28",
       "active": true,
-      "town_hall": 9,
+      "town_hall": 10,
       "league": 5,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4948,6 +5634,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 10,
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 31
+        },
         {
           "date": "2026-11-04",
           "town_hall": 9,
@@ -5023,7 +5716,7 @@
       "army": {
         "weight": 862,
         "with_potions": 1150,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,254,254)"
       },
@@ -5033,7 +5726,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5061,6 +5754,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 9,
@@ -5118,19 +5818,19 @@
         "history": []
       },
       "army": {
-        "weight": 764,
-        "with_potions": 1156,
-        "updated": "2026-11-04 15:04",
+        "weight": 788,
+        "with_potions": 1448,
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,253,254)"
+        "potion_color": "rgb(255,234,242)"
       },
       "role": "member",
       "slug": "fe92c2908430474c",
       "name": "G-gun",
       "active": true,
-      "town_hall": 9,
-      "league": 3,
-      "days": 3,
+      "town_hall": 10,
+      "league": 4,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5158,6 +5858,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 10,
+          "league": "Barbarian League 4",
+          "donated": 52,
+          "received": 155
+        },
         {
           "date": "2026-11-04",
           "town_hall": 9,
@@ -5231,19 +5938,19 @@
         ]
       },
       "army": {
-        "weight": 820,
-        "with_potions": 846,
-        "updated": "2026-11-04 15:04",
+        "weight": 860,
+        "with_potions": 1140,
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,255,255)"
+        "potion_color": "rgb(255,254,255)"
       },
       "role": "member",
       "slug": "e7a91528da149fbb",
       "name": "vouse.7ert",
       "active": true,
-      "town_hall": 8,
+      "town_hall": 9,
       "league": 3,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5271,6 +5978,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 176,
+          "received": 155
+        },
         {
           "date": "2026-11-04",
           "town_hall": 8,
@@ -5344,9 +6058,9 @@
         ]
       },
       "army": {
-        "weight": 544,
+        "weight": 560,
         "with_potions": 828,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -5356,7 +6070,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5384,6 +6098,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 8,
@@ -5457,9 +6178,9 @@
         ]
       },
       "army": {
-        "weight": 502,
-        "with_potions": 682,
-        "updated": "2026-11-04 15:04",
+        "weight": 564,
+        "with_potions": 778,
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -5469,7 +6190,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5497,6 +6218,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 8,
@@ -5556,7 +6284,7 @@
       "army": {
         "weight": 5453,
         "with_potions": 6488,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(218,24,143)",
         "potion_color": "rgb(178,16,170)"
       },
@@ -5566,7 +6294,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5581,18 +6309,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 5,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 8,
+          "clan_stars": 8,
+          "average": 2.7,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -5600,7 +6343,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5615,13 +6358,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 15,
+              "target_name": "Risman",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -5675,6 +6428,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 16,
@@ -5734,7 +6494,7 @@
       "army": {
         "weight": 4393,
         "with_potions": 6320,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,38,123)",
         "potion_color": "rgb(185,18,165)"
       },
@@ -5744,7 +6504,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5759,18 +6519,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -5778,7 +6553,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5793,13 +6568,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 17,
+              "target_name": "no pain",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -5853,6 +6638,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 77,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 16,
@@ -5926,10 +6718,10 @@
         ]
       },
       "army": {
-        "weight": 4510,
+        "weight": 4520,
         "with_potions": 5283,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,31,119)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(254,31,119)",
         "potion_color": "rgb(225,25,139)"
       },
       "role": "admin",
@@ -5938,7 +6730,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5953,18 +6745,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -5972,7 +6779,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5987,13 +6794,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "MAHAN",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -6047,6 +6864,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 45,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 15,
@@ -6106,7 +6930,7 @@
       "army": {
         "weight": 4370,
         "with_potions": 4648,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(255,40,124)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -6116,7 +6940,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6131,18 +6955,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -6150,7 +6989,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -6165,13 +7004,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "Alpha Omar",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -6225,6 +7074,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -6298,11 +7154,11 @@
         ]
       },
       "army": {
-        "weight": 3592,
-        "with_potions": 4308,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,91,156)",
-        "potion_color": "rgb(255,44,127)"
+        "weight": 3602,
+        "with_potions": 4328,
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,91,155)",
+        "potion_color": "rgb(255,43,126)"
       },
       "role": "member",
       "slug": "e9cc8decb24e335a",
@@ -6310,7 +7166,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6325,18 +7181,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -6344,7 +7215,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -6359,13 +7230,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "Ramesh",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -6419,6 +7300,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 30,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -6492,10 +7380,10 @@
         ]
       },
       "army": {
-        "weight": 3304,
+        "weight": 3314,
         "with_potions": 3766,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,111,167)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,110,167)",
         "potion_color": "rgb(255,80,149)"
       },
       "role": "member",
@@ -6504,7 +7392,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6519,18 +7407,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -6538,7 +7441,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -6553,13 +7456,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 13,
+              "target_name": "Prime.Shuvo",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -6613,6 +7526,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 13,
@@ -6686,10 +7606,10 @@
         ]
       },
       "army": {
-        "weight": 4276,
+        "weight": 4286,
         "with_potions": 5307,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,46,128)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,45,128)",
         "potion_color": "rgb(224,25,140)"
       },
       "role": "member",
@@ -6698,7 +7618,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6713,18 +7633,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -6732,7 +7667,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -6747,13 +7682,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "BŁĂŁ",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -6807,6 +7752,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 123,
+          "received": 116
+        },
         {
           "date": "2026-11-04",
           "town_hall": 15,
@@ -6866,7 +7818,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -6876,7 +7828,7 @@
       "active": true,
       "town_hall": 15,
       "league": 17,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6891,18 +7843,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -6910,7 +7877,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -6925,13 +7892,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "Alexchoteno bos",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -6985,6 +7962,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 15,
+          "league": "Witch League 17",
+          "donated": 55,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 15,
@@ -7044,7 +8028,7 @@
       "army": {
         "weight": 4878,
         "with_potions": 6849,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(241,28,129)",
         "potion_color": "rgb(165,14,179)"
       },
@@ -7054,7 +8038,7 @@
       "active": true,
       "town_hall": 17,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7069,18 +8053,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 5,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 8,
+          "clan_stars": 8,
+          "average": 2.7,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -7088,7 +8087,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -7103,13 +8102,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 17,
+              "target_th": 17,
+              "target_name": "King",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -7163,6 +8172,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 17,
+          "league": "Unranked",
+          "donated": 49,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 17,
@@ -7222,7 +8238,7 @@
       "army": {
         "weight": 4541,
         "with_potions": 4636,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(253,31,120)",
         "potion_color": "rgb(250,30,122)"
       },
@@ -7232,7 +8248,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7247,18 +8263,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -7266,7 +8297,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "Gió Lạnh ĐầuMùa",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -7281,13 +8312,23 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "transformer",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "Enemie shanto",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "5f2d9a832823223e",
@@ -7341,6 +8382,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 48
+        },
         {
           "date": "2026-11-04",
           "town_hall": 14,
@@ -7400,7 +8448,7 @@
       "army": {
         "weight": 4731,
         "with_potions": 6172,
-        "updated": "2026-11-04 15:04",
+        "updated": "2026-11-05 16:29",
         "color": "rgb(246,29,125)",
         "potion_color": "rgb(191,19,162)"
       },
@@ -7410,7 +8458,7 @@
       "active": true,
       "town_hall": 16,
       "league": 24,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -7437,6 +8485,36 @@
         }
       },
       "wars": [
+        {
+          "war_id": "6b4d2c6de0a113dd",
+          "kind": "CWL",
+          "end": "2026-11-07T14:30:47+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "ogi to barru",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
+          "war_id": "4813df4298790a3d",
+          "kind": "CWL",
+          "end": "2026-11-06T14:08:05+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "Gió Lạnh ĐầuMùa",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "5f2d9a832823223e",
           "kind": "CWL",
@@ -7480,6 +8558,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-05",
+          "town_hall": 16,
+          "league": "P.E.K.K.A League 24",
+          "donated": 48,
+          "received": 0
+        },
+        {
           "date": "2026-11-04",
           "town_hall": 16,
           "league": "P.E.K.K.A League 24",
@@ -7522,10 +8607,10 @@
         "history": []
       },
       "army": {
-        "weight": 1190,
+        "weight": 1200,
         "with_potions": 1332,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,251,253)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,250,252)",
         "potion_color": "rgb(255,242,247)"
       },
       "role": "member",
@@ -7534,7 +8619,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -7562,6 +8647,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 62
+        },
         {
           "date": "2026-11-04",
           "town_hall": 9,
@@ -7605,10 +8697,10 @@
         "history": []
       },
       "army": {
-        "weight": 2429,
+        "weight": 2439,
         "with_potions": 2929,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,169,203)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,168,202)",
         "potion_color": "rgb(255,136,182)"
       },
       "role": "member",
@@ -7617,7 +8709,7 @@
       "active": true,
       "town_hall": 12,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -7645,6 +8737,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 12,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-04",
           "town_hall": 12,
@@ -7688,10 +8787,10 @@
         "history": []
       },
       "army": {
-        "weight": 1412,
+        "weight": 1422,
         "with_potions": 1720,
-        "updated": "2026-11-04 15:04",
-        "color": "rgb(255,236,244)",
+        "updated": "2026-11-05 16:29",
+        "color": "rgb(255,236,243)",
         "potion_color": "rgb(255,216,231)"
       },
       "role": "member",
@@ -7700,7 +8799,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 0,
+      "days": 1,
       "first_seen": "2026-11-03",
       "stats": {
         "CW": {
@@ -7728,6 +8827,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-05",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 97
+        },
         {
           "date": "2026-11-04",
           "town_hall": 10,

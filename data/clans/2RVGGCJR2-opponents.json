@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-04T20:54:59+03:00",
+  "collected_at": "2026-11-05T16:29:17+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Blushing snow",
-      "total_stars": 93,
+      "total_stars": 122,
       "played": false,
       "state": "roster",
       "members": [
@@ -68,6 +68,11 @@
         {
           "th": 13,
           "stars": null,
+          "name": "wonderpets"
+        },
+        {
+          "th": 13,
+          "stars": null,
           "name": "LegendaJR"
         },
         {
@@ -78,7 +83,7 @@
         {
           "th": 13,
           "stars": null,
-          "name": "inst:quuu131"
+          "name": "Клэшер"
         },
         {
           "th": 12,
@@ -153,11 +158,6 @@
         {
           "th": 10,
           "stars": null,
-          "name": "kakosik"
-        },
-        {
-          "th": 10,
-          "stars": null,
           "name": "Cent"
         }
       ]
@@ -165,7 +165,7 @@
     {
       "day": 1,
       "name": "SILENT SPADES",
-      "total_stars": 112,
+      "total_stars": 133,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -294,7 +294,7 @@
     {
       "day": 2,
       "name": "smushed up",
-      "total_stars": 79,
+      "total_stars": 94,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -423,7 +423,7 @@
     {
       "day": 3,
       "name": "Board of Pieces",
-      "total_stars": 191,
+      "total_stars": 231,
       "played": true,
       "state": "inWar",
       "members": [
@@ -465,7 +465,7 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 13,
@@ -477,19 +477,19 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 13,
@@ -505,54 +505,54 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 1
         }
       ]
     },
     {
       "day": 4,
       "name": "BETHEL3226",
-      "total_stars": 75,
+      "total_stars": 93,
       "played": false,
       "state": "preparation",
       "members": [
@@ -681,7 +681,7 @@
     {
       "day": null,
       "name": "Atap",
-      "total_stars": 169,
+      "total_stars": 188,
       "played": false,
       "state": "unknown",
       "members": [
@@ -810,7 +810,7 @@
     {
       "day": null,
       "name": "Alison Angel",
-      "total_stars": 120,
+      "total_stars": 125,
       "played": false,
       "state": "unknown",
       "members": [
@@ -939,7 +939,7 @@
     {
       "day": null,
       "name": "MABAIT CLAN",
-      "total_stars": 109,
+      "total_stars": 136,
       "played": false,
       "state": "unknown",
       "members": [

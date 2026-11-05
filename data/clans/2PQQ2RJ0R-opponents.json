@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-04T20:54:59+03:00",
+  "collected_at": "2026-11-05T16:29:17+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Masters of War",
-      "total_stars": 224,
+      "total_stars": 306,
       "played": false,
       "state": "roster",
       "members": [
@@ -98,11 +98,6 @@
         {
           "th": 14,
           "stars": null,
-          "name": "Джони-Рубироид"
-        },
-        {
-          "th": 14,
-          "stars": null,
           "name": "xfazen-"
         },
         {
@@ -121,9 +116,9 @@
           "name": "beka"
         },
         {
-          "th": 13,
+          "th": 14,
           "stars": null,
-          "name": "Алтын"
+          "name": "Никита рус"
         },
         {
           "th": 13,
@@ -138,7 +133,12 @@
         {
           "th": 13,
           "stars": null,
-          "name": "Мин Татар Малае"
+          "name": "nikita"
+        },
+        {
+          "th": 12,
+          "stars": null,
+          "name": "Креативный"
         },
         {
           "th": 12,
@@ -165,7 +165,7 @@
     {
       "day": 1,
       "name": "ışıldaak",
-      "total_stars": 62,
+      "total_stars": 102,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -294,7 +294,7 @@
     {
       "day": 2,
       "name": "ACB CLASHER",
-      "total_stars": 170,
+      "total_stars": 228,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -423,25 +423,21 @@
     {
       "day": 3,
       "name": "transformer",
-      "total_stars": 59,
+      "total_stars": 68,
       "played": true,
-      "state": "inWar",
+      "state": "warEnded",
       "members": [
         {
           "th": 18,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 17,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 17,
-          "stars": 0
-        },
-        {
-          "th": 15,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 15,
@@ -449,51 +445,15 @@
         },
         {
           "th": 15,
-          "stars": 0
-        },
-        {
-          "th": 15,
-          "stars": 0
-        },
-        {
-          "th": 15,
-          "stars": 0
-        },
-        {
-          "th": 14,
-          "stars": 0
-        },
-        {
-          "th": 14,
           "stars": 3
         },
         {
           "th": 15,
-          "stars": 0
-        },
-        {
-          "th": 14,
-          "stars": 0
-        },
-        {
-          "th": 14,
           "stars": 3
         },
         {
           "th": 15,
-          "stars": 0
-        },
-        {
-          "th": 14,
-          "stars": 0
-        },
-        {
-          "th": 14,
           "stars": 3
-        },
-        {
-          "th": 14,
-          "stars": 0
         },
         {
           "th": 15,
@@ -505,7 +465,47 @@
         },
         {
           "th": 14,
-          "stars": 0
+          "stars": 3
+        },
+        {
+          "th": 15,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 15,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 15,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 3
         },
         {
           "th": 15,
@@ -513,11 +513,11 @@
         },
         {
           "th": 13,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 15,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 14,
@@ -533,11 +533,11 @@
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 12,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 12,
@@ -552,12 +552,141 @@
     {
       "day": 4,
       "name": "Gió Lạnh ĐầuMùa",
-      "total_stars": 77,
+      "total_stars": 92,
+      "played": true,
+      "state": "inWar",
+      "members": [
+        {
+          "th": 16,
+          "stars": 0
+        },
+        {
+          "th": 17,
+          "stars": 0
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 0
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 0
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "name": "ogi to barru",
+      "total_stars": 165,
       "played": false,
       "state": "preparation",
       "members": [
         {
-          "th": 16,
+          "th": 18,
           "stars": null
         },
         {
@@ -565,27 +694,7 @@
           "stars": null
         },
         {
-          "th": 15,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
+          "th": 14,
           "stars": null
         },
         {
@@ -605,6 +714,18 @@
           "stars": null
         },
         {
+          "th": 14,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
+          "th": 13,
+          "stars": null
+        },
+        {
           "th": 13,
           "stars": null
         },
@@ -625,34 +746,6 @@
           "stars": null
         },
         {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
           "th": 12,
           "stars": null
         },
@@ -674,6 +767,42 @@
         },
         {
           "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 12,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
           "stars": null
         }
       ]
@@ -681,7 +810,7 @@
     {
       "day": null,
       "name": "The Brutes",
-      "total_stars": 166,
+      "total_stars": 214,
       "played": false,
       "state": "unknown",
       "members": [
@@ -722,11 +851,11 @@
           "stars": null
         },
         {
-          "th": 16,
+          "th": 15,
           "stars": null
         },
         {
-          "th": 15,
+          "th": 16,
           "stars": null
         },
         {
@@ -809,137 +938,8 @@
     },
     {
       "day": null,
-      "name": "ogi to barru",
-      "total_stars": 124,
-      "played": false,
-      "state": "unknown",
-      "members": [
-        {
-          "th": 18,
-          "stars": null
-        },
-        {
-          "th": 18,
-          "stars": null
-        },
-        {
-          "th": 17,
-          "stars": null
-        },
-        {
-          "th": 15,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "day": null,
       "name": "my friends",
-      "total_stars": 99,
+      "total_stars": 111,
       "played": false,
       "state": "unknown",
       "members": [
