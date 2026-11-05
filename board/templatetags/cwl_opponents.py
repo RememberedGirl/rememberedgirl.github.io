@@ -20,11 +20,14 @@ def cwl_opponents(clan,asset_root=''):
         column['strength_percent']=round(100*max(0,min(1,ratio)),2)
         column['star_maximum']=maximum
         column['star_percent']=round(100*(column.get('total_stars') or 0)/maximum,2) if maximum else 0
+    own_column=next((c for c in data['columns'] if c.get('own')),None)
     rows=[]
     for index in range(30):
         cells=[]
         for column in data['columns']:
             m=column['members'][index] if index<len(column['members']) else None
-            cells.append(dict(member=m,own=column.get('own',False),played=column['played'],name=column['name'],number=index+1))
+            own_member=own_column['members'][index] if own_column and index<len(own_column['members']) else None
+            delta=m['th']-own_member['th'] if m and own_member and not column.get('own') else 0
+            cells.append(dict(member=m,own=column.get('own',False),played=column['played'],name=column['name'],number=index+1,delta=delta,delta_label=('↑' if delta>0 else '↓')+str(abs(delta)) if delta else ''))
         rows.append(cells)
     return dict(opponents=data,rows=rows,asset_root=asset_root)
