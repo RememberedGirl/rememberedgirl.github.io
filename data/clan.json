@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "06.11.2026, 17:05 МСК",
+  "generated": "06.11.2026, 17:14 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -1065,7 +1065,7 @@
       "army": {
         "weight": 764,
         "with_potions": 1228,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,249,251)"
       },
@@ -2438,7 +2438,7 @@
       "army": {
         "weight": 1084,
         "with_potions": 1970,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,199,221)"
       },
@@ -3399,7 +3399,7 @@
       "army": {
         "weight": 536,
         "with_potions": 946,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -4338,7 +4338,7 @@
       "army": {
         "weight": 672,
         "with_potions": 1148,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,254,254)"
       },
@@ -5047,7 +5047,7 @@
       "army": {
         "weight": 510,
         "with_potions": 1114,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -5515,7 +5515,7 @@
       "army": {
         "weight": 698,
         "with_potions": 836,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -5901,7 +5901,7 @@
       "army": {
         "weight": 2864,
         "with_potions": 3506,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,140,185)",
         "potion_color": "rgb(255,97,159)"
       },
@@ -7405,14 +7405,20 @@
         "latest": null,
         "history": []
       },
-      "army": null,
+      "army": {
+        "weight": 632,
+        "with_potions": 664,
+        "updated": "2026-11-06 17:13",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
       "role": "member",
       "slug": "31d6ab8988997d36",
       "name": "TERANO SAUS",
-      "active": false,
+      "active": true,
       "town_hall": 8,
-      "league": null,
-      "days": null,
+      "league": 3,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -7514,7 +7520,7 @@
           "town_hall": 8,
           "league": "Skeleton League 3",
           "donated": 0,
-          "received": 20
+          "received": 0
         },
         {
           "date": "2026-11-05",
@@ -8457,7 +8463,7 @@
       "army": {
         "weight": 506,
         "with_potions": 752,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -9186,7 +9192,7 @@
       "army": {
         "weight": 1133,
         "with_potions": 2567,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,160,197)"
       },
@@ -10014,7 +10020,7 @@
       "army": {
         "weight": 572,
         "with_potions": 808,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -11788,7 +11794,7 @@
       "army": {
         "weight": 1498,
         "with_potions": 1856,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,231,240)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -12162,7 +12168,7 @@
       "army": {
         "weight": 1978,
         "with_potions": 2348,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,199,221)",
         "potion_color": "rgb(255,174,206)"
       },
@@ -13847,7 +13853,7 @@
       "army": {
         "weight": 1288,
         "with_potions": 1318,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,245,249)",
         "potion_color": "rgb(255,243,247)"
       },
@@ -15697,7 +15703,7 @@
       "army": {
         "weight": 2787,
         "with_potions": 4298,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,145,188)",
         "potion_color": "rgb(255,45,127)"
       },
@@ -16449,7 +16455,7 @@
       "army": {
         "weight": 1302,
         "with_potions": 5761,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,244,248)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -16837,7 +16843,7 @@
       "army": {
         "weight": 3150,
         "with_potions": 3782,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,121,174)",
         "potion_color": "rgb(255,79,148)"
       },
@@ -17418,9 +17424,9 @@
         ]
       },
       "army": {
-        "weight": 3030,
+        "weight": 3032,
         "with_potions": 3728,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,129,178)",
         "potion_color": "rgb(255,82,150)"
       },
@@ -17895,7 +17901,7 @@
       "army": {
         "weight": 1419,
         "with_potions": 3258,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,236,243)",
         "potion_color": "rgb(255,114,169)"
       },
@@ -17978,7 +17984,7 @@
       "army": {
         "weight": 1121,
         "with_potions": 2834,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,142,186)"
       },
@@ -18269,7 +18275,7 @@
       "army": {
         "weight": 1288,
         "with_potions": 2210,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,245,249)",
         "potion_color": "rgb(255,183,211)"
       },
@@ -18544,7 +18550,7 @@
       "army": {
         "weight": 1250,
         "with_potions": 1732,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,247,250)",
         "potion_color": "rgb(255,215,231)"
       },
@@ -18708,7 +18714,7 @@
       "army": {
         "weight": 2066,
         "with_potions": 2356,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,193,217)",
         "potion_color": "rgb(255,174,206)"
       },
@@ -19021,7 +19027,7 @@
       "army": {
         "weight": 2871,
         "with_potions": 4176,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,139,185)",
         "potion_color": "rgb(255,53,132)"
       },
@@ -19294,7 +19300,7 @@
       "army": {
         "weight": 1325,
         "with_potions": 2855,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,242,247)",
         "potion_color": "rgb(255,140,185)"
       },
@@ -19569,7 +19575,7 @@
       "army": {
         "weight": 3376,
         "with_potions": 3704,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,106,164)",
         "potion_color": "rgb(255,84,151)"
       },
@@ -19851,7 +19857,7 @@
       "army": {
         "weight": 1632,
         "with_potions": 1774,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,222,235)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -20085,7 +20091,7 @@
       "army": {
         "weight": 2688,
         "with_potions": 3262,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,152,192)",
         "potion_color": "rgb(255,113,169)"
       },
@@ -20258,7 +20264,7 @@
       "army": {
         "weight": 1700,
         "with_potions": 1840,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,217,232)",
         "potion_color": "rgb(255,208,226)"
       },
@@ -20533,7 +20539,7 @@
       "army": {
         "weight": 1860,
         "with_potions": 1860,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,207,226)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -20808,7 +20814,7 @@
       "army": {
         "weight": 1604,
         "with_potions": 1888,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,224,236)",
         "potion_color": "rgb(255,205,224)"
       },
@@ -21029,7 +21035,7 @@
       "army": {
         "weight": 1192,
         "with_potions": 1720,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,251,253)",
         "potion_color": "rgb(255,216,231)"
       },
@@ -21263,7 +21269,7 @@
       "army": {
         "weight": 3303,
         "with_potions": 4130,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,111,167)",
         "potion_color": "rgb(255,56,134)"
       },
@@ -21833,7 +21839,7 @@
       "army": {
         "weight": 1806,
         "with_potions": 2274,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,210,228)",
         "potion_color": "rgb(255,179,209)"
       },
@@ -22540,7 +22546,7 @@
       "army": {
         "weight": 1482,
         "with_potions": 1820,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,232,241)",
         "potion_color": "rgb(255,209,227)"
       },
@@ -22767,7 +22773,7 @@
       "army": {
         "weight": 7722,
         "with_potions": 8088,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(131,7,201)",
         "potion_color": "rgb(117,5,211)"
       },
@@ -23285,7 +23291,7 @@
       "army": {
         "weight": 3307,
         "with_potions": 4402,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,110,167)",
         "potion_color": "rgb(255,38,123)"
       },
@@ -23505,7 +23511,7 @@
       "army": {
         "weight": 2773,
         "with_potions": 3624,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,146,189)",
         "potion_color": "rgb(255,89,154)"
       },
@@ -23778,7 +23784,7 @@
       "army": {
         "weight": 2679,
         "with_potions": 3792,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,152,193)",
         "potion_color": "rgb(255,78,148)"
       },
@@ -23949,7 +23955,7 @@
       "army": {
         "weight": 2055,
         "with_potions": 4108,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,194,218)",
         "potion_color": "rgb(255,57,135)"
       },
@@ -24046,7 +24052,7 @@
       "army": {
         "weight": 3417,
         "with_potions": 3692,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,103,163)",
         "potion_color": "rgb(255,85,152)"
       },
@@ -24143,7 +24149,7 @@
       "army": {
         "weight": 2782,
         "with_potions": 3856,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,145,188)",
         "potion_color": "rgb(255,74,145)"
       },
@@ -24233,7 +24239,7 @@
       "army": {
         "weight": 2938,
         "with_potions": 3724,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,135,182)",
         "potion_color": "rgb(255,83,150)"
       },
@@ -24316,7 +24322,7 @@
       "army": {
         "weight": 1564,
         "with_potions": 2624,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,226,238)",
         "potion_color": "rgb(255,156,195)"
       },
@@ -24515,7 +24521,7 @@
       "army": {
         "weight": 1540,
         "with_potions": 1756,
-        "updated": "2026-11-06 17:05",
+        "updated": "2026-11-06 17:13",
         "color": "rgb(255,228,239)",
         "potion_color": "rgb(255,214,230)"
       },
