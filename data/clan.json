@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "05.11.2026, 16:29 МСК",
+  "generated": "06.11.2026, 16:56 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -1056,32 +1056,16 @@
         ]
       },
       "raids": {
-        "total_loot": 4109,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 4109,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 4109,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 754,
+        "weight": 764,
         "with_potions": 1228,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,249,251)"
       },
@@ -1091,7 +1075,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -1303,6 +1287,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 9,
           "league": "Barbarian League 4",
@@ -1450,27 +1441,11 @@
         ]
       },
       "raids": {
-        "total_loot": 6111,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 6111,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 6111,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": null,
       "role": "admin",
@@ -2438,34 +2413,34 @@
         ]
       },
       "raids": {
-        "total_loot": 5615,
+        "total_loot": 9693,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 5615,
+          "loot": 9693,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 5615,
+            "loot": 9693,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 1036,
-        "with_potions": 1888,
-        "updated": "2026-11-05 16:29",
+        "weight": 1084,
+        "with_potions": 1970,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,205,224)"
+        "potion_color": "rgb(255,199,221)"
       },
       "role": "member",
       "slug": "395f4d1c89ad4226",
@@ -2473,7 +2448,7 @@
       "active": true,
       "town_hall": 11,
       "league": 6,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -2488,10 +2463,10 @@
           "success": 8
         },
         "CWL": {
-          "wars": 1,
-          "attended": 1,
+          "wars": 2,
+          "attended": 2,
           "missed": 0,
-          "attacks": 1,
+          "attacks": 2,
           "stars": 0,
           "clan_stars": 0,
           "average": 0.0,
@@ -2501,12 +2476,12 @@
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2516,14 +2491,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "Ja",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 0,
@@ -2704,6 +2704,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 11,
+          "league": "Barbarian League 6",
+          "donated": 61,
+          "received": 124
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 11,
           "league": "Barbarian League 6",
@@ -2857,20 +2864,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 696,
-        "with_potions": 1928,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,202,223)"
-      },
-      "role": "member",
+      "army": null,
+      "role": "leader",
       "slug": "9ad7e8dd4487f5a6",
       "name": "one sixth",
-      "active": true,
+      "active": false,
       "town_hall": 12,
-      "league": 6,
-      "days": 18,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -2885,25 +2886,25 @@
           "success": 10
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
-          "average": 1.0,
+          "attacks": 3,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 1.3,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -2913,14 +2914,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 11,
+              "target_name": "taulom ah",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -3194,6 +3220,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 12,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 12,
           "league": "Barbarian League 6",
@@ -3341,32 +3374,32 @@
         ]
       },
       "raids": {
-        "total_loot": 4485,
+        "total_loot": 6754,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 4485,
+          "loot": 6754,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 4485,
+            "loot": 6754,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 530,
-        "with_potions": 940,
-        "updated": "2026-11-05 16:29",
+        "weight": 536,
+        "with_potions": 946,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -3376,7 +3409,7 @@
       "active": true,
       "town_hall": 9,
       "league": 3,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -3586,6 +3619,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 2,
+          "received": 124
+        },
         {
           "date": "2026-11-05",
           "town_hall": 9,
@@ -4273,32 +4313,32 @@
         ]
       },
       "raids": {
-        "total_loot": 3930,
-        "total_attacks": 5,
+        "total_loot": 8525,
+        "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 5,
-          "loot": 3930,
-          "allowed": 5
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 8525,
+          "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 5,
-            "loot": 3930,
-            "allowed": 5
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 8525,
+            "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 642,
+        "weight": 672,
         "with_potions": 1148,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,254,254)"
       },
@@ -4308,7 +4348,7 @@
       "active": true,
       "town_hall": 9,
       "league": 3,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -4541,6 +4581,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 38,
+          "received": 15
+        },
         {
           "date": "2026-11-05",
           "town_hall": 9,
@@ -4975,32 +5022,32 @@
         ]
       },
       "raids": {
-        "total_loot": 4549,
+        "total_loot": 10978,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 4549,
+          "loot": 10978,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 4549,
+            "loot": 10978,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 474,
-        "with_potions": 1070,
-        "updated": "2026-11-05 16:29",
+        "weight": 510,
+        "with_potions": 1114,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -5010,7 +5057,7 @@
       "active": true,
       "town_hall": 9,
       "league": 3,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -5037,6 +5084,21 @@
         }
       },
       "wars": [
+        {
+          "war_id": "08e6372eedeabb6e",
+          "kind": "CWL",
+          "end": "2026-11-07T17:13:36+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "cb78ffbf03e2a0d1",
           "kind": "CW",
@@ -5224,6 +5286,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 79,
+          "received": 51
+        },
         {
           "date": "2026-11-05",
           "town_hall": 9,
@@ -5437,36 +5506,26 @@
         ]
       },
       "raids": {
-        "total_loot": 1445,
-        "total_attacks": 2,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 2,
-          "loot": 1445,
-          "allowed": 5
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 2,
-            "loot": 1445,
-            "allowed": 5
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
-      "army": null,
+      "army": {
+        "weight": 698,
+        "with_potions": 836,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
       "role": "admin",
       "slug": "79d93f45fdb8cd17",
       "name": "Айбек",
-      "active": false,
+      "active": true,
       "town_hall": 8,
-      "league": null,
-      "days": null,
+      "league": 3,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -5700,6 +5759,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 8,
+          "league": "Skeleton League 3",
+          "donated": 36,
+          "received": 50
+        },
+        {
           "date": "2026-11-02",
           "town_hall": 8,
           "league": "Skeleton League 3",
@@ -5835,7 +5901,7 @@
       "army": {
         "weight": 2864,
         "with_potions": 3506,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,140,185)",
         "potion_color": "rgb(255,97,159)"
       },
@@ -5845,7 +5911,7 @@
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -5860,18 +5926,33 @@
           "success": 7
         },
         "CWL": {
-          "wars": 2,
-          "attended": 1,
+          "wars": 3,
+          "attended": 2,
           "missed": 1,
-          "attacks": 1,
-          "stars": 1,
-          "clan_stars": 1,
-          "average": 1.0,
-          "attendance_rate": 50,
-          "success": 0
+          "attacks": 2,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 1.5,
+          "attendance_rate": 67,
+          "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "08e6372eedeabb6e",
+          "kind": "CWL",
+          "end": "2026-11-07T17:13:36+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "be61f79ab77c0429",
           "kind": "CWL",
@@ -5879,7 +5960,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "BETHEL3226",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5894,8 +5975,8 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -6120,6 +6201,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 36,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -7317,20 +7405,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 582,
-        "with_potions": 644,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,255,255)"
-      },
+      "army": null,
       "role": "member",
       "slug": "31d6ab8988997d36",
       "name": "TERANO SAUS",
-      "active": true,
+      "active": false,
       "town_hall": 8,
-      "league": 3,
-      "days": 18,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -7427,6 +7509,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 8,
+          "league": "Skeleton League 3",
+          "donated": 0,
+          "received": 20
+        },
         {
           "date": "2026-11-05",
           "town_hall": 8,
@@ -8343,32 +8432,32 @@
         ]
       },
       "raids": {
-        "total_loot": 6739,
+        "total_loot": 9072,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 6739,
+          "loot": 9072,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 6739,
+            "loot": 9072,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 496,
+        "weight": 506,
         "with_potions": 752,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -8378,7 +8467,7 @@
       "active": true,
       "town_hall": 8,
       "league": 1,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -8611,6 +8700,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 8,
+          "league": "Skeleton League 1",
+          "donated": 52,
+          "received": 40
+        },
         {
           "date": "2026-11-05",
           "town_hall": 8,
@@ -9088,19 +9184,19 @@
         "history": []
       },
       "army": {
-        "weight": 1084,
-        "with_potions": 2132,
-        "updated": "2026-11-05 16:29",
+        "weight": 1133,
+        "with_potions": 2567,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,189,215)"
+        "potion_color": "rgb(255,160,197)"
       },
-      "role": "admin",
+      "role": "member",
       "slug": "c156c13de2b04a12",
       "name": "scr",
       "active": true,
-      "town_hall": 11,
+      "town_hall": 12,
       "league": 6,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -9115,25 +9211,25 @@
           "success": 11
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 3,
-          "clan_stars": 3,
-          "average": 1.5,
+          "attacks": 3,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 1.3,
           "attendance_rate": 100,
           "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -9143,14 +9239,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "jher",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -9423,6 +9544,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 12,
+          "league": "Barbarian League 6",
+          "donated": 71,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 11,
@@ -9861,32 +9989,32 @@
         ]
       },
       "raids": {
-        "total_loot": 6848,
+        "total_loot": 7965,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 6848,
+          "loot": 7965,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 6848,
+            "loot": 7965,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 536,
-        "with_potions": 784,
-        "updated": "2026-11-05 16:29",
+        "weight": 572,
+        "with_potions": 808,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -9896,7 +10024,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 18,
+      "days": 19,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -10082,6 +10210,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 23,
+          "received": 132
+        },
         {
           "date": "2026-11-05",
           "town_hall": 8,
@@ -10688,20 +10823,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 2595,
-        "with_potions": 3033,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,158,196)",
-        "potion_color": "rgb(255,129,178)"
-      },
+      "army": null,
       "role": "member",
       "slug": "9d4e9045d903e060",
       "name": "Legenda",
-      "active": true,
+      "active": false,
       "town_hall": 12,
-      "league": 9,
-      "days": 16,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-19",
       "stats": {
         "CW": {
@@ -10716,25 +10845,25 @@
           "success": 6
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
-          "average": 1.0,
+          "attacks": 3,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 1.3,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -10744,14 +10873,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 77.0,
+              "own_th": 12,
+              "target_th": 13,
+              "target_name": "siomai rice",
+              "contribution": 1,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -10971,6 +11125,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 12,
+          "league": "Archer League 9",
+          "donated": 271,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 12,
@@ -11264,20 +11425,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 1170,
-        "with_potions": 1728,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,252,253)",
-        "potion_color": "rgb(255,215,231)"
-      },
+      "army": null,
       "role": "member",
       "slug": "ffb673e954675e9c",
       "name": "amanChikk19",
-      "active": true,
+      "active": false,
       "town_hall": 10,
-      "league": 0,
-      "days": 16,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-20",
       "stats": {
         "CW": {
@@ -11292,14 +11447,14 @@
           "success": 3
         },
         "CWL": {
-          "wars": 2,
-          "attended": 0,
+          "wars": 3,
+          "attended": 1,
           "missed": 2,
-          "attacks": 0,
+          "attacks": 1,
           "stars": 0,
           "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
+          "average": 0.0,
+          "attendance_rate": 33,
           "success": 0
         }
       },
@@ -11311,8 +11466,8 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 0,
@@ -11608,34 +11763,34 @@
         ]
       },
       "raids": {
-        "total_loot": 5375,
+        "total_loot": 6551,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 5375,
+          "loot": 6551,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 5375,
+            "loot": 6551,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 1468,
-        "with_potions": 1834,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,233,241)",
-        "potion_color": "rgb(255,208,227)"
+        "weight": 1498,
+        "with_potions": 1856,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,231,240)",
+        "potion_color": "rgb(255,207,226)"
       },
       "role": "admin",
       "slug": "f136ee09b9667981",
@@ -11643,7 +11798,7 @@
       "active": true,
       "town_hall": 10,
       "league": 4,
-      "days": 16,
+      "days": 17,
       "first_seen": "2026-10-20",
       "stats": {
         "CW": {
@@ -11658,9 +11813,9 @@
           "success": 8
         },
         "CWL": {
-          "wars": 0,
+          "wars": 1,
           "attended": 0,
-          "missed": 0,
+          "missed": 1,
           "attacks": 0,
           "stars": 0,
           "clan_stars": 0,
@@ -11677,8 +11832,8 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 0,
           "allowed": 1,
           "stars": 0,
@@ -11858,6 +12013,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Barbarian League 4",
+          "donated": 35,
+          "received": 112
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 10,
           "league": "Barbarian League 4",
@@ -11991,32 +12153,16 @@
         ]
       },
       "raids": {
-        "total_loot": 6439,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 6439,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 6439,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 1970,
+        "weight": 1978,
         "with_potions": 2348,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,199,221)",
         "potion_color": "rgb(255,174,206)"
       },
@@ -12026,7 +12172,7 @@
       "active": true,
       "town_hall": 11,
       "league": 8,
-      "days": 15,
+      "days": 16,
       "first_seen": "2026-10-21",
       "stats": {
         "CW": {
@@ -12041,18 +12187,33 @@
           "success": 4
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
+          "attacks": 3,
           "stars": 2,
           "clan_stars": 2,
-          "average": 1.0,
+          "average": 0.7,
           "attendance_rate": 100,
           "success": 1
         }
       },
       "wars": [
+        {
+          "war_id": "08e6372eedeabb6e",
+          "kind": "CWL",
+          "end": "2026-11-07T17:13:36+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "be61f79ab77c0429",
           "kind": "CWL",
@@ -12060,7 +12221,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "BETHEL3226",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -12075,8 +12236,8 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 0,
@@ -12243,6 +12404,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 11,
+          "league": "Archer League 8",
+          "donated": 49,
+          "received": 240
+        },
         {
           "date": "2026-11-05",
           "town_hall": 11,
@@ -13670,32 +13838,16 @@
         ]
       },
       "raids": {
-        "total_loot": 5078,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 5078,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 5078,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 1282,
+        "weight": 1288,
         "with_potions": 1318,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,245,249)",
         "potion_color": "rgb(255,243,247)"
       },
@@ -13705,7 +13857,7 @@
       "active": true,
       "town_hall": 9,
       "league": 6,
-      "days": 12,
+      "days": 13,
       "first_seen": "2026-10-24",
       "stats": {
         "CW": {
@@ -13827,6 +13979,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 9,
+          "league": "Barbarian League 6",
+          "donated": 101,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 9,
@@ -14199,27 +14358,11 @@
         ]
       },
       "raids": {
-        "total_loot": 4363,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 4363,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 4363,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": null,
       "role": "admin",
@@ -15552,9 +15695,9 @@
         "history": []
       },
       "army": {
-        "weight": 2785,
-        "with_potions": 4296,
-        "updated": "2026-11-05 16:29",
+        "weight": 2787,
+        "with_potions": 4298,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,145,188)",
         "potion_color": "rgb(255,45,127)"
       },
@@ -15564,7 +15707,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 10,
+      "days": 11,
       "first_seen": "2026-10-25",
       "stats": {
         "CW": {
@@ -15579,25 +15722,25 @@
           "success": 3
         },
         "CWL": {
-          "wars": 2,
-          "attended": 1,
+          "wars": 3,
+          "attended": 2,
           "missed": 1,
-          "attacks": 1,
-          "stars": 3,
-          "clan_stars": 3,
-          "average": 3.0,
-          "attendance_rate": 50,
+          "attacks": 2,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 2.0,
+          "attendance_rate": 67,
           "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -15607,14 +15750,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 84.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "J.E.p.O.Y.",
+              "contribution": 2,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -15776,6 +15944,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 94
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 14,
           "league": "Valkyrie League 14",
@@ -15880,20 +16055,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 5880,
-        "with_potions": 6680,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(202,21,154)",
-        "potion_color": "rgb(171,15,175)"
-      },
+      "army": null,
       "role": "member",
       "slug": "c1db8a468ddb6ad8",
       "name": "НеВашКлиент.",
-      "active": true,
+      "active": false,
       "town_hall": 16,
-      "league": 31,
-      "days": 10,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-26",
       "stats": {
         "CW": {
@@ -15908,25 +16077,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -15936,14 +16105,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 17,
+              "target_name": "*\"I'm BAD'Z\"*",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -16255,7 +16449,7 @@
       "army": {
         "weight": 1302,
         "with_potions": 5761,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,244,248)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -16265,7 +16459,7 @@
       "active": true,
       "town_hall": 17,
       "league": 23,
-      "days": 10,
+      "days": 11,
       "first_seen": "2026-10-26",
       "stats": {
         "CW": {
@@ -16293,6 +16487,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 17,
+          "league": "P.E.K.K.A League 23",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 17,
@@ -16520,27 +16721,11 @@
         ]
       },
       "raids": {
-        "total_loot": 3840,
-        "total_attacks": 5,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 5,
-          "loot": 3840,
-          "allowed": 5
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 5,
-            "loot": 3840,
-            "allowed": 5
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": null,
       "role": "admin",
@@ -16643,32 +16828,16 @@
         ]
       },
       "raids": {
-        "total_loot": 4915,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 4915,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 4915,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 3146,
+        "weight": 3150,
         "with_potions": 3782,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,121,174)",
         "potion_color": "rgb(255,79,148)"
       },
@@ -16678,7 +16847,7 @@
       "active": true,
       "town_hall": 13,
       "league": 12,
-      "days": 9,
+      "days": 10,
       "first_seen": "2026-10-27",
       "stats": {
         "CW": {
@@ -16756,6 +16925,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Wizard League 12",
+          "donated": 46,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -17219,34 +17395,34 @@
         ]
       },
       "raids": {
-        "total_loot": 8106,
-        "total_attacks": 6,
+        "total_loot": 3623,
+        "total_attacks": 2,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 8106,
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 2,
+          "loot": 3623,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 8106,
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 2,
+            "loot": 3623,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 2999,
-        "with_potions": 3664,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,131,180)",
-        "potion_color": "rgb(255,87,153)"
+        "weight": 3030,
+        "with_potions": 3728,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,129,178)",
+        "potion_color": "rgb(255,82,150)"
       },
       "role": "admin",
       "slug": "edfe8978dbe89e39",
@@ -17254,7 +17430,7 @@
       "active": true,
       "town_hall": 13,
       "league": 12,
-      "days": 9,
+      "days": 10,
       "first_seen": "2026-10-27",
       "stats": {
         "CW": {
@@ -17269,25 +17445,25 @@
           "success": 1
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
-          "average": 1.0,
+          "attacks": 3,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 1.3,
           "attendance_rate": 100,
-          "success": 0
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -17297,14 +17473,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 89.0,
+              "own_th": 13,
+              "target_th": 13,
+              "target_name": "VOLUME VI",
+              "contribution": 2,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -17407,6 +17608,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Wizard League 12",
+          "donated": 22,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -17685,19 +17893,19 @@
         "history": []
       },
       "army": {
-        "weight": 1409,
-        "with_potions": 3208,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,237,244)",
-        "potion_color": "rgb(255,117,171)"
+        "weight": 1419,
+        "with_potions": 3258,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,236,243)",
+        "potion_color": "rgb(255,114,169)"
       },
-      "role": "member",
+      "role": "coLeader",
       "slug": "6b6f62d67e1e2e2b",
       "name": "SkOrPiOn",
       "active": true,
       "town_hall": 14,
       "league": 11,
-      "days": 8,
+      "days": 9,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -17725,6 +17933,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 14,
+          "league": "Wizard League 11",
+          "donated": 259,
+          "received": 158
+        },
         {
           "date": "2026-11-05",
           "town_hall": 14,
@@ -17761,19 +17976,19 @@
         "history": []
       },
       "army": {
-        "weight": 1117,
-        "with_potions": 2830,
-        "updated": "2026-11-05 16:29",
+        "weight": 1121,
+        "with_potions": 2834,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,142,186)"
       },
       "role": "leader",
       "slug": "611789a02b5f66eb",
-      "name": "Клэшер",
+      "name": "Санёчек",
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 8,
+      "days": 9,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -17788,25 +18003,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 5,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 7,
+          "clan_stars": 7,
+          "average": 2.3,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -17816,14 +18031,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 12,
+              "target_name": "rafael",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -17927,6 +18167,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 135,
+          "received": 30
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 13,
           "league": "Wizard League 11",
@@ -17997,26 +18244,42 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 6653,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 6653,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 6653,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 1272,
-        "with_potions": 1870,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,246,249)",
-        "potion_color": "rgb(255,206,225)"
+        "weight": 1288,
+        "with_potions": 2210,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,245,249)",
+        "potion_color": "rgb(255,183,211)"
       },
       "role": "coLeader",
       "slug": "349fe1fa1adde91c",
       "name": "чилен",
       "active": true,
-      "town_hall": 10,
+      "town_hall": 11,
       "league": 7,
-      "days": 8,
+      "days": 9,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -18031,25 +18294,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 4,
-          "clan_stars": 4,
-          "average": 2.0,
+          "attacks": 3,
+          "stars": 5,
+          "clan_stars": 5,
+          "average": 1.7,
           "attendance_rate": 100,
           "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -18059,14 +18322,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 9,
+              "target_name": "Galadriel",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -18170,6 +18458,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 11,
+          "league": "Archer League 7",
+          "donated": 2,
+          "received": 263
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 10,
           "league": "Archer League 7",
@@ -18247,10 +18542,10 @@
         "history": []
       },
       "army": {
-        "weight": 1236,
+        "weight": 1250,
         "with_potions": 1732,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,248,251)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,247,250)",
         "potion_color": "rgb(255,215,231)"
       },
       "role": "member",
@@ -18259,7 +18554,7 @@
       "active": true,
       "town_hall": 10,
       "league": 5,
-      "days": 8,
+      "days": 9,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -18303,6 +18598,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 10,
@@ -18381,33 +18683,33 @@
         ]
       },
       "raids": {
-        "total_loot": 5160,
+        "total_loot": 9720,
         "total_attacks": 6,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 6,
-          "loot": 5160,
+          "loot": 9720,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 6,
-            "loot": 5160,
+            "loot": 9720,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 2022,
-        "with_potions": 2344,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,196,219)",
+        "weight": 2066,
+        "with_potions": 2356,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,193,217)",
         "potion_color": "rgb(255,174,206)"
       },
       "role": "member",
@@ -18416,7 +18718,7 @@
       "active": true,
       "town_hall": 11,
       "league": 6,
-      "days": 8,
+      "days": 9,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -18431,25 +18733,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
-          "average": 1.0,
+          "attacks": 3,
+          "stars": 4,
+          "clan_stars": 3,
+          "average": 1.3,
           "attendance_rate": 100,
-          "success": 0
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -18459,14 +18761,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 11,
+              "target_name": "Bacon",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -18585,6 +18912,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 11,
+          "league": "Barbarian League 6",
+          "donated": 47,
+          "received": 569
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 11,
           "league": "Barbarian League 6",
@@ -18662,33 +18996,33 @@
         ]
       },
       "raids": {
-        "total_loot": 2477,
+        "total_loot": 4860,
         "total_attacks": 2,
         "count": 1,
         "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
           "attacks": 2,
-          "loot": 2477,
+          "loot": 4860,
           "allowed": 6
         },
         "history": [
           {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
             "attacks": 2,
-            "loot": 2477,
+            "loot": 4860,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 2866,
+        "weight": 2871,
         "with_potions": 4176,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,140,185)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,139,185)",
         "potion_color": "rgb(255,53,132)"
       },
       "role": "admin",
@@ -18697,7 +19031,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -18712,12 +19046,12 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
           "average": 1.0,
           "attendance_rate": 100,
           "success": 1
@@ -18725,12 +19059,12 @@
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -18740,14 +19074,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 13,
+              "target_name": "nightmare",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -18842,6 +19201,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 102,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 14,
           "league": "Valkyrie League 14",
@@ -18926,10 +19292,10 @@
         "history": []
       },
       "army": {
-        "weight": 1315,
+        "weight": 1325,
         "with_potions": 2855,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,243,248)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,242,247)",
         "potion_color": "rgb(255,140,185)"
       },
       "role": "admin",
@@ -18938,7 +19304,7 @@
       "active": true,
       "town_hall": 12,
       "league": 8,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -18953,25 +19319,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 1,
-          "clan_stars": 1,
-          "average": 0.5,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 1.0,
           "attendance_rate": 100,
-          "success": 0
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -18981,14 +19347,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 12,
+              "target_th": 12,
+              "target_name": "light",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -19092,6 +19483,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 12,
+          "league": "Archer League 8",
+          "donated": 127,
+          "received": 72
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 12,
           "league": "Archer League 8",
@@ -19162,33 +19560,17 @@
         ]
       },
       "raids": {
-        "total_loot": 7652,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 7652,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 7652,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 3366,
+        "weight": 3376,
         "with_potions": 3704,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,107,165)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,106,164)",
         "potion_color": "rgb(255,84,151)"
       },
       "role": "admin",
@@ -19197,7 +19579,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -19212,25 +19594,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 4,
-          "clan_stars": 4,
-          "average": 2.0,
+          "attacks": 3,
+          "stars": 7,
+          "clan_stars": 7,
+          "average": 2.3,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -19240,14 +19622,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 14,
+              "target_name": "JEPOY TH14",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -19351,6 +19758,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 160,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 13,
           "league": "Unranked",
@@ -19428,32 +19842,16 @@
         ]
       },
       "raids": {
-        "total_loot": 6109,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 6109,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 6109,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 1622,
+        "weight": 1632,
         "with_potions": 1774,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,222,235)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -19463,7 +19861,7 @@
       "active": true,
       "town_hall": 10,
       "league": 0,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -19478,12 +19876,12 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
           "average": 1.0,
           "attendance_rate": 100,
           "success": 1
@@ -19491,12 +19889,12 @@
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -19506,14 +19904,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 10,
+              "target_name": "Rastafaram",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -19582,6 +20005,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 10,
@@ -19653,10 +20083,10 @@
         "history": []
       },
       "army": {
-        "weight": 2671,
+        "weight": 2688,
         "with_potions": 3262,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,153,193)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,152,192)",
         "potion_color": "rgb(255,113,169)"
       },
       "role": "admin",
@@ -19665,7 +20095,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -19699,13 +20129,23 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "BETHEL3226",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "rj",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "b6f3d07789b3f4ec",
@@ -19724,6 +20164,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 20,
+          "received": 327
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -19811,7 +20258,7 @@
       "army": {
         "weight": 1700,
         "with_potions": 1840,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,217,232)",
         "potion_color": "rgb(255,208,226)"
       },
@@ -19821,7 +20268,7 @@
       "active": true,
       "town_hall": 10,
       "league": 7,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -19836,25 +20283,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
-          "average": 1.0,
+          "attacks": 3,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 1.3,
           "attendance_rate": 100,
-          "success": 0
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -19864,14 +20311,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 10,
+              "target_name": "Nygelou",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -19975,6 +20447,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 10,
           "league": "Archer League 7",
@@ -20054,7 +20533,7 @@
       "army": {
         "weight": 1860,
         "with_potions": 1860,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,207,226)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -20064,7 +20543,7 @@
       "active": true,
       "town_hall": 10,
       "league": 7,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -20079,12 +20558,12 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
           "average": 1.0,
           "attendance_rate": 100,
           "success": 0
@@ -20092,12 +20571,12 @@
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -20107,14 +20586,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 10,
+              "target_name": "Ban",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -20218,6 +20722,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 10,
           "league": "Archer League 7",
@@ -20288,34 +20799,18 @@
         ]
       },
       "raids": {
-        "total_loot": 7953,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 7953,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 7953,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
-        "weight": 1578,
-        "with_potions": 1886,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,225,237)",
-        "potion_color": "rgb(255,205,225)"
+        "weight": 1604,
+        "with_potions": 1888,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,224,236)",
+        "potion_color": "rgb(255,205,224)"
       },
       "role": "member",
       "slug": "fd2b4c2c438460cb",
@@ -20323,7 +20818,7 @@
       "active": true,
       "town_hall": 10,
       "league": 7,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -20338,25 +20833,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 1,
-          "attended": 0,
+          "wars": 2,
+          "attended": 1,
           "missed": 1,
-          "attacks": 0,
+          "attacks": 1,
           "stars": 0,
           "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
+          "average": 0.0,
+          "attendance_rate": 50,
           "success": 0
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -20366,14 +20861,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 9,
+              "target_name": "Boss R",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 0,
@@ -20422,6 +20942,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Archer League 7",
+          "donated": 66,
+          "received": 362
+        },
         {
           "date": "2026-11-05",
           "town_hall": 10,
@@ -20500,11 +21027,11 @@
         "history": []
       },
       "army": {
-        "weight": 1162,
-        "with_potions": 1660,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,253,254)",
-        "potion_color": "rgb(255,220,234)"
+        "weight": 1192,
+        "with_potions": 1720,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,251,253)",
+        "potion_color": "rgb(255,216,231)"
       },
       "role": "admin",
       "slug": "778eba7ac3f55b96",
@@ -20512,7 +21039,7 @@
       "active": true,
       "town_hall": 10,
       "league": 4,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -20527,25 +21054,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0.0,
+          "attacks": 3,
+          "stars": 1,
+          "clan_stars": 1,
+          "average": 0.3,
           "attendance_rate": 100,
           "success": 0
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -20555,14 +21082,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 9,
+              "target_name": "Jlcg",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -20632,6 +21184,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Barbarian League 4",
+          "donated": 50,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 10,
           "league": "Barbarian League 4",
@@ -20695,42 +21254,26 @@
         ]
       },
       "raids": {
-        "total_loot": 5618,
-        "total_attacks": 6,
-        "count": 1,
-        "latest": {
-          "start": "2026-10-30T10:00:00+03:00",
-          "end": "2026-11-02T10:00:00+03:00",
-          "date_label": "2026-10-30",
-          "attacks": 6,
-          "loot": 5618,
-          "allowed": 6
-        },
-        "history": [
-          {
-            "start": "2026-10-30T10:00:00+03:00",
-            "end": "2026-11-02T10:00:00+03:00",
-            "date_label": "2026-10-30",
-            "attacks": 6,
-            "loot": 5618,
-            "allowed": 6
-          }
-        ]
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
       },
       "army": {
         "weight": 3303,
         "with_potions": 4130,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,111,167)",
         "potion_color": "rgb(255,56,134)"
       },
-      "role": "member",
+      "role": "admin",
       "slug": "683293be0ecd9c45",
       "name": "Memento Mori",
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -20758,12 +21301,12 @@
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -20771,6 +21314,31 @@
           "stars": 0,
           "clan_stars": 0,
           "attack_rows": []
+        },
+        {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 92.0,
+              "own_th": 14,
+              "target_th": 16,
+              "target_name": "hugot",
+              "contribution": 1,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "b6f3d07789b3f4ec",
@@ -20858,6 +21426,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 14,
@@ -20986,20 +21561,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 2362,
-        "with_potions": 2402,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,173,205)",
-        "potion_color": "rgb(255,171,204)"
-      },
+      "army": null,
       "role": "coLeader",
       "slug": "77c592e255eb8892",
       "name": "DarK_Knight",
-      "active": true,
+      "active": false,
       "town_hall": 11,
-      "league": 10,
-      "days": 7,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -21014,12 +21583,12 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
           "average": 1.0,
           "attendance_rate": 100,
           "success": 1
@@ -21027,12 +21596,12 @@
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -21042,14 +21611,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 12,
+              "target_name": "Chef Big_J",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -21153,6 +21747,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 12,
+          "received": 67
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 11,
           "league": "Wizard League 10",
@@ -21230,10 +21831,10 @@
         "history": []
       },
       "army": {
-        "weight": 1796,
+        "weight": 1806,
         "with_potions": 2274,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,211,228)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,210,228)",
         "potion_color": "rgb(255,179,209)"
       },
       "role": "member",
@@ -21242,7 +21843,7 @@
       "active": true,
       "town_hall": 11,
       "league": 7,
-      "days": 7,
+      "days": 8,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -21257,25 +21858,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 1,
-          "clan_stars": 1,
-          "average": 0.5,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 1.0,
           "attendance_rate": 100,
-          "success": 0
+          "success": 1
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -21285,14 +21886,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 12,
+              "target_name": "ßmîllïñg",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 2,
@@ -21396,6 +22022,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 11,
+          "league": "Archer League 7",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 11,
           "league": "Archer League 7",
@@ -21472,20 +22105,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 1972,
-        "with_potions": 3346,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,199,221)",
-        "potion_color": "rgb(255,108,166)"
-      },
+      "army": null,
       "role": "member",
       "slug": "27ca33a22891b2e2",
       "name": "LegendaJR",
-      "active": true,
+      "active": false,
       "town_hall": 13,
-      "league": 11,
-      "days": 6,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -21500,25 +22127,25 @@
           "success": 2
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 2,
-          "clan_stars": 2,
-          "average": 1.0,
+          "attacks": 3,
+          "stars": 5,
+          "clan_stars": 5,
+          "average": 1.7,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -21528,14 +22155,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 80.0,
+              "own_th": 13,
+              "target_th": 13,
+              "target_name": "JEPOY TH13",
+              "contribution": 1,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -21638,6 +22290,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -21879,11 +22538,11 @@
         "history": []
       },
       "army": {
-        "weight": 1436,
-        "with_potions": 1800,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,235,243)",
-        "potion_color": "rgb(255,211,228)"
+        "weight": 1482,
+        "with_potions": 1820,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,232,241)",
+        "potion_color": "rgb(255,209,227)"
       },
       "role": "admin",
       "slug": "609fe23ae376bb4b",
@@ -21891,7 +22550,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -21906,25 +22565,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0.0,
+          "attacks": 3,
+          "stars": 1,
+          "clan_stars": 1,
+          "average": 0.3,
           "attendance_rate": 100,
           "success": 0
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -21934,14 +22593,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 10,
+              "target_name": "Max",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -22011,6 +22695,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 51,
+          "received": 498
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 10,
           "league": "Barbarian League 6",
@@ -22074,19 +22765,19 @@
         "history": []
       },
       "army": {
-        "weight": 7701,
-        "with_potions": 8082,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(132,8,201)",
-        "potion_color": "rgb(117,5,210)"
+        "weight": 7722,
+        "with_potions": 8088,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(131,7,201)",
+        "potion_color": "rgb(117,5,211)"
       },
-      "role": "member",
+      "role": "coLeader",
       "slug": "3eba552b07d08172",
       "name": "Александр.",
       "active": true,
       "town_hall": 18,
       "league": 33,
-      "days": 4,
+      "days": 5,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -22101,25 +22792,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -22129,14 +22820,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 18,
+              "target_th": 18,
+              "target_name": "\"*I'm BAD'Z#2\"*",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -22206,6 +22922,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 18,
+          "league": "Electro League 33",
+          "donated": 139,
+          "received": 0
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 18,
           "league": "Electro League 33",
@@ -22268,20 +22991,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 4133,
-        "with_potions": 5341,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,56,134)",
-        "potion_color": "rgb(223,25,140)"
-      },
+      "army": null,
       "role": "member",
       "slug": "f122b625e2413f46",
       "name": "алиночка",
-      "active": true,
+      "active": false,
       "town_hall": 15,
-      "league": 19,
-      "days": 4,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -22296,25 +23013,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 3,
-          "clan_stars": 3,
-          "average": 1.5,
+          "attacks": 3,
+          "stars": 6,
+          "clan_stars": 6,
+          "average": 2.0,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -22324,14 +23041,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 15,
+              "target_name": "DARK FISTS",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -22400,6 +23142,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 15,
+          "league": "Golem League 19",
+          "donated": 0,
+          "received": 83
+        },
         {
           "date": "2026-11-05",
           "town_hall": 15,
@@ -22534,11 +23283,11 @@
         "history": []
       },
       "army": {
-        "weight": 3282,
-        "with_potions": 4382,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,112,168)",
-        "potion_color": "rgb(255,39,124)"
+        "weight": 3307,
+        "with_potions": 4402,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,110,167)",
+        "potion_color": "rgb(255,38,123)"
       },
       "role": "admin",
       "slug": "7f27333730f77d7b",
@@ -22546,7 +23295,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 4,
+      "days": 5,
       "first_seen": "2026-11-01",
       "stats": {
         "CW": {
@@ -22561,25 +23310,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 4,
-          "clan_stars": 4,
-          "average": 2.0,
+          "attacks": 3,
+          "stars": 5,
+          "clan_stars": 5,
+          "average": 1.7,
           "attendance_rate": 100,
           "success": 2
         }
       },
       "wars": [
         {
-          "war_id": "be61f79ab77c0429",
+          "war_id": "08e6372eedeabb6e",
           "kind": "CWL",
-          "end": "2026-11-06T16:59:14+03:00",
+          "end": "2026-11-07T17:13:36+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-06",
-          "opponent": "BETHEL3226",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -22589,14 +23338,39 @@
           "attack_rows": []
         },
         {
+          "war_id": "be61f79ab77c0429",
+          "kind": "CWL",
+          "end": "2026-11-06T16:59:14+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-06",
+          "opponent": "BETHEL3226",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "Nygel_22",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
+        },
+        {
           "war_id": "7401b588695ed507",
           "kind": "CWL",
           "end": "2026-11-05T16:59:07+03:00",
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 1,
@@ -22666,6 +23440,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-06",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 270,
+          "received": 388
+        },
+        {
           "date": "2026-11-05",
           "town_hall": 14,
           "league": "Valkyrie League 15",
@@ -22724,7 +23505,7 @@
       "army": {
         "weight": 2773,
         "with_potions": 3624,
-        "updated": "2026-11-05 16:29",
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,146,189)",
         "potion_color": "rgb(255,89,154)"
       },
@@ -22734,7 +23515,7 @@
       "active": true,
       "town_hall": 13,
       "league": 13,
-      "days": 4,
+      "days": 5,
       "first_seen": "2026-11-01",
       "stats": {
         "CW": {
@@ -22749,18 +23530,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 4,
-          "clan_stars": 4,
-          "average": 2.0,
+          "attacks": 3,
+          "stars": 7,
+          "clan_stars": 7,
+          "average": 2.3,
           "attendance_rate": 100,
-          "success": 1
+          "success": 2
         }
       },
       "wars": [
+        {
+          "war_id": "08e6372eedeabb6e",
+          "kind": "CWL",
+          "end": "2026-11-07T17:13:36+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-07",
+          "opponent": "Alison Angel",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "be61f79ab77c0429",
           "kind": "CWL",
@@ -22768,7 +23564,7 @@
           "month": "2026-11",
           "date_label": "2026-11-06",
           "opponent": "BETHEL3226",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -22783,8 +23579,8 @@
           "month": "2026-11",
           "date_label": "2026-11-05",
           "opponent": "Board of Pieces",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -22853,6 +23649,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Valkyrie League 13",
+          "donated": 273,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -22973,10 +23776,10 @@
         "history": []
       },
       "army": {
-        "weight": 2667,
+        "weight": 2679,
         "with_potions": 3792,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,153,193)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,152,193)",
         "potion_color": "rgb(255,78,148)"
       },
       "role": "member",
@@ -22985,7 +23788,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -23013,6 +23816,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 399
+        },
         {
           "date": "2026-11-05",
           "town_hall": 14,
@@ -23114,16 +23924,32 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 5032,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 5032,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 5032,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 2053,
-        "with_potions": 4106,
-        "updated": "2026-11-05 16:29",
+        "weight": 2055,
+        "with_potions": 4108,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,194,218)",
         "potion_color": "rgb(255,57,135)"
       },
@@ -23133,7 +23959,7 @@
       "active": true,
       "town_hall": 15,
       "league": 14,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -23161,6 +23987,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 15,
+          "league": "Valkyrie League 14",
+          "donated": 276,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 15,
@@ -23211,11 +24044,11 @@
         "history": []
       },
       "army": {
-        "weight": 3405,
-        "with_potions": 3672,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,104,163)",
-        "potion_color": "rgb(255,86,152)"
+        "weight": 3417,
+        "with_potions": 3692,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,103,163)",
+        "potion_color": "rgb(255,85,152)"
       },
       "role": "member",
       "slug": "9a904b7938af0711",
@@ -23223,7 +24056,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -23251,6 +24084,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -23301,11 +24141,11 @@
         "history": []
       },
       "army": {
-        "weight": 2772,
-        "with_potions": 3836,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,146,189)",
-        "potion_color": "rgb(255,75,146)"
+        "weight": 2782,
+        "with_potions": 3856,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,145,188)",
+        "potion_color": "rgb(255,74,145)"
       },
       "role": "member",
       "slug": "cd29240e7649e2f9",
@@ -23313,7 +24153,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-03",
       "stats": {
         "CW": {
@@ -23341,6 +24181,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -23384,19 +24231,19 @@
         "history": []
       },
       "army": {
-        "weight": 2916,
+        "weight": 2938,
         "with_potions": 3724,
-        "updated": "2026-11-05 16:29",
-        "color": "rgb(255,136,183)",
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,135,182)",
         "potion_color": "rgb(255,83,150)"
       },
-      "role": "member",
+      "role": "admin",
       "slug": "72da2ecd5bdc03d8",
       "name": "Danik00",
       "active": true,
       "town_hall": 13,
       "league": 15,
-      "days": 1,
+      "days": 2,
       "first_seen": "2026-11-04",
       "stats": {
         "CW": {
@@ -23424,6 +24271,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Valkyrie League 15",
+          "donated": 42,
+          "received": 470
+        },
         {
           "date": "2026-11-05",
           "town_hall": 13,
@@ -23461,18 +24315,18 @@
       },
       "army": {
         "weight": 1564,
-        "with_potions": 2204,
-        "updated": "2026-11-05 16:29",
+        "with_potions": 2624,
+        "updated": "2026-11-06 16:56",
         "color": "rgb(255,226,238)",
-        "potion_color": "rgb(255,184,212)"
+        "potion_color": "rgb(255,156,195)"
       },
       "role": "admin",
       "slug": "b97dfcb8ddc7749a",
       "name": "дариша",
       "active": true,
-      "town_hall": 11,
-      "league": 6,
-      "days": 1,
+      "town_hall": 12,
+      "league": 8,
+      "days": 2,
       "first_seen": "2026-11-04",
       "stats": {
         "CW": {
@@ -23500,6 +24354,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 12,
+          "league": "Archer League 8",
+          "donated": 116,
+          "received": 67
+        },
         {
           "date": "2026-11-05",
           "town_hall": 11,
@@ -23569,6 +24430,133 @@
           "date": "2026-11-04",
           "town_hall": 18,
           "league": "Dragon League 28",
+          "donated": 0,
+          "received": 0
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
+      "slug": "117be0472d8e4d2d",
+      "name": "Все спать",
+      "active": false,
+      "town_hall": 13,
+      "league": null,
+      "days": null,
+      "first_seen": "2026-11-06",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 13,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
+        }
+      ]
+    },
+    {
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 1540,
+        "with_potions": 1756,
+        "updated": "2026-11-06 16:56",
+        "color": "rgb(255,228,239)",
+        "potion_color": "rgb(255,214,230)"
+      },
+      "role": "member",
+      "slug": "9de448a262b5a456",
+      "name": "ЧИСТИЛЬЩИК",
+      "active": true,
+      "town_hall": 10,
+      "league": 6,
+      "days": 0,
+      "first_seen": "2026-11-06",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-06",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
           "donated": 0,
           "received": 0
         }

@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-05T16:29:17+03:00",
+  "collected_at": "2026-11-06T16:55:10+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Blushing snow",
-      "total_stars": 122,
+      "total_stars": 195,
       "played": false,
       "state": "roster",
       "members": [
@@ -68,11 +68,6 @@
         {
           "th": 13,
           "stars": null,
-          "name": "wonderpets"
-        },
-        {
-          "th": 13,
-          "stars": null,
           "name": "LegendaJR"
         },
         {
@@ -83,7 +78,7 @@
         {
           "th": 13,
           "stars": null,
-          "name": "Клэшер"
+          "name": "Санёчек"
         },
         {
           "th": 12,
@@ -99,6 +94,11 @@
           "th": 11,
           "stars": null,
           "name": "А.Константин"
+        },
+        {
+          "th": 12,
+          "stars": null,
+          "name": "one sixth"
         },
         {
           "th": 11,
@@ -119,11 +119,6 @@
           "th": 11,
           "stars": null,
           "name": "dpo3d"
-        },
-        {
-          "th": 11,
-          "stars": null,
-          "name": "one sixth"
         },
         {
           "th": 10,
@@ -159,13 +154,18 @@
           "th": 10,
           "stars": null,
           "name": "Cent"
+        },
+        {
+          "th": 9,
+          "stars": null,
+          "name": "kiotaka"
         }
       ]
     },
     {
       "day": 1,
       "name": "SILENT SPADES",
-      "total_stars": 133,
+      "total_stars": 208,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -294,7 +294,7 @@
     {
       "day": 2,
       "name": "smushed up",
-      "total_stars": 94,
+      "total_stars": 137,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -423,9 +423,9 @@
     {
       "day": 3,
       "name": "Board of Pieces",
-      "total_stars": 231,
+      "total_stars": 284,
       "played": true,
-      "state": "inWar",
+      "state": "warEnded",
       "members": [
         {
           "th": 16,
@@ -552,76 +552,157 @@
     {
       "day": 4,
       "name": "BETHEL3226",
-      "total_stars": 93,
+      "total_stars": 126,
+      "played": true,
+      "state": "inWar",
+      "members": [
+        {
+          "th": 18,
+          "stars": 3
+        },
+        {
+          "th": 17,
+          "stars": 3
+        },
+        {
+          "th": 15,
+          "stars": 3
+        },
+        {
+          "th": 15,
+          "stars": 0
+        },
+        {
+          "th": 16,
+          "stars": 1
+        },
+        {
+          "th": 14,
+          "stars": 2
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 14,
+          "stars": 3
+        },
+        {
+          "th": 14,
+          "stars": 0
+        },
+        {
+          "th": 13,
+          "stars": 2
+        },
+        {
+          "th": 13,
+          "stars": 1
+        },
+        {
+          "th": 13,
+          "stars": 3
+        },
+        {
+          "th": 13,
+          "stars": 1
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 11,
+          "stars": 3
+        },
+        {
+          "th": 11,
+          "stars": 3
+        },
+        {
+          "th": 12,
+          "stars": 3
+        },
+        {
+          "th": 11,
+          "stars": 3
+        },
+        {
+          "th": 11,
+          "stars": 3
+        },
+        {
+          "th": 11,
+          "stars": 3
+        },
+        {
+          "th": 10,
+          "stars": 3
+        },
+        {
+          "th": 10,
+          "stars": 3
+        },
+        {
+          "th": 10,
+          "stars": 3
+        },
+        {
+          "th": 9,
+          "stars": 3
+        },
+        {
+          "th": 9,
+          "stars": 3
+        },
+        {
+          "th": 10,
+          "stars": 3
+        },
+        {
+          "th": 9,
+          "stars": 3
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "name": "Alison Angel",
+      "total_stars": 188,
       "played": false,
       "state": "preparation",
       "members": [
         {
-          "th": 18,
+          "th": 11,
           "stars": null
         },
         {
-          "th": 17,
+          "th": 11,
           "stars": null
         },
         {
-          "th": 15,
+          "th": 11,
           "stars": null
         },
         {
-          "th": 15,
+          "th": 11,
           "stars": null
         },
         {
-          "th": 16,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 14,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 13,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
-          "stars": null
-        },
-        {
-          "th": 12,
+          "th": 11,
           "stars": null
         },
         {
@@ -642,6 +723,26 @@
         },
         {
           "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 11,
+          "stars": null
+        },
+        {
+          "th": 10,
           "stars": null
         },
         {
@@ -669,7 +770,35 @@
           "stars": null
         },
         {
-          "th": 10,
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
+          "stars": null
+        },
+        {
+          "th": 9,
           "stars": null
         },
         {
@@ -681,7 +810,7 @@
     {
       "day": null,
       "name": "Atap",
-      "total_stars": 188,
+      "total_stars": 239,
       "played": false,
       "state": "unknown",
       "members": [
@@ -746,7 +875,7 @@
           "stars": null
         },
         {
-          "th": 12,
+          "th": 13,
           "stars": null
         },
         {
@@ -803,135 +932,6 @@
         },
         {
           "th": 9,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "day": null,
-      "name": "Alison Angel",
-      "total_stars": 125,
-      "played": false,
-      "state": "unknown",
-      "members": [
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 11,
-          "stars": null
-        },
-        {
-          "th": 10,
-          "stars": null
-        },
-        {
-          "th": 10,
-          "stars": null
-        },
-        {
-          "th": 10,
-          "stars": null
-        },
-        {
-          "th": 10,
-          "stars": null
-        },
-        {
-          "th": 10,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 9,
-          "stars": null
-        },
-        {
-          "th": 8,
-          "stars": null
-        },
-        {
-          "th": 8,
-          "stars": null
-        },
-        {
-          "th": 8,
           "stars": null
         }
       ]
@@ -939,7 +939,7 @@
     {
       "day": null,
       "name": "MABAIT CLAN",
-      "total_stars": 136,
+      "total_stars": 211,
       "played": false,
       "state": "unknown",
       "members": [
@@ -948,7 +948,7 @@
           "stars": null
         },
         {
-          "th": 13,
+          "th": 12,
           "stars": null
         },
         {
