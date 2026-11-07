@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "06.11.2026, 17:14 МСК",
+  "generated": "07.11.2026, 15:11 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -126,11 +126,11 @@
         ]
       },
       "army": {
-        "weight": 6741,
-        "with_potions": 7860,
-        "updated": "2026-11-06 17:13",
+        "weight": 6745,
+        "with_potions": 7862,
+        "updated": "2026-11-07 12:32",
         "color": "rgb(169,15,176)",
-        "potion_color": "rgb(126,6,205)"
+        "potion_color": "rgb(125,6,205)"
       },
       "role": "member",
       "slug": "76005aa1fa7e44fc",
@@ -138,7 +138,7 @@
       "active": true,
       "town_hall": 18,
       "league": 27,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -153,18 +153,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 11,
-          "clan_stars": 11,
-          "average": 2.8,
+          "attacks": 5,
+          "stars": 13,
+          "clan_stars": 13,
+          "average": 2.6,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -172,7 +187,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -187,13 +202,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 85.0,
+              "own_th": 18,
+              "target_th": 18,
+              "target_name": "Rahmat",
+              "contribution": 2,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -298,6 +323,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 18,
+          "league": "Titan League 27",
+          "donated": 1096,
+          "received": 705
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 18,
           "league": "Titan League 27",
@@ -368,10 +400,10 @@
         "history": []
       },
       "army": {
-        "weight": 5040,
+        "weight": 5064,
         "with_potions": 5407,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(234,27,133)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(233,27,133)",
         "potion_color": "rgb(220,24,142)"
       },
       "role": "coLeader",
@@ -380,7 +412,7 @@
       "active": true,
       "town_hall": 15,
       "league": 24,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -395,18 +427,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -414,7 +461,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -429,13 +476,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 13,
+              "target_name": "zorojuro",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -540,6 +597,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "P.E.K.K.A League 24",
+          "donated": 943,
+          "received": 403
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "P.E.K.K.A League 24",
@@ -610,11 +674,11 @@
         "history": []
       },
       "army": {
-        "weight": 5262,
-        "with_potions": 6405,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(226,25,138)",
-        "potion_color": "rgb(182,17,168)"
+        "weight": 5272,
+        "with_potions": 6425,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(225,25,139)",
+        "potion_color": "rgb(181,17,168)"
       },
       "role": "admin",
       "slug": "44fc058114fb443a",
@@ -622,7 +686,7 @@
       "active": true,
       "town_hall": 16,
       "league": 21,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -637,18 +701,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 11,
-          "clan_stars": 11,
+          "attacks": 5,
+          "stars": 14,
+          "clan_stars": 14,
           "average": 2.8,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -656,7 +735,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -671,13 +750,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 13,
+              "target_name": "BEGU",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -782,6 +871,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 16,
+          "league": "Golem League 21",
+          "donated": 339,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 16,
           "league": "Golem League 21",
@@ -854,7 +950,7 @@
       "army": {
         "weight": 4981,
         "with_potions": 5765,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(237,27,131)",
         "potion_color": "rgb(206,22,151)"
       },
@@ -864,7 +960,7 @@
       "active": true,
       "town_hall": 15,
       "league": 18,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -879,18 +975,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 11,
-          "clan_stars": 11,
+          "attacks": 5,
+          "stars": 14,
+          "clan_stars": 14,
           "average": 2.8,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -898,7 +1009,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -913,13 +1024,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "Ar'",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -1024,6 +1145,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "Witch League 18",
+          "donated": 388,
+          "received": 2
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "Witch League 18",
@@ -1110,10 +1238,10 @@
         ]
       },
       "army": {
-        "weight": 4167,
+        "weight": 4172,
         "with_potions": 5063,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,53,133)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,53,132)",
         "potion_color": "rgb(233,27,133)"
       },
       "role": "member",
@@ -1122,7 +1250,7 @@
       "active": true,
       "town_hall": 15,
       "league": 18,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1137,25 +1265,25 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
         {
-          "war_id": "bc82744ffe705e0c",
+          "war_id": "86b08b13a598754b",
           "kind": "CWL",
-          "end": "2026-11-08T14:30:50+03:00",
+          "end": "2026-11-09T14:39:30+03:00",
           "month": "2026-11",
-          "date_label": "2026-11-08",
-          "opponent": "my friends",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
           "state": "preparation",
           "ended": false,
           "attacks": 0,
@@ -1165,19 +1293,54 @@
           "attack_rows": []
         },
         {
+          "war_id": "bc82744ffe705e0c",
+          "kind": "CWL",
+          "end": "2026-11-08T14:30:50+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-08",
+          "opponent": "my friends",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 1,
+          "allowed": 1,
+          "stars": 2,
+          "clan_stars": 2,
+          "attack_rows": [
+            {
+              "stars": 2,
+              "destruction": 73.0,
+              "own_th": 15,
+              "target_th": 17,
+              "target_name": "uNsTABLє mAяKєя",
+              "contribution": 2,
+              "mirror": 1
+            }
+          ]
+        },
+        {
           "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
           "end": "2026-11-07T14:30:47+03:00",
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 12,
+              "target_name": "Salma nafila",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -1282,6 +1445,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "Witch League 18",
+          "donated": 1718,
+          "received": 2045
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "Witch League 18",
@@ -1354,7 +1524,7 @@
       "army": {
         "weight": 4259,
         "with_potions": 4616,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,47,129)",
         "potion_color": "rgb(251,30,122)"
       },
@@ -1364,7 +1534,7 @@
       "active": true,
       "town_hall": 14,
       "league": 17,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1379,33 +1549,18 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
+          "wars": 3,
           "attended": 2,
-          "missed": 0,
+          "missed": 1,
           "attacks": 2,
           "stars": 6,
           "clan_stars": 6,
           "average": 3.0,
-          "attendance_rate": 100,
+          "attendance_rate": 67,
           "success": 2
         }
       },
       "wars": [
-        {
-          "war_id": "bc82744ffe705e0c",
-          "kind": "CWL",
-          "end": "2026-11-08T14:30:50+03:00",
-          "month": "2026-11",
-          "date_label": "2026-11-08",
-          "opponent": "my friends",
-          "state": "preparation",
-          "ended": false,
-          "attacks": 0,
-          "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
-        },
         {
           "war_id": "6b4d2c6de0a113dd",
           "kind": "CWL",
@@ -1413,8 +1568,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 0,
           "allowed": 1,
           "stars": 0,
@@ -1473,6 +1628,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 0,
+          "received": 201
+        },
         {
           "date": "2026-11-06",
           "town_hall": 14,
@@ -1537,17 +1699,33 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 11974,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 11974,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 11974,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 3499,
+        "weight": 3511,
         "with_potions": 3926,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,98,159)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,97,159)",
         "potion_color": "rgb(255,69,142)"
       },
       "role": "admin",
@@ -1556,7 +1734,7 @@
       "active": true,
       "town_hall": 13,
       "league": 17,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1571,18 +1749,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 3,
-          "attended": 3,
+          "wars": 4,
+          "attended": 4,
           "missed": 0,
-          "attacks": 3,
-          "stars": 9,
-          "clan_stars": 9,
+          "attacks": 4,
+          "stars": 12,
+          "clan_stars": 12,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 3
+          "success": 4
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -1590,7 +1783,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -1605,8 +1798,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1716,6 +1909,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 13,
+          "league": "Witch League 17",
+          "donated": 402,
+          "received": 201
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 13,
           "league": "Witch League 17",
@@ -1786,11 +1986,11 @@
         "history": []
       },
       "army": {
-        "weight": 3839,
-        "with_potions": 4430,
-        "updated": "2026-11-06 17:13",
+        "weight": 3845,
+        "with_potions": 4436,
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,75,146)",
-        "potion_color": "rgb(255,36,122)"
+        "potion_color": "rgb(255,35,122)"
       },
       "role": "leader",
       "slug": "726fa45909a1d11d",
@@ -1798,7 +1998,7 @@
       "active": true,
       "town_hall": 14,
       "league": 17,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1813,18 +2013,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -1832,7 +2047,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -1847,8 +2062,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -1967,6 +2182,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Witch League 17",
+          "donated": 238,
+          "received": 724
+        },
         {
           "date": "2026-11-06",
           "town_hall": 14,
@@ -2164,18 +2386,34 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 6235,
+        "total_attacks": 4,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 4,
+          "loot": 6235,
+          "allowed": 5
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 4,
+            "loot": 6235,
+            "allowed": 5
+          }
+        ]
       },
       "army": {
-        "weight": 3925,
-        "with_potions": 4873,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,69,142)",
-        "potion_color": "rgb(241,28,128)"
+        "weight": 3964,
+        "with_potions": 4897,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,67,141)",
+        "potion_color": "rgb(240,28,129)"
       },
       "role": "member",
       "slug": "75a1d687d2b228f0",
@@ -2183,7 +2421,7 @@
       "active": true,
       "town_hall": 15,
       "league": 16,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2198,18 +2436,33 @@
           "success": 2
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -2217,7 +2470,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -2232,13 +2485,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 13,
+              "target_name": "i Wayan Wisnu s",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -2377,6 +2640,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "Witch League 16",
+          "donated": 1109,
+          "received": 977
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "Witch League 16",
@@ -2447,10 +2717,10 @@
         "history": []
       },
       "army": {
-        "weight": 3606,
+        "weight": 3608,
         "with_potions": 3984,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,91,155)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,90,155)",
         "potion_color": "rgb(255,65,140)"
       },
       "role": "admin",
@@ -2459,7 +2729,7 @@
       "active": true,
       "town_hall": 13,
       "league": 14,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2474,18 +2744,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -2493,7 +2778,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -2508,8 +2793,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -2629,6 +2914,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 13,
+          "league": "Valkyrie League 14",
+          "donated": 185,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 13,
           "league": "Valkyrie League 14",
@@ -2692,16 +2984,32 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 13574,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 13574,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 13574,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
         "weight": 3216,
         "with_potions": 4270,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,116,171)",
         "potion_color": "rgb(255,46,128)"
       },
@@ -2711,7 +3019,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2726,18 +3034,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -2745,7 +3068,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -2760,13 +3083,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "MARSYYI 18",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -2871,6 +3204,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 152,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 14,
           "league": "Valkyrie League 15",
@@ -2941,10 +3281,10 @@
         "history": []
       },
       "army": {
-        "weight": 3109,
+        "weight": 3121,
         "with_potions": 3796,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,124,175)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,123,175)",
         "potion_color": "rgb(255,78,147)"
       },
       "role": "coLeader",
@@ -2953,7 +3293,7 @@
       "active": true,
       "town_hall": 13,
       "league": 15,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2968,18 +3308,33 @@
           "success": 1
         },
         "CWL": {
-          "wars": 3,
-          "attended": 3,
+          "wars": 4,
+          "attended": 4,
           "missed": 0,
-          "attacks": 3,
-          "stars": 7,
-          "clan_stars": 7,
-          "average": 2.3,
+          "attacks": 4,
+          "stars": 10,
+          "clan_stars": 10,
+          "average": 2.5,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -2987,7 +3342,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -3002,13 +3357,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "krisna122",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d2d3b477beb72b50",
@@ -3113,6 +3478,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 13,
+          "league": "Valkyrie League 15",
+          "donated": 100,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 13,
           "league": "Valkyrie League 15",
@@ -3183,11 +3555,11 @@
         "history": []
       },
       "army": {
-        "weight": 3873,
-        "with_potions": 4460,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,73,144)",
-        "potion_color": "rgb(255,34,121)"
+        "weight": 3878,
+        "with_potions": 4510,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,72,144)",
+        "potion_color": "rgb(255,31,119)"
       },
       "role": "member",
       "slug": "a6926e303d99df4c",
@@ -3195,7 +3567,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3210,18 +3582,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -3229,7 +3616,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -3244,13 +3631,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "MASRII",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -3370,6 +3767,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Valkyrie League 15",
+          "donated": 462,
+          "received": 905
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 14,
           "league": "Valkyrie League 15",
@@ -3439,20 +3843,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 2693,
-        "with_potions": 3155,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,151,192)",
-        "potion_color": "rgb(255,121,173)"
-      },
+      "army": null,
       "role": "member",
       "slug": "cb94b49995f9c6a2",
       "name": "Bylbeka!!!",
-      "active": true,
+      "active": false,
       "town_hall": 12,
-      "league": 13,
-      "days": 5,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3467,18 +3865,33 @@
           "success": 1
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -3486,7 +3899,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -3501,8 +3914,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -3647,6 +4060,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 12,
+          "league": "Valkyrie League 13",
+          "donated": 119,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 12,
           "league": "Valkyrie League 13",
@@ -3710,17 +4130,33 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 4386,
+        "total_attacks": 2,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 2,
+          "loot": 4386,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 2,
+            "loot": 4386,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 3170,
-        "with_potions": 4060,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,120,173)",
+        "weight": 3188,
+        "with_potions": 4068,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,118,172)",
         "potion_color": "rgb(255,60,137)"
       },
       "role": "member",
@@ -3729,7 +4165,7 @@
       "active": true,
       "town_hall": 14,
       "league": 13,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3744,18 +4180,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -3763,7 +4214,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -3778,8 +4229,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -3848,6 +4299,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Valkyrie League 13",
+          "donated": 350,
+          "received": 1318
+        },
         {
           "date": "2026-11-06",
           "town_hall": 14,
@@ -3921,7 +4379,7 @@
       "army": {
         "weight": 3214,
         "with_potions": 4316,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,117,171)",
         "potion_color": "rgb(255,43,127)"
       },
@@ -3931,7 +4389,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3946,18 +4404,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -3965,7 +4438,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -3980,8 +4453,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4051,6 +4524,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Valkyrie League 14",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 14,
           "league": "Valkyrie League 14",
@@ -4114,18 +4594,34 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 6234,
+        "total_attacks": 3,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 3,
+          "loot": 6234,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 3,
+            "loot": 6234,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 1791,
-        "with_potions": 2619,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,211,228)",
-        "potion_color": "rgb(255,156,195)"
+        "weight": 1811,
+        "with_potions": 2669,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,210,228)",
+        "potion_color": "rgb(255,153,193)"
       },
       "role": "member",
       "slug": "389bac3da15848e4",
@@ -4133,7 +4629,7 @@
       "active": true,
       "town_hall": 12,
       "league": 12,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4160,6 +4656,36 @@
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
+          "war_id": "bc82744ffe705e0c",
+          "kind": "CWL",
+          "end": "2026-11-08T14:30:50+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-08",
+          "opponent": "my friends",
+          "state": "inWar",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "4813df4298790a3d",
           "kind": "CWL",
@@ -4247,6 +4773,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 12,
+          "league": "Wizard League 12",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 12,
           "league": "Wizard League 12",
@@ -4319,7 +4852,7 @@
       "army": {
         "weight": 3170,
         "with_potions": 3656,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,120,173)",
         "potion_color": "rgb(255,87,153)"
       },
@@ -4329,7 +4862,7 @@
       "active": true,
       "town_hall": 13,
       "league": 12,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4424,6 +4957,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 13,
+          "league": "Wizard League 12",
+          "donated": 62,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 13,
           "league": "Wizard League 12",
@@ -4496,7 +5036,7 @@
       "army": {
         "weight": 3451,
         "with_potions": 3798,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,101,161)",
         "potion_color": "rgb(255,78,147)"
       },
@@ -4506,7 +5046,7 @@
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4521,18 +5061,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 11,
-          "clan_stars": 11,
+          "attacks": 5,
+          "stars": 14,
+          "clan_stars": 14,
           "average": 2.8,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -4540,7 +5095,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -4555,13 +5110,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 12,
+              "target_name": "- WILLY -",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -4666,6 +5231,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 13,
+          "league": "Wizard League 11",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 13,
           "league": "Wizard League 11",
@@ -4752,10 +5324,10 @@
         ]
       },
       "army": {
-        "weight": 2162,
+        "weight": 2174,
         "with_potions": 2452,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,187,213)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,186,213)",
         "potion_color": "rgb(255,167,202)"
       },
       "role": "coLeader",
@@ -4764,7 +5336,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4779,18 +5351,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -4798,7 +5385,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -4813,8 +5400,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -4934,6 +5521,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 134,
+          "received": 826
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 11,
           "league": "Wizard League 10",
@@ -5020,11 +5614,11 @@
         ]
       },
       "army": {
-        "weight": 1888,
-        "with_potions": 2408,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,205,224)",
-        "potion_color": "rgb(255,170,204)"
+        "weight": 1896,
+        "with_potions": 2414,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,204,224)",
+        "potion_color": "rgb(255,170,203)"
       },
       "role": "admin",
       "slug": "441d87fb5549ea0a",
@@ -5032,7 +5626,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5060,13 +5654,28 @@
       },
       "wars": [
         {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
           "end": "2026-11-08T14:30:50+03:00",
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5211,6 +5820,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 11,
+          "league": "Wizard League 10",
+          "donated": 264,
+          "received": 134
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 11,
           "league": "Wizard League 10",
@@ -5283,7 +5899,7 @@
       "army": {
         "weight": 2922,
         "with_potions": 3063,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,136,183)",
         "potion_color": "rgb(255,127,177)"
       },
@@ -5293,7 +5909,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5321,13 +5937,28 @@
       },
       "wars": [
         {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
+        {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
           "end": "2026-11-08T14:30:50+03:00",
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -5438,6 +6069,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 49,
+          "received": 208
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 12,
           "league": "Wizard League 10",
@@ -5510,7 +6148,7 @@
       "army": {
         "weight": 3189,
         "with_potions": 3189,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,118,172)",
         "potion_color": "rgb(255,118,172)"
       },
@@ -5520,7 +6158,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5600,6 +6238,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 12,
+          "league": "Wizard League 10",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 12,
           "league": "Wizard League 10",
@@ -5670,10 +6315,10 @@
         "history": []
       },
       "army": {
-        "weight": 2020,
+        "weight": 2032,
         "with_potions": 2338,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,196,219)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,195,219)",
         "potion_color": "rgb(255,175,206)"
       },
       "role": "member",
@@ -5682,7 +6327,7 @@
       "active": true,
       "town_hall": 11,
       "league": 7,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5697,15 +6342,15 @@
           "success": 1
         },
         "CWL": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 1,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 3.0,
+          "attendance_rate": 100,
+          "success": 1
         }
       },
       "wars": [
@@ -5716,13 +6361,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 11,
+              "target_th": 9,
+              "target_name": "raja mobil",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "d4856c1cb4e224ff",
@@ -5751,6 +6406,13 @@
         }
       ],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 11,
+          "league": "Archer League 7",
+          "donated": 3,
+          "received": 0
+        },
         {
           "date": "2026-11-06",
           "town_hall": 11,
@@ -5885,15 +6547,15 @@
         ]
       },
       "raids": {
-        "total_loot": 8122,
-        "total_attacks": 5,
+        "total_loot": 10423,
+        "total_attacks": 6,
         "count": 1,
         "latest": {
           "start": "2026-11-06T10:00:00+03:00",
           "end": "2026-11-09T10:00:00+03:00",
           "date_label": "2026-11-06",
-          "attacks": 5,
-          "loot": 8122,
+          "attacks": 6,
+          "loot": 10423,
           "allowed": 6
         },
         "history": [
@@ -5901,17 +6563,17 @@
             "start": "2026-11-06T10:00:00+03:00",
             "end": "2026-11-09T10:00:00+03:00",
             "date_label": "2026-11-06",
-            "attacks": 5,
-            "loot": 8122,
+            "attacks": 6,
+            "loot": 10423,
             "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 1510,
+        "weight": 1538,
         "with_potions": 1848,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,230,240)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,228,239)",
         "potion_color": "rgb(255,207,226)"
       },
       "role": "member",
@@ -5920,7 +6582,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5948,6 +6610,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-06",
           "town_hall": 10,
@@ -6019,11 +6688,11 @@
         "history": []
       },
       "army": {
-        "weight": 1168,
-        "with_potions": 1688,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,253,254)",
-        "potion_color": "rgb(255,218,233)"
+        "weight": 1202,
+        "with_potions": 1700,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,250,252)",
+        "potion_color": "rgb(255,217,232)"
       },
       "role": "admin",
       "slug": "9e30e52718e27059",
@@ -6031,7 +6700,7 @@
       "active": true,
       "town_hall": 10,
       "league": 5,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6059,6 +6728,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 10,
+          "league": "Barbarian League 5",
+          "donated": 0,
+          "received": 93
+        },
         {
           "date": "2026-11-06",
           "town_hall": 10,
@@ -6132,7 +6808,7 @@
       "army": {
         "weight": 870,
         "with_potions": 1158,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,253,254)"
       },
@@ -6142,7 +6818,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6170,6 +6846,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-06",
           "town_hall": 9,
@@ -6241,9 +6924,9 @@
         "history": []
       },
       "army": {
-        "weight": 812,
+        "weight": 822,
         "with_potions": 1492,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,231,240)"
       },
@@ -6253,7 +6936,7 @@
       "active": true,
       "town_hall": 10,
       "league": 4,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6281,6 +6964,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 10,
+          "league": "Barbarian League 4",
+          "donated": 52,
+          "received": 318
+        },
         {
           "date": "2026-11-06",
           "town_hall": 10,
@@ -6345,16 +7035,32 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 13947,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 13947,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 13947,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 956,
-        "with_potions": 1202,
-        "updated": "2026-11-06 17:13",
+        "weight": 984,
+        "with_potions": 1208,
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,250,252)"
       },
@@ -6364,7 +7070,7 @@
       "active": true,
       "town_hall": 9,
       "league": 3,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6392,6 +7098,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 9,
+          "league": "Skeleton League 3",
+          "donated": 319,
+          "received": 155
+        },
         {
           "date": "2026-11-06",
           "town_hall": 9,
@@ -6456,16 +7169,32 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 13255,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 13255,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 13255,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 570,
+        "weight": 580,
         "with_potions": 828,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -6475,7 +7204,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6503,6 +7232,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-06",
           "town_hall": 8,
@@ -6590,9 +7326,9 @@
         ]
       },
       "army": {
-        "weight": 618,
+        "weight": 630,
         "with_potions": 798,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -6602,7 +7338,7 @@
       "active": true,
       "town_hall": 8,
       "league": 2,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6630,6 +7366,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-06",
           "town_hall": 8,
@@ -6703,7 +7446,7 @@
       "army": {
         "weight": 5453,
         "with_potions": 6488,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(218,24,143)",
         "potion_color": "rgb(178,16,170)"
       },
@@ -6713,7 +7456,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6728,18 +7471,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 11,
-          "clan_stars": 11,
+          "attacks": 5,
+          "stars": 14,
+          "clan_stars": 14,
           "average": 2.8,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -6747,7 +7505,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -6762,13 +7520,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 14,
+              "target_name": "ᨈᨚᨕᨘᨁᨗ",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -6873,6 +7641,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 16,
           "league": "Unranked",
@@ -6945,7 +7720,7 @@
       "army": {
         "weight": 4393,
         "with_potions": 6320,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,38,123)",
         "potion_color": "rgb(185,18,165)"
       },
@@ -6955,7 +7730,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6970,18 +7745,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -6989,7 +7779,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -7004,13 +7794,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 15,
+              "target_name": "Cahaya7Bintang",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -7115,6 +7915,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 16,
+          "league": "Unranked",
+          "donated": 227,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 16,
           "league": "Unranked",
@@ -7187,7 +7994,7 @@
       "army": {
         "weight": 4520,
         "with_potions": 5283,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(254,31,119)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -7197,7 +8004,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7212,18 +8019,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -7231,7 +8053,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -7246,13 +8068,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 13,
+              "target_name": "textract",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -7357,6 +8189,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 141,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "Unranked",
@@ -7429,7 +8268,7 @@
       "army": {
         "weight": 4370,
         "with_potions": 4648,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,40,124)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -7439,7 +8278,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7454,18 +8293,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -7473,7 +8327,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -7488,13 +8342,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "Pemain Clash",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -7599,6 +8463,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 14,
           "league": "Unranked",
@@ -7671,7 +8542,7 @@
       "army": {
         "weight": 3612,
         "with_potions": 4328,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,90,155)",
         "potion_color": "rgb(255,43,126)"
       },
@@ -7681,7 +8552,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7696,18 +8567,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -7715,7 +8601,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -7730,13 +8616,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 13,
+              "target_name": "Cipta",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -7841,6 +8737,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 78,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 14,
           "league": "Unranked",
@@ -7913,7 +8816,7 @@
       "army": {
         "weight": 3324,
         "with_potions": 3766,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,109,167)",
         "potion_color": "rgb(255,80,149)"
       },
@@ -7923,7 +8826,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7938,15 +8841,15 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 3,
+          "wars": 5,
+          "attended": 4,
           "missed": 1,
-          "attacks": 3,
-          "stars": 9,
-          "clan_stars": 9,
+          "attacks": 4,
+          "stars": 12,
+          "clan_stars": 12,
           "average": 3.0,
-          "attendance_rate": 75,
-          "success": 3
+          "attendance_rate": 80,
+          "success": 4
         }
       },
       "wars": [
@@ -7957,13 +8860,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 13,
+              "target_th": 11,
+              "target_name": "irfan",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -8058,6 +8971,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 13,
+          "league": "Unranked",
+          "donated": 69,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 13,
           "league": "Unranked",
@@ -8144,10 +9064,10 @@
         ]
       },
       "army": {
-        "weight": 4296,
+        "weight": 4306,
         "with_potions": 5307,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,45,127)",
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,44,127)",
         "potion_color": "rgb(224,25,140)"
       },
       "role": "member",
@@ -8156,7 +9076,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8171,18 +9091,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -8190,7 +9125,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -8205,8 +9140,8 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEnded",
+          "ended": true,
           "attacks": 1,
           "allowed": 1,
           "stars": 3,
@@ -8326,6 +9261,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "Unranked",
+          "donated": 449,
+          "received": 403
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "Unranked",
@@ -8398,7 +9340,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -8408,7 +9350,7 @@
       "active": true,
       "town_hall": 15,
       "league": 17,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8423,18 +9365,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -8442,7 +9399,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -8457,13 +9414,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 15,
+              "target_th": 14,
+              "target_name": "jafar",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -8568,6 +9535,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 15,
+          "league": "Witch League 17",
+          "donated": 55,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 15,
           "league": "Witch League 17",
@@ -8640,7 +9614,7 @@
       "army": {
         "weight": 4888,
         "with_potions": 6849,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(240,28,129)",
         "potion_color": "rgb(165,14,179)"
       },
@@ -8650,7 +9624,7 @@
       "active": true,
       "town_hall": 17,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8665,18 +9639,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 11,
-          "clan_stars": 11,
+          "attacks": 5,
+          "stars": 14,
+          "clan_stars": 14,
           "average": 2.8,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -8684,7 +9673,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -8699,13 +9688,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 17,
+              "target_th": 17,
+              "target_name": "Lorenzo99",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -8810,6 +9809,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 17,
+          "league": "Unranked",
+          "donated": 222,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 17,
           "league": "Unranked",
@@ -8882,7 +9888,7 @@
       "army": {
         "weight": 4543,
         "with_potions": 4636,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(253,31,120)",
         "potion_color": "rgb(250,30,122)"
       },
@@ -8892,7 +9898,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 5,
+      "days": 6,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8907,18 +9913,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 5,
+          "stars": 15,
+          "clan_stars": 15,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 5
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -8926,7 +9947,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -8941,13 +9962,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 14,
+              "target_th": 12,
+              "target_name": "alip",
+              "contribution": 3,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -9052,6 +10083,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 14,
+          "league": "Unranked",
+          "donated": 156,
+          "received": 96
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 14,
           "league": "Unranked",
@@ -9115,16 +10153,32 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 10125,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-06T10:00:00+03:00",
+          "end": "2026-11-09T10:00:00+03:00",
+          "date_label": "2026-11-06",
+          "attacks": 6,
+          "loot": 10125,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 10125,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 4731,
+        "weight": 4746,
         "with_potions": 6172,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(246,29,125)",
         "potion_color": "rgb(191,19,162)"
       },
@@ -9134,7 +10188,7 @@
       "active": true,
       "town_hall": 16,
       "league": 24,
-      "days": 4,
+      "days": 5,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -9149,18 +10203,33 @@
           "success": 0
         },
         "CWL": {
-          "wars": 3,
-          "attended": 2,
+          "wars": 4,
+          "attended": 3,
           "missed": 1,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 6,
+          "attacks": 3,
+          "stars": 9,
+          "clan_stars": 9,
           "average": 3.0,
-          "attendance_rate": 67,
-          "success": 2
+          "attendance_rate": 75,
+          "success": 3
         }
       },
       "wars": [
+        {
+          "war_id": "86b08b13a598754b",
+          "kind": "CWL",
+          "end": "2026-11-09T14:39:30+03:00",
+          "month": "2026-11",
+          "date_label": "2026-11-09",
+          "opponent": "The Brutes",
+          "state": "preparation",
+          "ended": false,
+          "attacks": 0,
+          "allowed": 1,
+          "stars": 0,
+          "clan_stars": 0,
+          "attack_rows": []
+        },
         {
           "war_id": "bc82744ffe705e0c",
           "kind": "CWL",
@@ -9168,7 +10237,7 @@
           "month": "2026-11",
           "date_label": "2026-11-08",
           "opponent": "my friends",
-          "state": "preparation",
+          "state": "inWar",
           "ended": false,
           "attacks": 0,
           "allowed": 1,
@@ -9183,13 +10252,23 @@
           "month": "2026-11",
           "date_label": "2026-11-07",
           "opponent": "ogi to barru",
-          "state": "inWar",
-          "ended": false,
-          "attacks": 0,
+          "state": "warEnded",
+          "ended": true,
+          "attacks": 1,
           "allowed": 1,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 3,
+          "clan_stars": 3,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 16,
+              "target_th": 13,
+              "target_name": "raja",
+              "contribution": 3,
+              "mirror": 1
+            }
+          ]
         },
         {
           "war_id": "4813df4298790a3d",
@@ -9259,6 +10338,13 @@
       ],
       "development": [
         {
+          "date": "2026-11-07",
+          "town_hall": 16,
+          "league": "P.E.K.K.A League 24",
+          "donated": 78,
+          "received": 0
+        },
+        {
           "date": "2026-11-06",
           "town_hall": 16,
           "league": "P.E.K.K.A League 24",
@@ -9315,11 +10401,11 @@
         "history": []
       },
       "army": {
-        "weight": 1210,
-        "with_potions": 1332,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,250,252)",
-        "potion_color": "rgb(255,242,247)"
+        "weight": 1242,
+        "with_potions": 1354,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,248,251)",
+        "potion_color": "rgb(255,240,246)"
       },
       "role": "member",
       "slug": "f028e43229197710",
@@ -9327,7 +10413,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 4,
+      "days": 5,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -9355,6 +10441,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 9,
+          "league": "Barbarian League 4",
+          "donated": 0,
+          "received": 93
+        },
         {
           "date": "2026-11-06",
           "town_hall": 9,
@@ -9414,7 +10507,7 @@
       "army": {
         "weight": 2449,
         "with_potions": 2949,
-        "updated": "2026-11-06 17:13",
+        "updated": "2026-11-07 12:32",
         "color": "rgb(255,167,202)",
         "potion_color": "rgb(255,134,182)"
       },
@@ -9424,7 +10517,7 @@
       "active": true,
       "town_hall": 12,
       "league": 0,
-      "days": 4,
+      "days": 5,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -9452,6 +10545,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 12,
+          "league": "Unranked",
+          "donated": 0,
+          "received": 0
+        },
         {
           "date": "2026-11-06",
           "town_hall": 12,
@@ -9509,11 +10609,11 @@
         "history": []
       },
       "army": {
-        "weight": 1422,
-        "with_potions": 1720,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,236,243)",
-        "potion_color": "rgb(255,216,231)"
+        "weight": 1442,
+        "with_potions": 1740,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,234,242)",
+        "potion_color": "rgb(255,215,230)"
       },
       "role": "member",
       "slug": "ba4207b85f0927f1",
@@ -9521,7 +10621,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 2,
+      "days": 3,
       "first_seen": "2026-11-03",
       "stats": {
         "CW": {
@@ -9549,6 +10649,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 10,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 97
+        },
         {
           "date": "2026-11-06",
           "town_hall": 10,
@@ -9599,11 +10706,11 @@
         "history": []
       },
       "army": {
-        "weight": 1906,
-        "with_potions": 2330,
-        "updated": "2026-11-06 17:13",
-        "color": "rgb(255,204,224)",
-        "potion_color": "rgb(255,175,207)"
+        "weight": 1918,
+        "with_potions": 2350,
+        "updated": "2026-11-07 12:32",
+        "color": "rgb(255,203,223)",
+        "potion_color": "rgb(255,174,206)"
       },
       "role": "member",
       "slug": "2ca7460f09e44f18",
@@ -9639,6 +10746,13 @@
       },
       "wars": [],
       "development": [
+        {
+          "date": "2026-11-07",
+          "town_hall": 11,
+          "league": "Barbarian League 6",
+          "donated": 0,
+          "received": 133
+        },
         {
           "date": "2026-11-06",
           "town_hall": 11,
