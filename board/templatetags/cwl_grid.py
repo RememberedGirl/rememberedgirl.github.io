@@ -21,7 +21,8 @@ def build_grid(players):
             stars = max((a.get('stars') or 0 for a in attacks), default=0)
             cells.append(dict(stars=stars, attacked=bool(attacks), title=war['opponent'] + ' · ' + war['date_label'] + ' · ' + (str(stars) + ' ★ за атаку' if attacks else 'Нет сохранённой атаки')))
         if any(c is not None for c in cells):
-            rows.append(dict(player=p, cells=cells))
+            rows.append(dict(player=p, cells=cells, total_stars=sum(c['stars'] for c in cells if c is not None)))
+    rows.sort(key=lambda row: (-row['total_stars'], -(row['player'].get('town_hall') or 0), row['player']['name'].casefold()))
     return dict(rows=rows, wars=[dict(number=i+1, opponent=w['opponent'], date=w['date_label']) for i, (_, w) in enumerate(ordered)], month=month)
 
 
