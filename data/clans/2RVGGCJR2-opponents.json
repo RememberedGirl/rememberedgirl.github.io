@@ -1,6 +1,6 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-08T13:23:17+03:00",
+  "collected_at": "2026-11-08T13:28:44+03:00",
   "columns": [
     {
       "own": true,
@@ -423,7 +423,7 @@
     {
       "day": 3,
       "name": "Board of Pieces",
-      "total_stars": 445,
+      "total_stars": 447,
       "played": true,
       "state": "warEnded",
       "members": [
