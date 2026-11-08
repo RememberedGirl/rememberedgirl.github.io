@@ -40,3 +40,17 @@ class AttackMatrixTests(TestCase):
         self.assertNotIn(4,matrix['levels'])
         cells={c['th']:c for c in matrix['rows'][0]['cells']}
         self.assertEqual(cells[14]['average'],2)
+
+    def test_cwl_relative_uses_attacker_th_at_attack_time(self):
+        p=dict(name='A',town_hall=15,wars=[
+            dict(kind='CW',attack_rows=[dict(own_th=13,target_th=18,stars=3)]),
+            dict(kind='CWL',attack_rows=[dict(own_th=13,target_th=12,stars=0),dict(own_th=14,target_th=13,stars=2),dict(own_th=13,target_th=14,stars=2),dict(target_th=15,stars=3)])])
+        matrix=attack_matrix([p], 'cwl_relative')
+        self.assertEqual(matrix['levels'],[-1,0,1])
+        cells=matrix['rows'][0]['cells']
+        self.assertEqual(cells[0]['average'],1)
+        self.assertEqual(cells[0]['count'],2)
+        self.assertEqual(cells[0]['color'],'78,0,4')
+        self.assertFalse(cells[1]['known'])
+        self.assertTrue(cells[1]['own_th'])
+        self.assertEqual(cells[2]['color'],'65,185,110')

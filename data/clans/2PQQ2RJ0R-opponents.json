@@ -1,12 +1,12 @@
 {
   "season": "2026-11-01",
-  "collected_at": "2026-11-07T15:09:45+03:00",
+  "collected_at": "2026-11-08T13:23:16+03:00",
   "columns": [
     {
       "own": true,
       "day": null,
       "name": "Masters of War",
-      "total_stars": 478,
+      "total_stars": 539,
       "played": false,
       "state": "roster",
       "members": [
@@ -98,11 +98,6 @@
         {
           "th": 14,
           "stars": null,
-          "name": "xfazen-"
-        },
-        {
-          "th": 14,
-          "stars": null,
           "name": "pelmen57ì"
         },
         {
@@ -136,6 +131,11 @@
           "name": "☢️кент☢️"
         },
         {
+          "th": 13,
+          "stars": null,
+          "name": "nikita"
+        },
+        {
           "th": 12,
           "stars": null,
           "name": "Креативный"
@@ -165,7 +165,7 @@
     {
       "day": 1,
       "name": "ışıldaak",
-      "total_stars": 156,
+      "total_stars": 182,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -294,7 +294,7 @@
     {
       "day": 2,
       "name": "ACB CLASHER",
-      "total_stars": 372,
+      "total_stars": 436,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -423,7 +423,7 @@
     {
       "day": 3,
       "name": "transformer",
-      "total_stars": 146,
+      "total_stars": 160,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -552,7 +552,7 @@
     {
       "day": 4,
       "name": "Gió Lạnh ĐầuMùa",
-      "total_stars": 147,
+      "total_stars": 186,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -681,7 +681,7 @@
     {
       "day": 5,
       "name": "ogi to barru",
-      "total_stars": 236,
+      "total_stars": 274,
       "played": true,
       "state": "warEnded",
       "members": [
@@ -810,7 +810,7 @@
     {
       "day": 6,
       "name": "my friends",
-      "total_stars": 151,
+      "total_stars": 174,
       "played": true,
       "state": "inWar",
       "members": [
@@ -820,31 +820,31 @@
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 18,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 18,
@@ -860,11 +860,23 @@
         },
         {
           "th": 17,
-          "stars": 0
+          "stars": 2
         },
         {
           "th": 17,
-          "stars": 0
+          "stars": 3
+        },
+        {
+          "th": 16,
+          "stars": 2
+        },
+        {
+          "th": 16,
+          "stars": 2
+        },
+        {
+          "th": 16,
+          "stars": 2
         },
         {
           "th": 16,
@@ -872,74 +884,62 @@
         },
         {
           "th": 16,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 16,
-          "stars": 0
-        },
-        {
-          "th": 16,
-          "stars": 0
-        },
-        {
-          "th": 16,
-          "stars": 0
-        },
-        {
-          "th": 16,
-          "stars": 0
+          "stars": 1
         },
         {
           "th": 17,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 9,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 8,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 8,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 8,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 7,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 7,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 7,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 7,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 7,
-          "stars": 0
+          "stars": 3
         },
         {
           "th": 7,
-          "stars": 0
+          "stars": 3
         }
       ]
     },
     {
       "day": 7,
       "name": "The Brutes",
-      "total_stars": 302,
+      "total_stars": 351,
       "played": false,
       "state": "preparation",
       "members": [
