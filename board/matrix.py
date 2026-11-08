@@ -54,7 +54,12 @@ def attack_matrix(players, mode="absolute"):
             count = sum(cell['count'] for cell in eligible)
             row['ranking_attacks'] = count
             row['ranking_average'] = sum(cell['average'] * cell['count'] for cell in eligible) / count if count else None
-        rows.sort(key=lambda row: (row['ranking_average'] is None, -(row['ranking_average'] or 0), -row['ranking_attacks'], row['name'].casefold()))
+            known = [cell for cell in row['cells'] if cell['known']]
+            total = sum(cell['count'] for cell in known)
+            # Equal TH has full weight; harder targets reward skill, easier targets count less.
+            row['skill_score'] = sum(cell['average'] * cell['count'] * (0.25 if cell['th'] < 0 else 1 if cell['th'] == 0 else 1.25) for cell in known) / total if total else None
+            row['lower_share'] = sum(cell['count'] for cell in known if cell['th'] < 0) / total if total else 0
+        rows.sort(key=lambda row: (row['skill_score'] is None, -(row['skill_score'] or 0), row['lower_share'], -(row['ranking_average'] or 0), -row['ranking_attacks'], row['name'].casefold()))
         for number, row in enumerate(rows, 1):
             row['number'] = number
     tables = [rows[i:i+25] for i in range(0, len(rows), 25)] if relative else [rows]

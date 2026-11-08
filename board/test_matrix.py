@@ -67,3 +67,17 @@ class AttackMatrixTests(TestCase):
         matrix=attack_matrix([dict(name=f'P{i:02}',town_hall=13) for i in range(50)],'cwl_relative')
         self.assertEqual([len(t) for t in matrix['tables']],[25,25])
         self.assertEqual([r['number'] for t in matrix['tables'] for r in t],list(range(1,51)))
+
+    def test_skill_ranking_rewards_harder_targets_and_penalizes_farming(self):
+        def fighter(name, targets):
+            return dict(name=name,town_hall=13,wars=[dict(kind='CWL',attack_rows=[dict(own_th=13,target_th=13+delta,stars=stars) for delta,stars in targets])])
+        matrix=attack_matrix([
+            fighter('Farm',[(0,3)]+[(-3,3)]*6),
+            fighter('Equal',[(0,3)]*7),
+            fighter('Higher',[(1,3)]*7),
+            fighter('LowerOnly',[(-1,3)]*7),
+            fighter('NoData',[]),
+            fighter('Mixed',[(0,3),(1,3),(-1,3)]),
+        ],'cwl_relative')
+        self.assertEqual([r['name'] for r in matrix['rows']],['Higher','Equal','Mixed','Farm','LowerOnly','NoData'])
+        self.assertEqual(matrix['rows'][2]['skill_score'],2.5)
