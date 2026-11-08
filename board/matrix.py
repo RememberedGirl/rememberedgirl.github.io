@@ -48,4 +48,14 @@ def attack_matrix(players, mode="absolute"):
                     low = int(average); fraction = average-low
                     cell['color'] = ','.join(str(round(a+(b-a)*fraction)) for a,b in zip(palette[low],palette[min(3,low+1)]))
         rows.append(dict(number=number,name=player['name'],slug=player.get('slug'),town_hall=player.get('town_hall'),cells=cells))
-    return dict(levels=levels,rows=rows,width=210+34*len(levels),relative=relative)
+    if relative:
+        for row in rows:
+            eligible = [cell for cell in row['cells'] if cell['known'] and cell['th'] >= 0]
+            count = sum(cell['count'] for cell in eligible)
+            row['ranking_attacks'] = count
+            row['ranking_average'] = sum(cell['average'] * cell['count'] for cell in eligible) / count if count else None
+        rows.sort(key=lambda row: (row['ranking_average'] is None, -(row['ranking_average'] or 0), -row['ranking_attacks'], row['name'].casefold()))
+        for number, row in enumerate(rows, 1):
+            row['number'] = number
+    tables = [rows[i:i+25] for i in range(0, len(rows), 25)] if relative else [rows]
+    return dict(levels=levels,rows=rows,tables=tables,width=210+34*len(levels),relative=relative)

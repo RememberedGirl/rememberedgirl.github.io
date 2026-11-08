@@ -54,3 +54,16 @@ class AttackMatrixTests(TestCase):
         self.assertFalse(cells[1]['known'])
         self.assertTrue(cells[1]['own_th'])
         self.assertEqual(cells[2]['color'],'65,185,110')
+
+    def test_relative_ranking_ignores_lower_targets_and_breaks_ties_by_count(self):
+        def ranked(name, own_stars, lower_stars=()):
+            return dict(name=name,town_hall=13,wars=[dict(kind='CWL',attack_rows=[dict(own_th=13,target_th=14,stars=s) for s in own_stars]+[dict(own_th=13,target_th=12,stars=s) for s in lower_stars])])
+        matrix=attack_matrix([ranked('LowOnly',[],[3]),ranked('Weak',[1],[3,3]),ranked('Good',[3]),ranked('Reliable',[3,3])], 'cwl_relative')
+        self.assertEqual([r['name'] for r in matrix['rows']],['Reliable','Good','Weak','LowOnly'])
+        self.assertEqual([r['number'] for r in matrix['rows']],[1,2,3,4])
+        self.assertIsNone(matrix['rows'][-1]['ranking_average'])
+
+    def test_relative_tables_have_25_players_without_duplicates(self):
+        matrix=attack_matrix([dict(name=f'P{i:02}',town_hall=13) for i in range(50)],'cwl_relative')
+        self.assertEqual([len(t) for t in matrix['tables']],[25,25])
+        self.assertEqual([r['number'] for t in matrix['tables'] for r in t],list(range(1,51)))
