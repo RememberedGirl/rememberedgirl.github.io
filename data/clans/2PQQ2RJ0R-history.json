@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "14.11.2026, 20:31 МСК",
+  "generated": "14.11.2026, 20:32 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -166,7 +166,7 @@
       "army": {
         "weight": 6779,
         "with_potions": 7868,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(167,14,177)",
         "potion_color": "rgb(125,6,205)"
       },
@@ -526,10 +526,10 @@
         ]
       },
       "army": {
-        "weight": 5123,
+        "weight": 5140,
         "with_potions": 5469,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(231,26,135)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(230,26,135)",
         "potion_color": "rgb(218,24,144)"
       },
       "role": "coLeader",
@@ -791,7 +791,7 @@
           "date": "2026-11-14",
           "town_hall": 15,
           "league": "Titan League 25",
-          "donated": 1573,
+          "donated": 1640,
           "received": 812
         },
         {
@@ -927,9 +927,9 @@
         "history": []
       },
       "army": {
-        "weight": 5302,
+        "weight": 5304,
         "with_potions": 6425,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(224,25,139)",
         "potion_color": "rgb(181,17,168)"
       },
@@ -1300,7 +1300,7 @@
       "army": {
         "weight": 5037,
         "with_potions": 6255,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(234,27,133)",
         "potion_color": "rgb(187,18,164)"
       },
@@ -1684,13 +1684,13 @@
         "history": []
       },
       "army": {
-        "weight": 4358,
+        "weight": 4365,
         "with_potions": 5275,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,41,125)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,40,125)",
         "potion_color": "rgb(225,25,139)"
       },
-      "role": "member",
+      "role": "admin",
       "slug": "19b8bcac2440b2e3",
       "name": "☆ Ex3eM ☆",
       "active": true,
@@ -1904,8 +1904,8 @@
           "date": "2026-11-14",
           "town_hall": 15,
           "league": "Golem League 19",
-          "donated": 215,
-          "received": 249
+          "donated": 571,
+          "received": 415
         },
         {
           "date": "2026-11-13",
@@ -2290,10 +2290,10 @@
         ]
       },
       "army": {
-        "weight": 3759,
+        "weight": 3790,
         "with_potions": 3956,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,80,149)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,78,148)",
         "potion_color": "rgb(255,67,141)"
       },
       "role": "admin",
@@ -2555,7 +2555,7 @@
           "date": "2026-11-14",
           "town_hall": 13,
           "league": "Witch League 18",
-          "donated": 877,
+          "donated": 908,
           "received": 451
         },
         {
@@ -2691,9 +2691,9 @@
         "history": []
       },
       "army": {
-        "weight": 4000,
+        "weight": 4011,
         "with_potions": 4588,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,64,139)",
         "potion_color": "rgb(252,30,121)"
       },
@@ -2911,7 +2911,7 @@
           "date": "2026-11-14",
           "town_hall": 14,
           "league": "Witch League 18",
-          "donated": 137,
+          "donated": 268,
           "received": 213
         },
         {
@@ -3223,11 +3223,11 @@
         ]
       },
       "army": {
-        "weight": 4338,
-        "with_potions": 5446,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,42,126)",
-        "potion_color": "rgb(219,24,143)"
+        "weight": 4346,
+        "with_potions": 5452,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,41,125)",
+        "potion_color": "rgb(218,24,143)"
       },
       "role": "admin",
       "slug": "75a1d687d2b228f0",
@@ -3477,7 +3477,7 @@
           "date": "2026-11-14",
           "town_hall": 16,
           "league": "Golem League 20",
-          "donated": 3429,
+          "donated": 3589,
           "received": 1334
         },
         {
@@ -3613,10 +3613,10 @@
         "history": []
       },
       "army": {
-        "weight": 3825,
+        "weight": 3878,
         "with_potions": 4014,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,76,146)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,72,144)",
         "potion_color": "rgb(255,63,139)"
       },
       "role": "admin",
@@ -3848,7 +3848,7 @@
           "date": "2026-11-14",
           "town_hall": 13,
           "league": "Valkyrie League 14",
-          "donated": 692,
+          "donated": 697,
           "received": 0
         },
         {
@@ -4002,7 +4002,7 @@
       "army": {
         "weight": 3259,
         "with_potions": 5156,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,114,169)",
         "potion_color": "rgb(230,26,136)"
       },
@@ -4358,7 +4358,7 @@
       "army": {
         "weight": 3171,
         "with_potions": 4166,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,119,173)",
         "potion_color": "rgb(255,53,133)"
       },
@@ -4769,7 +4769,7 @@
       "army": {
         "weight": 3963,
         "with_potions": 4566,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,67,141)",
         "potion_color": "rgb(253,31,121)"
       },
@@ -5016,8 +5016,8 @@
           "date": "2026-11-14",
           "town_hall": 14,
           "league": "Witch League 16",
-          "donated": 805,
-          "received": 1550
+          "donated": 907,
+          "received": 1598
         },
         {
           "date": "2026-11-13",
@@ -5168,10 +5168,10 @@
         ]
       },
       "army": {
-        "weight": 2779,
+        "weight": 2783,
         "with_potions": 3157,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,146,189)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,145,188)",
         "potion_color": "rgb(255,120,173)"
       },
       "role": "member",
@@ -5580,10 +5580,10 @@
         ]
       },
       "army": {
-        "weight": 3317,
+        "weight": 3321,
         "with_potions": 4240,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,110,167)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,109,167)",
         "potion_color": "rgb(255,48,130)"
       },
       "role": "admin",
@@ -5751,7 +5751,7 @@
           "town_hall": 14,
           "league": "Valkyrie League 14",
           "donated": 553,
-          "received": 1944
+          "received": 1989
         },
         {
           "date": "2026-11-13",
@@ -5886,10 +5886,10 @@
         "history": []
       },
       "army": {
-        "weight": 3290,
+        "weight": 3295,
         "with_potions": 4478,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,112,168)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,111,168)",
         "potion_color": "rgb(255,33,120)"
       },
       "role": "member",
@@ -6699,20 +6699,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 3473,
-        "with_potions": 3798,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,99,161)",
-        "potion_color": "rgb(255,78,147)"
-      },
+      "army": null,
       "role": "member",
       "slug": "49a5423e2a6e8ce2",
       "name": "☢️кент☢️",
-      "active": true,
+      "active": false,
       "town_hall": 13,
-      "league": 11,
-      "days": 14,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7089,7 +7083,7 @@
       "army": {
         "weight": 2415,
         "with_potions": 3021,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,170,203)",
         "potion_color": "rgb(255,129,179)"
       },
@@ -7348,7 +7342,7 @@
           "town_hall": 12,
           "league": "Wizard League 11",
           "donated": 344,
-          "received": 1648
+          "received": 1719
         },
         {
           "date": "2026-11-13",
@@ -7501,7 +7495,7 @@
       "army": {
         "weight": 2002,
         "with_potions": 2432,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,197,220)",
         "potion_color": "rgb(255,169,203)"
       },
@@ -7773,7 +7767,7 @@
           "date": "2026-11-14",
           "town_hall": 11,
           "league": "Wizard League 11",
-          "donated": 469,
+          "donated": 471,
           "received": 170
         },
         {
@@ -7911,7 +7905,7 @@
       "army": {
         "weight": 2960,
         "with_potions": 3087,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,133,181)",
         "potion_color": "rgb(255,125,176)"
       },
@@ -8287,7 +8281,7 @@
       "army": {
         "weight": 3189,
         "with_potions": 3189,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,118,172)",
         "potion_color": "rgb(255,118,172)"
       },
@@ -8565,10 +8559,10 @@
         "history": []
       },
       "army": {
-        "weight": 2162,
+        "weight": 2182,
         "with_potions": 2810,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,187,213)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,185,213)",
         "potion_color": "rgb(255,143,187)"
       },
       "role": "member",
@@ -8715,8 +8709,8 @@
           "date": "2026-11-14",
           "town_hall": 12,
           "league": "Archer League 8",
-          "donated": 0,
-          "received": 402
+          "donated": 3,
+          "received": 737
         },
         {
           "date": "2026-11-13",
@@ -8966,7 +8960,7 @@
       "army": {
         "weight": 1700,
         "with_potions": 2274,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,217,232)",
         "potion_color": "rgb(255,179,209)"
       },
@@ -9145,16 +9139,16 @@
       },
       "army": {
         "weight": 1304,
-        "with_potions": 1804,
-        "updated": "2026-11-14 12:41",
+        "with_potions": 2144,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,244,248)",
-        "potion_color": "rgb(255,210,228)"
+        "potion_color": "rgb(255,188,214)"
       },
       "role": "admin",
       "slug": "9e30e52718e27059",
       "name": "gilvy28",
       "active": true,
-      "town_hall": 10,
+      "town_hall": 11,
       "league": 6,
       "days": 14,
       "first_seen": "2026-10-31",
@@ -9232,7 +9226,7 @@
       "development": [
         {
           "date": "2026-11-14",
-          "town_hall": 10,
+          "town_hall": 11,
           "league": "Barbarian League 6",
           "donated": 0,
           "received": 388
@@ -9388,7 +9382,7 @@
       "army": {
         "weight": 1006,
         "with_potions": 1298,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,244,248)"
       },
@@ -9598,7 +9592,7 @@
           "total": 0
         },
         "donations": {
-          "changes": 8,
+          "changes": 9,
           "comparisons": 11,
           "known": true
         }
@@ -9622,9 +9616,9 @@
         "history": []
       },
       "army": {
-        "weight": 940,
-        "with_potions": 1908,
-        "updated": "2026-11-14 12:41",
+        "weight": 944,
+        "with_potions": 1912,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,203,224)"
       },
@@ -9723,7 +9717,7 @@
           "town_hall": 11,
           "league": "Barbarian League 6",
           "donated": 52,
-          "received": 803
+          "received": 874
         },
         {
           "date": "2026-11-13",
@@ -9874,9 +9868,9 @@
         ]
       },
       "army": {
-        "weight": 1140,
+        "weight": 1142,
         "with_potions": 1212,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,254,255)",
         "potion_color": "rgb(255,250,252)"
       },
@@ -10072,7 +10066,7 @@
       "army": {
         "weight": 674,
         "with_potions": 1334,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,242,247)"
       },
@@ -10309,7 +10303,7 @@
       "army": {
         "weight": 836,
         "with_potions": 848,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -10530,7 +10524,7 @@
       "army": {
         "weight": 5453,
         "with_potions": 6488,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(218,24,143)",
         "potion_color": "rgb(178,16,170)"
       },
@@ -10916,7 +10910,7 @@
       "army": {
         "weight": 4413,
         "with_potions": 6340,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,37,123)",
         "potion_color": "rgb(184,18,166)"
       },
@@ -11270,9 +11264,9 @@
         "history": []
       },
       "army": {
-        "weight": 4542,
+        "weight": 4544,
         "with_potions": 5303,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(253,31,120)",
         "potion_color": "rgb(224,25,139)"
       },
@@ -11643,7 +11637,7 @@
       "army": {
         "weight": 4370,
         "with_potions": 4648,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,40,124)",
         "potion_color": "rgb(249,30,123)"
       },
@@ -12026,20 +12020,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 3687,
-        "with_potions": 4432,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,85,152)",
-        "potion_color": "rgb(255,36,122)"
-      },
+      "army": null,
       "role": "member",
       "slug": "e9cc8decb24e335a",
       "name": "weak.",
-      "active": true,
+      "active": false,
       "town_hall": 14,
-      "league": 0,
-      "days": 14,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -12400,7 +12388,7 @@
       "army": {
         "weight": 3366,
         "with_potions": 3786,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,107,165)",
         "potion_color": "rgb(255,79,148)"
       },
@@ -12736,7 +12724,7 @@
       "army": {
         "weight": 4357,
         "with_potions": 5327,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,41,125)",
         "potion_color": "rgb(223,25,140)"
       },
@@ -13082,7 +13070,7 @@
       "army": {
         "weight": 5438,
         "with_potions": 5735,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(219,24,143)",
         "potion_color": "rgb(207,22,150)"
       },
@@ -13483,7 +13471,7 @@
       "army": {
         "weight": 4903,
         "with_potions": 6879,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(240,28,129)",
         "potion_color": "rgb(163,14,180)"
       },
@@ -13839,7 +13827,7 @@
       "army": {
         "weight": 4545,
         "with_potions": 4636,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(253,31,120)",
         "potion_color": "rgb(250,30,122)"
       },
@@ -14241,7 +14229,7 @@
       "army": {
         "weight": 4784,
         "with_potions": 6178,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(244,29,126)",
         "potion_color": "rgb(190,19,162)"
       },
@@ -14546,9 +14534,9 @@
         "history": []
       },
       "army": {
-        "weight": 1346,
-        "with_potions": 1378,
-        "updated": "2026-11-14 12:41",
+        "weight": 1348,
+        "with_potions": 1380,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,241,246)",
         "potion_color": "rgb(255,239,245)"
       },
@@ -14656,7 +14644,7 @@
           "town_hall": 9,
           "league": "Barbarian League 4",
           "donated": 0,
-          "received": 61
+          "received": 92
         },
         {
           "date": "2026-11-12",
@@ -14902,10 +14890,10 @@
         "history": []
       },
       "army": {
-        "weight": 1542,
+        "weight": 1556,
         "with_potions": 1830,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,228,238)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,227,238)",
         "potion_color": "rgb(255,209,227)"
       },
       "role": "member",
@@ -15231,7 +15219,7 @@
       "army": {
         "weight": 1889,
         "with_potions": 2821,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,205,224)",
         "potion_color": "rgb(255,143,187)"
       },
@@ -15404,7 +15392,7 @@
       "army": {
         "weight": 1860,
         "with_potions": 1860,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,207,226)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -15593,7 +15581,7 @@
       "army": {
         "weight": 1600,
         "with_potions": 1880,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,224,236)",
         "potion_color": "rgb(255,205,225)"
       },
@@ -15755,10 +15743,10 @@
         ]
       },
       "army": {
-        "weight": 2209,
+        "weight": 2211,
         "with_potions": 2825,
-        "updated": "2026-11-14 12:41",
-        "color": "rgb(255,183,212)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,183,211)",
         "potion_color": "rgb(255,142,187)"
       },
       "role": "member",
@@ -15874,8 +15862,8 @@
           "date": "2026-11-14",
           "town_hall": 12,
           "league": "Wizard League 12",
-          "donated": 9,
-          "received": 71
+          "donated": 10,
+          "received": 101
         },
         {
           "date": "2026-11-13",
@@ -15958,7 +15946,7 @@
       "army": {
         "weight": 1774,
         "with_potions": 1916,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,212,229)",
         "potion_color": "rgb(255,203,223)"
       },
@@ -16041,8 +16029,8 @@
           "date": "2026-11-14",
           "town_hall": 10,
           "league": "Archer League 8",
-          "donated": 142,
-          "received": 65
+          "donated": 166,
+          "received": 130
         },
         {
           "date": "2026-11-13",
@@ -16109,7 +16097,7 @@
       "army": {
         "weight": 4714,
         "with_potions": 5437,
-        "updated": "2026-11-14 12:41",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(247,29,124)",
         "potion_color": "rgb(219,24,143)"
       },
@@ -16167,6 +16155,97 @@
           "league": "Unranked",
           "donated": 67,
           "received": 0
+        }
+      ]
+    },
+    {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 508,
+        "with_potions": 706,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,255,255)",
+        "potion_color": "rgb(255,255,255)"
+      },
+      "role": "member",
+      "slug": "1f75e1fffb37b0ce",
+      "name": "Boooooom",
+      "active": true,
+      "town_hall": 8,
+      "league": 2,
+      "days": 0,
+      "first_seen": "2026-11-14",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-14",
+          "town_hall": 8,
+          "league": "Skeleton League 2",
+          "donated": 0,
+          "received": 20
         }
       ]
     }
