@@ -1,10 +1,37 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "14.11.2026, 12:47 МСК",
+  "generated": "14.11.2026, 12:59 МСК",
   "season": "2026-11",
   "players": [
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 1.75,
+          "attacks": 4
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -167,6 +194,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 2.0,
+          "attacks": 4
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -329,6 +383,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -472,6 +553,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -615,6 +723,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -758,6 +893,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -901,6 +1063,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -1044,6 +1233,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 8
+        },
+        "average": {
+          "value": 2.6,
+          "attacks": 10
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 8,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -1543,6 +1759,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 7
+        },
+        "average": {
+          "value": 1.9,
+          "attacks": 10
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 600,
@@ -1927,6 +2170,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 2.5,
+          "attacks": 4
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -2075,6 +2345,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -2185,6 +2482,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -2259,6 +2583,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -2340,6 +2691,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -2457,6 +2835,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -2515,6 +2920,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 2,
+          "total": 6
+        },
+        "CW": {
+          "missed": 0,
+          "total": 4
+        },
+        "average": {
+          "value": 2.5,
+          "attacks": 12
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 9,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 500,
@@ -3033,6 +3465,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 7
+        },
+        "average": {
+          "value": 2.4285714285714284,
+          "attacks": 21
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 10,
+          "comparisons": 12,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 10200,
@@ -3718,6 +4177,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 3,
+          "total": 8
+        },
+        "average": {
+          "value": 2.5,
+          "attacks": 10
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 13,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 10100,
@@ -4226,6 +4712,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 3,
+          "total": 5
+        },
+        "average": {
+          "value": 1.5,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 150,
@@ -4455,6 +4968,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 6
+        },
+        "average": {
+          "value": 1.5555555555555556,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -4765,6 +5305,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 7
+        },
+        "average": {
+          "value": 2.2142857142857144,
+          "attacks": 14
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 12,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -5305,6 +5872,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -5448,6 +6042,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -5591,6 +6212,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 3
+        },
+        "CW": {
+          "missed": 1,
+          "total": 6
+        },
+        "average": {
+          "value": 2.4615384615384617,
+          "attacks": 13
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 11,
+          "comparisons": 16,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 2400,
@@ -6146,6 +6794,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -6211,6 +6886,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 6
+        },
+        "average": {
+          "value": 2.8333333333333335,
+          "attacks": 12
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 10,
+          "comparisons": 10,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -6605,6 +7307,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 3,
+          "total": 5
+        },
+        "CW": {
+          "missed": 2,
+          "total": 6
+        },
+        "average": {
+          "value": 2.1,
+          "attacks": 10
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 4,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 1950,
@@ -7118,6 +7847,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 4,
+          "total": 4
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 2,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -7298,6 +8054,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 3
+        },
+        "average": {
+          "value": 2.3333333333333335,
+          "attacks": 6
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -7520,6 +8303,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 3
+        },
+        "average": {
+          "value": 2.0,
+          "attacks": 3
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -7707,6 +8517,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -7842,6 +8679,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -7907,6 +8771,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 3
+        },
+        "average": {
+          "value": 2.25,
+          "attacks": 4
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -8103,6 +8994,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -8161,6 +9079,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 3
+        },
+        "average": {
+          "value": 2.3333333333333335,
+          "attacks": 6
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 7,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 6000,
@@ -8558,6 +9503,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 6
+        },
+        "average": {
+          "value": 2.8333333333333335,
+          "attacks": 12
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 8,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 600,
@@ -8931,6 +9903,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -9067,6 +10066,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -9210,6 +10236,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -9275,6 +10328,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -9333,6 +10413,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 7
+        },
+        "average": {
+          "value": 2.7857142857142856,
+          "attacks": 14
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 9,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 2950,
@@ -9873,6 +10980,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -10016,6 +11150,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 3,
+          "total": 3
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -10195,6 +11356,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 7
+        },
+        "average": {
+          "value": 2.380952380952381,
+          "attacks": 21
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 14,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 10000,
@@ -10894,6 +12082,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -10952,6 +12167,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 3,
+          "total": 4
+        },
+        "average": {
+          "value": 2.0,
+          "attacks": 1
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 7,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -11184,6 +12426,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 7
+        },
+        "average": {
+          "value": 2.111111111111111,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 7,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -11642,6 +12911,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -11770,6 +13066,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 4,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -11941,6 +13264,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -12006,6 +13356,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -12094,6 +13471,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 1,
+          "total": 5
+        },
+        "average": {
+          "value": 2.2,
+          "attacks": 15
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 9,
+          "comparisons": 14,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 6400,
@@ -12651,6 +14055,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -12716,6 +14147,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -12797,6 +14255,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 2,
+          "total": 3
+        },
+        "CW": {
+          "missed": 3,
+          "total": 5
+        },
+        "average": {
+          "value": 1.8,
+          "attacks": 5
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 2,
+          "comparisons": 10,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 4050,
@@ -13141,6 +14626,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 1
+        },
+        "CW": {
+          "missed": 0,
+          "total": 6
+        },
+        "average": {
+          "value": 2.5,
+          "attacks": 12
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 15,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -13648,6 +15160,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 2,
+          "total": 7
+        },
+        "CW": {
+          "missed": 2,
+          "total": 4
+        },
+        "average": {
+          "value": 2.2222222222222223,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 17,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 10000,
@@ -14132,6 +15671,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 1.0,
+          "attacks": 4
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 5,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -14327,6 +15893,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 4
+        },
+        "average": {
+          "value": 2.125,
+          "attacks": 8
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 2,
+          "comparisons": 7,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 7800,
@@ -14604,6 +16197,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 3
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 1
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -14772,6 +16392,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -14830,6 +16477,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -14959,6 +16633,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -15052,6 +16753,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 1
+        },
+        "CW": {
+          "missed": 0,
+          "total": 3
+        },
+        "average": {
+          "value": 2.1666666666666665,
+          "attacks": 6
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 7,
+          "comparisons": 7,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -15296,6 +17024,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 4,
+          "comparisons": 5,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -15432,6 +17187,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 4
+        },
+        "average": {
+          "value": 2.5714285714285716,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 9,
+          "comparisons": 18,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -15784,6 +17566,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -15854,6 +17663,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 1.5,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -15980,6 +17816,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16050,6 +17913,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 3
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 6
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16293,6 +18183,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16400,6 +18317,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16470,6 +18414,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16533,6 +18504,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -16591,6 +18589,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16691,6 +18716,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 1.5,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16825,6 +18877,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -16911,6 +18990,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -17011,6 +19117,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -17081,6 +19214,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 3,
+          "total": 3
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 6,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -17232,6 +19392,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 2.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 2,
+          "comparisons": 5,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -17380,6 +19567,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 3
+        },
+        "average": {
+          "value": 2.0833333333333335,
+          "attacks": 12
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 5,
+          "comparisons": 19,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 1050,
@@ -17850,6 +20064,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -18174,6 +20415,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -18279,6 +20547,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -18337,6 +20632,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 12,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -18484,6 +20806,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -18542,6 +20891,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 2,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -18619,6 +20995,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 4,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -18726,6 +21129,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 2
+        },
+        "average": {
+          "value": 2.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 5,
+          "comparisons": 16,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -18964,6 +21394,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -19027,6 +21484,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 4,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -19134,6 +21618,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 4,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -19256,6 +21767,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -19342,6 +21880,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 2.0,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 10,
+          "comparisons": 16,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 1100,
@@ -19740,6 +22305,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 150,
@@ -19840,6 +22432,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -19926,6 +22545,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 0.5,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 8,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -20134,6 +22780,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 2.8181818181818183,
+          "attacks": 11
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 11,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -20586,6 +23259,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 2.272727272727273,
+          "attacks": 11
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 8,
+          "comparisons": 13,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -21054,6 +23754,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 2,
+          "total": 2
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -21266,6 +23993,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 2,
+          "total": 3
+        },
+        "average": {
+          "value": 2.111111111111111,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 11,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -21687,6 +24441,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 1.8571428571428572,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 9,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -22074,6 +24855,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 2.4,
+          "attacks": 10
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 8,
+          "comparisons": 14,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -22516,6 +25324,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 2.7777777777777777,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 5,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -22907,6 +25742,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 2.142857142857143,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 14,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -23250,6 +26112,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 4
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 2.6666666666666665,
+          "attacks": 3
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 10,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -23522,6 +26411,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 2.4444444444444446,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 15,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -23906,6 +26822,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 2.3333333333333335,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 1,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -24249,6 +27192,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 6
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": 2.4,
+          "attacks": 5
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 7,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -24552,6 +27522,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 1.8571428571428572,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 14,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -24895,6 +27892,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 6
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 1.5714285714285714,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 12,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -25252,6 +28276,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -25310,6 +28361,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 2
+        },
+        "average": {
+          "value": 2.1818181818181817,
+          "attacks": 11
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 4,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -25728,6 +28806,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 2.3333333333333335,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 2,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -26071,6 +29176,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 2.2222222222222223,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 3,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -26428,6 +29560,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 1,
+          "total": 1
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -26514,6 +29673,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 2,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -26591,6 +29777,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 1.5714285714285714,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 8,
+          "comparisons": 8,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -26893,6 +30106,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 9
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 7,
+          "comparisons": 7,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -27290,6 +30530,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 2.4285714285714284,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 4,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -27641,6 +30908,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -27711,6 +31005,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 2.4285714285714284,
+          "attacks": 7
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 7,
+          "comparisons": 8,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -28006,6 +31327,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 1,
+          "total": 7
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": 2.5,
+          "attacks": 6
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 6,
+          "comparisons": 12,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -28325,6 +31673,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -28388,6 +31763,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 10,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -28534,6 +31936,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -28592,6 +32021,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 5,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -28789,6 +32245,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 11,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -28935,6 +32418,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 10,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29074,6 +32584,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 2,
+          "comparisons": 3,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29158,6 +32695,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 6,
+          "comparisons": 9,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29189,7 +32753,7 @@
       "active": true,
       "town_hall": 12,
       "league": 8,
-      "days": 9,
+      "days": 10,
       "first_seen": "2026-11-04",
       "stats": {
         "CW": {
@@ -29290,6 +32854,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -29348,6 +32939,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": null,
@@ -29406,6 +33024,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 1
+        },
+        "average": {
+          "value": 3.0,
+          "attacks": 2
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 6,
+          "comparisons": 7,
+          "known": true
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29559,6 +33204,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 5,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29663,6 +33335,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 5,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29767,6 +33466,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 1,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29843,6 +33569,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29912,6 +33665,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -29981,6 +33761,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -30050,6 +33857,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,
@@ -30119,6 +33953,33 @@
       ]
     },
     {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
       "games": {
         "current_season": "2026-10",
         "current": 0,

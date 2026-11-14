@@ -96,7 +96,9 @@ def build_public(data, all_players, histories, clan_name='Blushing snow'):
             boosted = (army.get('boosts') or {}).get('with_both')
             army_public = dict(weight=army['weight'],with_potions=boosted,updated=(army.get('collected_at') or '')[:16].replace('T',' '),
                                color=army_color(army['weight']),potion_color=army_color(boosted))
-        records.append(dict(games=games_public,raids=raids_public,army=army_public,role=row.get('role'),slug=slugs[row['tag']], name=row['name'], active=bool(row['active']), town_hall=p.get('town_hall') or (histories.get(row['tag']) or [{}])[0].get('town_hall') or 0, league=p.get('current_league_level'), days=p.get('observed_days'), first_seen=(row.get('first_seen') or '')[:10], stats=stats, wars=history, development=histories.get(row['tag'], [])))
+        from removal_export import inactivity_signals
+        removal = inactivity_signals(data, row, histories.get(row['tag'], []))
+        records.append(dict(removal=removal,games=games_public,raids=raids_public,army=army_public,role=row.get('role'),slug=slugs[row['tag']], name=row['name'], active=bool(row['active']), town_hall=p.get('town_hall') or (histories.get(row['tag']) or [{}])[0].get('town_hall') or 0, league=p.get('current_league_level'), days=p.get('observed_days'), first_seen=(row.get('first_seen') or '')[:10], stats=stats, wars=history, development=histories.get(row['tag'], [])))
     return dict(version=1, clan_name=clan_name, generated=generated.strftime('%d.%m.%Y, %H:%M МСК'), season=season, players=records)
 
 
