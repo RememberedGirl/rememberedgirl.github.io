@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Masters of War",
-  "generated": "14.11.2026, 12:59 МСК",
+  "generated": "14.11.2026, 20:31 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -176,7 +176,7 @@
       "active": true,
       "town_hall": 18,
       "league": 27,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -538,7 +538,7 @@
       "active": true,
       "town_hall": 15,
       "league": 25,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -939,7 +939,7 @@
       "active": true,
       "town_hall": 16,
       "league": 21,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1310,7 +1310,7 @@
       "active": true,
       "town_hall": 16,
       "league": 20,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -1696,7 +1696,7 @@
       "active": true,
       "town_hall": 15,
       "league": 19,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2302,7 +2302,7 @@
       "active": true,
       "town_hall": 13,
       "league": 18,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -2703,7 +2703,7 @@
       "active": true,
       "town_hall": 14,
       "league": 18,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3235,7 +3235,7 @@
       "active": true,
       "town_hall": 16,
       "league": 20,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -3625,7 +3625,7 @@
       "active": true,
       "town_hall": 13,
       "league": 14,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4012,7 +4012,7 @@
       "active": true,
       "town_hall": 16,
       "league": 20,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4368,7 +4368,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -4779,7 +4779,7 @@
       "active": true,
       "town_hall": 14,
       "league": 16,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5180,7 +5180,7 @@
       "active": true,
       "town_hall": 12,
       "league": 13,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5592,7 +5592,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -5898,7 +5898,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -6712,7 +6712,7 @@
       "active": true,
       "town_hall": 13,
       "league": 11,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7099,7 +7099,7 @@
       "active": true,
       "town_hall": 12,
       "league": 11,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7511,7 +7511,7 @@
       "active": true,
       "town_hall": 11,
       "league": 11,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -7921,7 +7921,7 @@
       "active": true,
       "town_hall": 12,
       "league": 10,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8297,7 +8297,7 @@
       "active": true,
       "town_hall": 12,
       "league": 9,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8577,7 +8577,7 @@
       "active": true,
       "town_hall": 12,
       "league": 8,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -8976,7 +8976,7 @@
       "active": true,
       "town_hall": 11,
       "league": 6,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -9156,7 +9156,7 @@
       "active": true,
       "town_hall": 10,
       "league": 6,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -9398,7 +9398,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -9634,7 +9634,7 @@
       "active": true,
       "town_hall": 11,
       "league": 6,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -9886,7 +9886,7 @@
       "active": true,
       "town_hall": 9,
       "league": 4,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -10082,7 +10082,7 @@
       "active": true,
       "town_hall": 10,
       "league": 4,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -10319,7 +10319,7 @@
       "active": true,
       "town_hall": 8,
       "league": 3,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -10540,7 +10540,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -10926,7 +10926,7 @@
       "active": true,
       "town_hall": 16,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -11282,7 +11282,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -11653,7 +11653,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -12039,7 +12039,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -12410,7 +12410,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -12746,7 +12746,7 @@
       "active": true,
       "town_hall": 15,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -13092,7 +13092,7 @@
       "active": true,
       "town_hall": 15,
       "league": 18,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -13493,7 +13493,7 @@
       "active": true,
       "town_hall": 17,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
@@ -13849,7 +13849,7 @@
       "active": true,
       "town_hall": 14,
       "league": 0,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {

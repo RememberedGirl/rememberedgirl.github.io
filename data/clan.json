@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "14.11.2026, 12:59 МСК",
+  "generated": "14.11.2026, 20:31 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -19,8 +19,8 @@
           "attacks": 4
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -208,8 +208,8 @@
           "attacks": 4
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -397,8 +397,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -567,8 +567,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -737,8 +737,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -907,8 +907,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -1077,8 +1077,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -1248,7 +1248,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -1272,9 +1272,9 @@
         ]
       },
       "raids": {
-        "total_loot": 9125,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 20499,
+        "total_attacks": 18,
+        "count": 3,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -1291,13 +1291,29 @@
             "attacks": 6,
             "loot": 9125,
             "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 5008,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 6366,
+            "allowed": 6
           }
         ]
       },
       "army": {
         "weight": 838,
         "with_potions": 1228,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,249,251)"
       },
@@ -1774,7 +1790,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -1798,11 +1814,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 5935,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5935,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -2935,7 +2960,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -2959,16 +2984,33 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 10823,
+        "total_attacks": 7,
+        "count": 2,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 9693,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 1,
+            "loot": 1130,
+            "allowed": 5
+          }
+        ]
       },
       "army": {
-        "weight": 1224,
-        "with_potions": 2170,
-        "updated": "2026-11-14 12:40",
+        "weight": 1226,
+        "with_potions": 2172,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,249,251)",
         "potion_color": "rgb(255,186,213)"
       },
@@ -3479,8 +3521,8 @@
           "attacks": 21
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 2,
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -3511,11 +3553,11 @@
         "history": []
       },
       "army": {
-        "weight": 908,
-        "with_potions": 2408,
-        "updated": "2026-11-14 12:40",
+        "weight": 918,
+        "with_potions": 2428,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
-        "potion_color": "rgb(255,170,204)"
+        "potion_color": "rgb(255,169,203)"
       },
       "role": "leader",
       "slug": "9ad7e8dd4487f5a6",
@@ -4192,7 +4234,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -4216,9 +4258,9 @@
         ]
       },
       "raids": {
-        "total_loot": 7441,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 20739,
+        "total_attacks": 18,
+        "count": 3,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -4235,13 +4277,29 @@
             "attacks": 6,
             "loot": 7441,
             "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 6754,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 6544,
+            "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 710,
+        "weight": 720,
         "with_potions": 1250,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,247,250)"
       },
@@ -4727,7 +4785,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -4751,11 +4809,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 5533,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5533,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "member",
@@ -4982,8 +5049,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -5320,7 +5387,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -5344,9 +5411,9 @@
         ]
       },
       "raids": {
-        "total_loot": 8849,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 22095,
+        "total_attacks": 18,
+        "count": 3,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -5363,13 +5430,29 @@
             "attacks": 6,
             "loot": 8849,
             "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 8525,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 4721,
+            "allowed": 6
           }
         ]
       },
       "army": {
         "weight": 792,
         "with_potions": 1158,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,253,254)"
       },
@@ -5684,7 +5767,7 @@
           "date": "2026-11-14",
           "town_hall": 9,
           "league": "Skeleton League 3",
-          "donated": 184,
+          "donated": 225,
           "received": 15
         },
         {
@@ -5886,8 +5969,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -6056,8 +6139,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -6227,7 +6310,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -6251,32 +6334,48 @@
         ]
       },
       "raids": {
-        "total_loot": 1500,
-        "total_attacks": 1,
-        "count": 1,
+        "total_loot": 25221,
+        "total_attacks": 18,
+        "count": 3,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
           "date_label": "2026-11-13",
-          "attacks": 1,
-          "loot": 1500,
-          "allowed": 5
+          "attacks": 6,
+          "loot": 8287,
+          "allowed": 6
         },
         "history": [
           {
             "start": "2026-11-13T10:00:00+03:00",
             "end": "2026-11-16T10:00:00+03:00",
             "date_label": "2026-11-13",
-            "attacks": 1,
-            "loot": 1500,
-            "allowed": 5
+            "attacks": 6,
+            "loot": 8287,
+            "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 10978,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5956,
+            "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 644,
+        "weight": 646,
         "with_potions": 1936,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,202,223)"
       },
@@ -6900,8 +6999,8 @@
           "attacks": 12
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -6925,11 +7024,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 2600,
+        "total_attacks": 5,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 5,
+            "loot": 2600,
+            "allowed": 5
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -7321,8 +7429,8 @@
           "attacks": 10
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 2,
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -7352,20 +7460,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 2864,
-        "with_potions": 3506,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,140,185)",
-        "potion_color": "rgb(255,97,159)"
-      },
+      "army": null,
       "role": "admin",
       "slug": "4f1725c3b0727bbb",
       "name": "Аккерман",
-      "active": true,
+      "active": false,
       "town_hall": 13,
-      "league": 11,
-      "days": 27,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
@@ -7861,8 +7963,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -8069,7 +8171,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -8094,10 +8196,19 @@
       },
       "raids": {
         "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_attacks": 1,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 1,
+            "loot": 0,
+            "allowed": 5
+          }
+        ]
       },
       "army": null,
       "role": "member",
@@ -8317,8 +8428,8 @@
           "attacks": 3
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -8531,8 +8642,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -8785,8 +8896,8 @@
           "attacks": 4
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -9093,8 +9204,8 @@
           "attacks": 6
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -9118,9 +9229,9 @@
         ]
       },
       "raids": {
-        "total_loot": 10746,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 16515,
+        "total_attacks": 12,
+        "count": 2,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -9137,13 +9248,21 @@
             "attacks": 6,
             "loot": 10746,
             "allowed": 6
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5769,
+            "allowed": 6
           }
         ]
       },
       "army": {
         "weight": 918,
         "with_potions": 1188,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,251,253)"
       },
@@ -9518,7 +9637,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -9542,11 +9661,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 2305,
+        "total_attacks": 2,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 2,
+            "loot": 2305,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -10080,8 +10208,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -10428,7 +10556,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -10452,9 +10580,9 @@
         ]
       },
       "raids": {
-        "total_loot": 8632,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 23359,
+        "total_attacks": 18,
+        "count": 3,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -10471,13 +10599,29 @@
             "attacks": 6,
             "loot": 8632,
             "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 9072,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5655,
+            "allowed": 6
           }
         ]
       },
       "army": {
-        "weight": 618,
-        "with_potions": 942,
-        "updated": "2026-11-14 12:40",
+        "weight": 628,
+        "with_potions": 950,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -10792,8 +10936,8 @@
           "date": "2026-11-14",
           "town_hall": 9,
           "league": "Skeleton League 3",
-          "donated": 136,
-          "received": 147
+          "donated": 137,
+          "received": 173
         },
         {
           "date": "2026-11-13",
@@ -10994,8 +11138,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -11164,8 +11308,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -11370,8 +11514,8 @@
           "attacks": 21
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -11395,18 +11539,27 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 5169,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5169,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 1536,
-        "with_potions": 3668,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,228,239)",
-        "potion_color": "rgb(255,86,153)"
+        "weight": 1552,
+        "with_potions": 3674,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,227,238)",
+        "potion_color": "rgb(255,86,152)"
       },
       "role": "admin",
       "slug": "c156c13de2b04a12",
@@ -11895,7 +12048,7 @@
           "town_hall": 14,
           "league": "Archer League 8",
           "donated": 30,
-          "received": 47
+          "received": 124
         },
         {
           "date": "2026-11-13",
@@ -12181,8 +12334,8 @@
           "attacks": 1
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -12441,7 +12594,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -12465,16 +12618,33 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 11940,
+        "total_attacks": 11,
+        "count": 2,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 7965,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 5,
+            "loot": 3975,
+            "allowed": 5
+          }
+        ]
       },
       "army": {
         "weight": 724,
         "with_potions": 1560,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,227,238)"
       },
@@ -12520,11 +12690,30 @@
           "opponent": "@Clash",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 5,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 10,
+              "target_th": 9,
+              "target_name": "desperado",
+              "contribution": 1,
+              "mirror": 0
+            },
+            {
+              "stars": 2,
+              "destruction": 81.0,
+              "own_th": 10,
+              "target_th": 9,
+              "target_name": "marta",
+              "contribution": 0,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "77248badde3b2a36",
@@ -12925,8 +13114,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -13080,8 +13269,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -13485,8 +13674,8 @@
           "attacks": 15
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -13510,26 +13699,29 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 5064,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 5064,
+            "allowed": 6
+          }
+        ]
       },
-      "army": {
-        "weight": 2712,
-        "with_potions": 3057,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,150,191)",
-        "potion_color": "rgb(255,127,177)"
-      },
+      "army": null,
       "role": "admin",
       "slug": "9d4e9045d903e060",
       "name": "Legenda",
-      "active": true,
+      "active": false,
       "town_hall": 12,
-      "league": 10,
-      "days": 25,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-19",
       "stats": {
         "CW": {
@@ -14270,7 +14462,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -14294,11 +14486,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 115,
+        "total_attacks": 1,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 1,
+            "loot": 115,
+            "allowed": 5
+          }
+        ]
       },
       "army": null,
       "role": "member",
@@ -14641,7 +14842,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -14665,9 +14866,9 @@
         ]
       },
       "raids": {
-        "total_loot": 6926,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 16363,
+        "total_attacks": 16,
+        "count": 3,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -14684,13 +14885,29 @@
             "attacks": 6,
             "loot": 6926,
             "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 6551,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 4,
+            "loot": 2886,
+            "allowed": 6
           }
         ]
       },
       "army": {
         "weight": 1592,
         "with_potions": 1860,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,224,236)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -14700,7 +14917,7 @@
       "active": true,
       "town_hall": 10,
       "league": 4,
-      "days": 24,
+      "days": 25,
       "first_seen": "2026-10-20",
       "stats": {
         "CW": {
@@ -15175,7 +15392,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 2
         },
         "games": {
           "missed": 0,
@@ -15199,16 +15416,33 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 16031,
+        "total_attacks": 12,
+        "count": 2,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 9892,
+            "allowed": 0
+          },
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 6139,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
         "weight": 2127,
         "with_potions": 2843,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,189,215)",
         "potion_color": "rgb(255,141,186)"
       },
@@ -15686,7 +15920,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -15710,11 +15944,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 4177,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 4177,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -15908,7 +16151,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -15932,11 +16175,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 4324,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 4324,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -16211,8 +16463,8 @@
           "attacks": 1
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -16491,8 +16743,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -17063,11 +17315,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 1895,
+        "total_attacks": 3,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 3,
+            "loot": 1895,
+            "allowed": 5
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -17202,7 +17463,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -17226,16 +17487,40 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 23258,
+        "total_attacks": 12,
+        "count": 2,
+        "latest": {
+          "start": "2026-11-13T10:00:00+03:00",
+          "end": "2026-11-16T10:00:00+03:00",
+          "date_label": "2026-11-13",
+          "attacks": 6,
+          "loot": 10864,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-13T10:00:00+03:00",
+            "end": "2026-11-16T10:00:00+03:00",
+            "date_label": "2026-11-13",
+            "attacks": 6,
+            "loot": 10864,
+            "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 12394,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
-        "weight": 1328,
+        "weight": 1330,
         "with_potions": 1332,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,242,247)",
         "potion_color": "rgb(255,242,247)"
       },
@@ -17281,11 +17566,30 @@
           "opponent": "@Clash",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 2,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 4,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 86.0,
+              "own_th": 9,
+              "target_th": 10,
+              "target_name": "anlakc",
+              "contribution": 0,
+              "mirror": 0
+            },
+            {
+              "stars": 3,
+              "destruction": 100.0,
+              "own_th": 9,
+              "target_th": 9,
+              "target_name": "marta",
+              "contribution": 1,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "77248badde3b2a36",
@@ -17952,11 +18256,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 470,
+        "total_attacks": 1,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 1,
+            "loot": 470,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -18222,11 +18535,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 360,
+        "total_attacks": 1,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 1,
+            "loot": 360,
+            "allowed": 5
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -18538,11 +18860,20 @@
         "seasons": []
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 3469,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-10-23T10:00:00+03:00",
+            "end": "2026-10-26T10:00:00+03:00",
+            "date_label": "2026-10-23",
+            "attacks": 6,
+            "loot": 3469,
+            "allowed": 6
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -19581,8 +19912,8 @@
           "attacks": 12
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -19615,7 +19946,7 @@
       "army": {
         "weight": 2914,
         "with_potions": 4386,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,137,183)",
         "potion_color": "rgb(255,39,124)"
       },
@@ -20078,8 +20409,8 @@
           "attacks": 7
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -20646,8 +20977,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -21143,8 +21474,8 @@
           "attacks": 2
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -21177,7 +21508,7 @@
       "army": {
         "weight": 3239,
         "with_potions": 3782,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,115,170)",
         "potion_color": "rgb(255,79,148)"
       },
@@ -21895,7 +22226,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -21919,16 +22250,25 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 3623,
+        "total_attacks": 2,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 2,
+            "loot": 3623,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
         "weight": 3130,
         "with_potions": 3760,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,122,174)",
         "potion_color": "rgb(255,80,149)"
       },
@@ -22560,7 +22900,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -22584,9 +22924,9 @@
         ]
       },
       "raids": {
-        "total_loot": 8377,
-        "total_attacks": 6,
-        "count": 1,
+        "total_loot": 10601,
+        "total_attacks": 9,
+        "count": 2,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -22603,14 +22943,22 @@
             "attacks": 6,
             "loot": 8377,
             "allowed": 6
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 3,
+            "loot": 2224,
+            "allowed": 0
           }
         ]
       },
       "army": {
-        "weight": 1571,
+        "weight": 1576,
         "with_potions": 3388,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,226,237)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,225,237)",
         "potion_color": "rgb(255,105,164)"
       },
       "role": "coLeader",
@@ -22794,8 +23142,8 @@
           "attacks": 11
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -22826,11 +23174,11 @@
         "history": []
       },
       "army": {
-        "weight": 1367,
-        "with_potions": 3674,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,239,246)",
-        "potion_color": "rgb(255,86,152)"
+        "weight": 1377,
+        "with_potions": 3724,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,239,245)",
+        "potion_color": "rgb(255,83,150)"
       },
       "role": "admin",
       "slug": "611789a02b5f66eb",
@@ -23274,7 +23622,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -23298,9 +23646,9 @@
         ]
       },
       "raids": {
-        "total_loot": 6210,
-        "total_attacks": 5,
-        "count": 1,
+        "total_loot": 12863,
+        "total_attacks": 11,
+        "count": 2,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -23317,14 +23665,22 @@
             "attacks": 5,
             "loot": 6210,
             "allowed": 5
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 6653,
+            "allowed": 0
           }
         ]
       },
       "army": {
-        "weight": 1552,
+        "weight": 1584,
         "with_potions": 2360,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,227,238)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,225,237)",
         "potion_color": "rgb(255,173,205)"
       },
       "role": "coLeader",
@@ -23644,7 +24000,7 @@
           "town_hall": 11,
           "league": "Archer League 7",
           "donated": 141,
-          "received": 657
+          "received": 722
         },
         {
           "date": "2026-11-13",
@@ -23768,8 +24124,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -23802,7 +24158,7 @@
       "army": {
         "weight": 1390,
         "with_potions": 1838,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,238,245)",
         "potion_color": "rgb(255,208,227)"
       },
@@ -24008,7 +24364,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -24032,17 +24388,26 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 9720,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 9720,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
-        "weight": 2292,
+        "weight": 2302,
         "with_potions": 2368,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,178,208)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,177,208)",
         "potion_color": "rgb(255,173,205)"
       },
       "role": "admin",
@@ -24456,7 +24821,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -24480,16 +24845,25 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 12003,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 12003,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
         "weight": 2980,
         "with_potions": 4200,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,132,180)",
         "potion_color": "rgb(255,51,131)"
       },
@@ -24499,7 +24873,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 16,
+      "days": 17,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -24869,8 +25243,8 @@
           "attacks": 10
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -24901,11 +25275,11 @@
         "history": []
       },
       "army": {
-        "weight": 1517,
-        "with_potions": 3702,
-        "updated": "2026-11-14 12:40",
+        "weight": 1524,
+        "with_potions": 3752,
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,229,239)",
-        "potion_color": "rgb(255,84,151)"
+        "potion_color": "rgb(255,81,149)"
       },
       "role": "admin",
       "slug": "676a8ead68afb8b9",
@@ -24913,7 +25287,7 @@
       "active": true,
       "town_hall": 14,
       "league": 8,
-      "days": 16,
+      "days": 17,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -25338,8 +25712,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -25372,7 +25746,7 @@
       "army": {
         "weight": 3404,
         "with_potions": 3704,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,104,163)",
         "potion_color": "rgb(255,84,151)"
       },
@@ -25382,7 +25756,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 16,
+      "days": 17,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -25756,8 +26130,8 @@
           "attacks": 7
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -25790,7 +26164,7 @@
       "army": {
         "weight": 1666,
         "with_potions": 1774,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,220,233)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -25800,7 +26174,7 @@
       "active": true,
       "town_hall": 10,
       "league": 0,
-      "days": 16,
+      "days": 17,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -26126,15 +26500,15 @@
           "attacks": 3
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
           "total": 0
         },
         "donations": {
-          "changes": 10,
+          "changes": 11,
           "comparisons": 15,
           "known": true
         }
@@ -26158,11 +26532,11 @@
         "history": []
       },
       "army": {
-        "weight": 2739,
-        "with_potions": 3316,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,148,190)",
-        "potion_color": "rgb(255,110,167)"
+        "weight": 2773,
+        "with_potions": 3340,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,146,189)",
+        "potion_color": "rgb(255,108,166)"
       },
       "role": "admin",
       "slug": "758641faec5a6956",
@@ -26170,7 +26544,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 16,
+      "days": 17,
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
@@ -26294,7 +26668,7 @@
           "town_hall": 13,
           "league": "Unranked",
           "donated": 94,
-          "received": 675
+          "received": 717
         },
         {
           "date": "2026-11-13",
@@ -26425,8 +26799,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -26459,7 +26833,7 @@
       "army": {
         "weight": 1752,
         "with_potions": 1852,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,214,230)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -26836,8 +27210,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -27207,7 +27581,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -27231,11 +27605,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 8867,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 8867,
+            "allowed": 0
+          }
+        ]
       },
       "army": null,
       "role": "member",
@@ -27536,8 +27919,8 @@
           "attacks": 7
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -27570,7 +27953,7 @@
       "army": {
         "weight": 1330,
         "with_potions": 1782,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,242,247)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -27906,8 +28289,8 @@
           "attacks": 7
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -27938,9 +28321,9 @@
         "history": []
       },
       "army": {
-        "weight": 3363,
+        "weight": 3365,
         "with_potions": 4300,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,107,165)",
         "potion_color": "rgb(255,44,127)"
       },
@@ -27950,7 +28333,7 @@
       "active": true,
       "town_hall": 14,
       "league": 15,
-      "days": 15,
+      "days": 16,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -27986,11 +28369,21 @@
           "opponent": "@Clash",
           "state": "inWar",
           "ended": false,
-          "attacks": 0,
+          "attacks": 1,
           "allowed": 2,
-          "stars": 0,
-          "clan_stars": 0,
-          "attack_rows": []
+          "stars": 1,
+          "clan_stars": 1,
+          "attack_rows": [
+            {
+              "stars": 1,
+              "destruction": 66.0,
+              "own_th": 14,
+              "target_th": 14,
+              "target_name": "AGRESSOR_32",
+              "contribution": 1,
+              "mirror": 0
+            }
+          ]
         },
         {
           "war_id": "62e55a509096768a",
@@ -28375,8 +28768,8 @@
           "attacks": 11
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -28409,7 +28802,7 @@
       "army": {
         "weight": 2400,
         "with_potions": 2410,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,171,204)",
         "potion_color": "rgb(255,170,203)"
       },
@@ -28419,7 +28812,7 @@
       "active": true,
       "town_hall": 11,
       "league": 10,
-      "days": 15,
+      "days": 16,
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
@@ -28820,8 +29213,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -29190,8 +29583,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -29792,7 +30185,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -29816,11 +30209,20 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 8136,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 8136,
+            "allowed": 0
+          }
+        ]
       },
       "army": null,
       "role": "admin",
@@ -30120,8 +30522,8 @@
           "attacks": 9
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -30154,7 +30556,7 @@
       "army": {
         "weight": 7747,
         "with_potions": 8088,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(130,7,202)",
         "potion_color": "rgb(117,5,211)"
       },
@@ -30440,7 +30842,7 @@
           "date": "2026-11-14",
           "town_hall": 18,
           "league": "Electro League 33",
-          "donated": 498,
+          "donated": 566,
           "received": 0
         },
         {
@@ -30544,8 +30946,8 @@
           "attacks": 7
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -30578,7 +30980,7 @@
       "army": {
         "weight": 4170,
         "with_potions": 5369,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,53,132)",
         "potion_color": "rgb(222,25,141)"
       },
@@ -31019,8 +31421,8 @@
           "attacks": 7
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -31342,7 +31744,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -31366,16 +31768,25 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 10597,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 10597,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
         "weight": 2804,
         "with_potions": 3630,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,144,188)",
         "potion_color": "rgb(255,89,154)"
       },
@@ -31385,7 +31796,7 @@
       "active": true,
       "town_hall": 13,
       "league": 14,
-      "days": 12,
+      "days": 13,
       "first_seen": "2026-11-01",
       "stats": {
         "CW": {
@@ -31777,8 +32188,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -31811,7 +32222,7 @@
       "army": {
         "weight": 2729,
         "with_potions": 4004,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,149,191)",
         "potion_color": "rgb(255,64,139)"
       },
@@ -31854,7 +32265,7 @@
           "town_hall": 14,
           "league": "Valkyrie League 14",
           "donated": 0,
-          "received": 1380
+          "received": 1458
         },
         {
           "date": "2026-11-13",
@@ -32036,7 +32447,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -32060,9 +32471,9 @@
         ]
       },
       "raids": {
-        "total_loot": 2370,
-        "total_attacks": 5,
-        "count": 1,
+        "total_loot": 7402,
+        "total_attacks": 11,
+        "count": 2,
         "latest": {
           "start": "2026-11-13T10:00:00+03:00",
           "end": "2026-11-16T10:00:00+03:00",
@@ -32079,14 +32490,22 @@
             "attacks": 5,
             "loot": 2370,
             "allowed": 5
+          },
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 5032,
+            "allowed": 0
           }
         ]
       },
       "army": {
-        "weight": 2253,
+        "weight": 2273,
         "with_potions": 4311,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,180,210)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,179,209)",
         "potion_color": "rgb(255,44,127)"
       },
       "role": "member",
@@ -32095,7 +32514,7 @@
       "active": true,
       "town_hall": 15,
       "league": 17,
-      "days": 11,
+      "days": 12,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -32162,7 +32581,7 @@
           "date": "2026-11-14",
           "town_hall": 15,
           "league": "Witch League 17",
-          "donated": 494,
+          "donated": 530,
           "received": 77
         },
         {
@@ -32259,8 +32678,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -32293,7 +32712,7 @@
       "army": {
         "weight": 3438,
         "with_potions": 3692,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,102,162)",
         "potion_color": "rgb(255,85,152)"
       },
@@ -32303,7 +32722,7 @@
       "active": true,
       "town_hall": 13,
       "league": 0,
-      "days": 11,
+      "days": 12,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -32433,7 +32852,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -32457,16 +32876,25 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 2650,
+        "total_attacks": 2,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 2,
+            "loot": 2650,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
         "weight": 2782,
         "with_potions": 3856,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,145,188)",
         "potion_color": "rgb(255,74,145)"
       },
@@ -32598,8 +33026,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -32709,8 +33137,8 @@
           "attacks": 0
         },
         "raids": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -32741,11 +33169,11 @@
         "history": []
       },
       "army": {
-        "weight": 1651,
-        "with_potions": 2709,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,221,234)",
-        "potion_color": "rgb(255,150,191)"
+        "weight": 1693,
+        "with_potions": 2749,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,218,232)",
+        "potion_color": "rgb(255,148,190)"
       },
       "role": "admin",
       "slug": "b97dfcb8ddc7749a",
@@ -32785,7 +33213,7 @@
           "date": "2026-11-14",
           "town_hall": 12,
           "league": "Archer League 8",
-          "donated": 469,
+          "donated": 534,
           "received": 67
         },
         {
@@ -33039,7 +33467,7 @@
         },
         "raids": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "games": {
           "missed": 0,
@@ -33063,18 +33491,27 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
+        "total_loot": 9380,
+        "total_attacks": 6,
+        "count": 1,
         "latest": null,
-        "history": []
+        "history": [
+          {
+            "start": "2026-11-06T10:00:00+03:00",
+            "end": "2026-11-09T10:00:00+03:00",
+            "date_label": "2026-11-06",
+            "attacks": 6,
+            "loot": 9380,
+            "allowed": 0
+          }
+        ]
       },
       "army": {
-        "weight": 1646,
-        "with_potions": 1820,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,221,234)",
-        "potion_color": "rgb(255,209,227)"
+        "weight": 1668,
+        "with_potions": 1840,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,219,233)",
+        "potion_color": "rgb(255,208,226)"
       },
       "role": "member",
       "slug": "9de448a262b5a456",
@@ -33252,7 +33689,7 @@
       "army": {
         "weight": 4699,
         "with_potions": 5291,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(247,30,124)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -33380,20 +33817,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 2762,
-        "with_potions": 3652,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,147,189)",
-        "potion_color": "rgb(255,87,153)"
-      },
+      "army": null,
       "role": "admin",
       "slug": "c62ceeab08681799",
       "name": "MEGA 4",
-      "active": true,
+      "active": false,
       "town_hall": 13,
-      "league": 12,
-      "days": 6,
+      "league": null,
+      "days": null,
       "first_seen": "2026-11-08",
       "stats": {
         "CW": {
@@ -33514,7 +33945,7 @@
       "army": {
         "weight": 3531,
         "with_potions": 6033,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,96,158)",
         "potion_color": "rgb(196,20,158)"
       },
@@ -33615,11 +34046,11 @@
         "history": []
       },
       "army": {
-        "weight": 2318,
-        "with_potions": 5057,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,176,207)",
-        "potion_color": "rgb(234,27,133)"
+        "weight": 2332,
+        "with_potions": 5137,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,175,207)",
+        "potion_color": "rgb(231,26,135)"
       },
       "role": "member",
       "slug": "132e9dd279d8fedf",
@@ -33704,20 +34135,36 @@
         ]
       },
       "raids": {
-        "total_loot": 0,
-        "total_attacks": 0,
-        "count": 0,
-        "latest": null,
-        "history": []
+        "total_loot": 10994,
+        "total_attacks": 6,
+        "count": 1,
+        "latest": {
+          "start": "2026-11-13T10:00:00+03:00",
+          "end": "2026-11-16T10:00:00+03:00",
+          "date_label": "2026-11-13",
+          "attacks": 6,
+          "loot": 10994,
+          "allowed": 6
+        },
+        "history": [
+          {
+            "start": "2026-11-13T10:00:00+03:00",
+            "end": "2026-11-16T10:00:00+03:00",
+            "date_label": "2026-11-13",
+            "attacks": 6,
+            "loot": 10994,
+            "allowed": 6
+          }
+        ]
       },
       "army": {
-        "weight": 3802,
+        "weight": 3812,
         "with_potions": 4350,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,78,147)",
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,77,147)",
         "potion_color": "rgb(255,41,125)"
       },
-      "role": "member",
+      "role": "coLeader",
       "slug": "420849edbe90d96a",
       "name": "Monax",
       "active": true,
@@ -33755,7 +34202,7 @@
           "date": "2026-11-14",
           "town_hall": 14,
           "league": "Valkyrie League 14",
-          "donated": 0,
+          "donated": 77,
           "received": 94
         }
       ]
@@ -33809,7 +34256,7 @@
       "army": {
         "weight": 2302,
         "with_potions": 3502,
-        "updated": "2026-11-14 12:40",
+        "updated": "2026-11-14 20:31",
         "color": "rgb(255,177,208)",
         "potion_color": "rgb(255,97,159)"
       },
@@ -33903,11 +34350,11 @@
         "history": []
       },
       "army": {
-        "weight": 2322,
-        "with_potions": 2972,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,176,207)",
-        "potion_color": "rgb(255,133,181)"
+        "weight": 2334,
+        "with_potions": 2992,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,175,206)",
+        "potion_color": "rgb(255,131,180)"
       },
       "role": "member",
       "slug": "b8b903bac140d51b",
@@ -33998,20 +34445,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 1526,
-        "with_potions": 1796,
-        "updated": "2026-11-14 12:40",
-        "color": "rgb(255,229,239)",
-        "potion_color": "rgb(255,211,228)"
-      },
+      "army": null,
       "role": "member",
       "slug": "8df0e4bddf810f08",
       "name": "ASICS",
-      "active": true,
+      "active": false,
       "town_hall": 10,
-      "league": 7,
-      "days": 0,
+      "league": null,
+      "days": null,
       "first_seen": "2026-11-14",
       "stats": {
         "CW": {
@@ -34045,6 +34486,102 @@
           "league": "Archer League 7",
           "donated": 0,
           "received": 25
+        }
+      ]
+    },
+    {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
+      "games": {
+        "current_season": "2026-10",
+        "current": 0,
+        "total": 0,
+        "seasons": [
+          {
+            "season": "2026-10",
+            "points": 0
+          }
+        ]
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": {
+        "weight": 3443,
+        "with_potions": 4715,
+        "updated": "2026-11-14 20:31",
+        "color": "rgb(255,101,162)",
+        "potion_color": "rgb(247,29,124)"
+      },
+      "role": "admin",
+      "slug": "148f7c486bd1c2d6",
+      "name": "Folet",
+      "active": true,
+      "town_hall": 15,
+      "league": 17,
+      "days": 0,
+      "first_seen": "2026-11-14",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-14",
+          "town_hall": 15,
+          "league": "Witch League 17",
+          "donated": 0,
+          "received": 0
         }
       ]
     }
