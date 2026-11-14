@@ -1,7 +1,7 @@
 {
   "version": 1,
   "clan_name": "Blushing snow",
-  "generated": "14.11.2026, 20:32 МСК",
+  "generated": "14.11.2026, 23:44 МСК",
   "season": "2026-11",
   "players": [
     {
@@ -1239,8 +1239,8 @@
           "total": 0
         },
         "CW": {
-          "missed": 2,
-          "total": 8
+          "missed": 3,
+          "total": 9
         },
         "average": {
           "value": 2.6,
@@ -1313,7 +1313,7 @@
       "army": {
         "weight": 838,
         "with_potions": 1228,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,249,251)"
       },
@@ -1327,14 +1327,14 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 8,
+          "wars": 9,
           "attended": 6,
-          "missed": 2,
+          "missed": 3,
           "attacks": 10,
           "stars": 26,
           "clan_stars": 19,
           "average": 2.6,
-          "attendance_rate": 75,
+          "attendance_rate": 67,
           "success": 10
         },
         "CWL": {
@@ -1357,8 +1357,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 0,
           "allowed": 2,
           "stars": 0,
@@ -3008,9 +3008,9 @@
         ]
       },
       "army": {
-        "weight": 1226,
+        "weight": 1228,
         "with_potions": 2172,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,249,251)",
         "potion_color": "rgb(255,186,213)"
       },
@@ -3514,11 +3514,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 7
+          "total": 8
         },
         "average": {
-          "value": 2.4285714285714284,
-          "attacks": 21
+          "value": 2.4782608695652173,
+          "attacks": 23
         },
         "raids": {
           "missed": 2,
@@ -3555,7 +3555,7 @@
       "army": {
         "weight": 918,
         "with_potions": 2428,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,169,203)"
       },
@@ -3569,15 +3569,15 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 7,
-          "attended": 7,
+          "wars": 8,
+          "attended": 8,
           "missed": 0,
-          "attacks": 14,
-          "stars": 35,
-          "clan_stars": 25,
-          "average": 2.5,
+          "attacks": 16,
+          "stars": 41,
+          "clan_stars": 31,
+          "average": 2.6,
           "attendance_rate": 100,
-          "success": 12
+          "success": 14
         },
         "CWL": {
           "wars": 7,
@@ -3599,8 +3599,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 6,
@@ -4226,11 +4226,11 @@
         },
         "CW": {
           "missed": 3,
-          "total": 8
+          "total": 9
         },
         "average": {
-          "value": 2.5,
-          "attacks": 10
+          "value": 2.272727272727273,
+          "attacks": 11
         },
         "raids": {
           "missed": 0,
@@ -4299,7 +4299,7 @@
       "army": {
         "weight": 720,
         "with_potions": 1250,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,247,250)"
       },
@@ -4313,14 +4313,14 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 8,
-          "attended": 5,
+          "wars": 9,
+          "attended": 6,
           "missed": 3,
-          "attacks": 10,
+          "attacks": 11,
           "stars": 25,
           "clan_stars": 25,
-          "average": 2.5,
-          "attendance_rate": 62,
+          "average": 2.3,
+          "attendance_rate": 67,
           "success": 8
         },
         "CWL": {
@@ -4343,8 +4343,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 1,
           "allowed": 2,
           "stars": 0,
@@ -5379,11 +5379,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 7
+          "total": 8
         },
         "average": {
-          "value": 2.2142857142857144,
-          "attacks": 14
+          "value": 2.1875,
+          "attacks": 16
         },
         "raids": {
           "missed": 0,
@@ -5450,9 +5450,9 @@
         ]
       },
       "army": {
-        "weight": 792,
+        "weight": 812,
         "with_potions": 1158,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,253,254)"
       },
@@ -5466,15 +5466,15 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 7,
-          "attended": 7,
+          "wars": 8,
+          "attended": 8,
           "missed": 0,
-          "attacks": 14,
-          "stars": 31,
-          "clan_stars": 31,
+          "attacks": 16,
+          "stars": 35,
+          "clan_stars": 35,
           "average": 2.2,
           "attendance_rate": 100,
-          "success": 11
+          "success": 13
         },
         "CWL": {
           "wars": 0,
@@ -5496,8 +5496,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 4,
@@ -6302,11 +6302,11 @@
         },
         "CW": {
           "missed": 1,
-          "total": 6
+          "total": 7
         },
         "average": {
-          "value": 2.4615384615384617,
-          "attacks": 13
+          "value": 2.533333333333333,
+          "attacks": 15
         },
         "raids": {
           "missed": 0,
@@ -6375,7 +6375,7 @@
       "army": {
         "weight": 646,
         "with_potions": 1936,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,202,223)"
       },
@@ -6389,15 +6389,15 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 6,
-          "attended": 5,
+          "wars": 7,
+          "attended": 6,
           "missed": 1,
-          "attacks": 10,
-          "stars": 23,
-          "clan_stars": 15,
-          "average": 2.3,
-          "attendance_rate": 83,
-          "success": 8
+          "attacks": 12,
+          "stars": 29,
+          "clan_stars": 17,
+          "average": 2.4,
+          "attendance_rate": 86,
+          "success": 10
         },
         "CWL": {
           "wars": 3,
@@ -6419,8 +6419,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 6,
@@ -9197,11 +9197,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 3
+          "total": 4
         },
         "average": {
-          "value": 2.3333333333333335,
-          "attacks": 6
+          "value": 2.375,
+          "attacks": 8
         },
         "raids": {
           "missed": 1,
@@ -9262,11 +9262,11 @@
       "army": {
         "weight": 918,
         "with_potions": 1188,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,251,253)"
       },
-      "role": "coLeader",
+      "role": "admin",
       "slug": "31d6ab8988997d36",
       "name": "TERANO SAUS",
       "active": true,
@@ -9276,15 +9276,15 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 3,
-          "attended": 3,
+          "wars": 4,
+          "attended": 4,
           "missed": 0,
-          "attacks": 6,
-          "stars": 14,
-          "clan_stars": 10,
-          "average": 2.3,
+          "attacks": 8,
+          "stars": 19,
+          "clan_stars": 15,
+          "average": 2.4,
           "attendance_rate": 100,
-          "success": 4
+          "success": 6
         },
         "CWL": {
           "wars": 0,
@@ -9306,8 +9306,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 5,
@@ -10548,11 +10548,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 7
+          "total": 8
         },
         "average": {
-          "value": 2.7857142857142856,
-          "attacks": 14
+          "value": 2.5625,
+          "attacks": 16
         },
         "raids": {
           "missed": 0,
@@ -10619,9 +10619,9 @@
         ]
       },
       "army": {
-        "weight": 628,
+        "weight": 630,
         "with_potions": 950,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,255,255)"
       },
@@ -10635,13 +10635,13 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 7,
-          "attended": 7,
+          "wars": 8,
+          "attended": 8,
           "missed": 0,
-          "attacks": 14,
-          "stars": 39,
+          "attacks": 16,
+          "stars": 41,
           "clan_stars": 33,
-          "average": 2.8,
+          "average": 2.6,
           "attendance_rate": 100,
           "success": 13
         },
@@ -10665,8 +10665,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 2,
@@ -11507,11 +11507,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 7
+          "total": 8
         },
         "average": {
-          "value": 2.380952380952381,
-          "attacks": 21
+          "value": 2.4347826086956523,
+          "attacks": 23
         },
         "raids": {
           "missed": 1,
@@ -11555,10 +11555,10 @@
         ]
       },
       "army": {
-        "weight": 1552,
+        "weight": 1569,
         "with_potions": 3674,
-        "updated": "2026-11-14 20:31",
-        "color": "rgb(255,227,238)",
+        "updated": "2026-11-14 23:42",
+        "color": "rgb(255,226,237)",
         "potion_color": "rgb(255,86,152)"
       },
       "role": "admin",
@@ -11571,15 +11571,15 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 7,
-          "attended": 7,
+          "wars": 8,
+          "attended": 8,
           "missed": 0,
-          "attacks": 14,
-          "stars": 36,
-          "clan_stars": 35,
+          "attacks": 16,
+          "stars": 42,
+          "clan_stars": 40,
           "average": 2.6,
           "attendance_rate": 100,
-          "success": 13
+          "success": 15
         },
         "CWL": {
           "wars": 7,
@@ -11601,8 +11601,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 6,
@@ -12586,11 +12586,11 @@
         },
         "CW": {
           "missed": 2,
-          "total": 7
+          "total": 8
         },
         "average": {
-          "value": 2.111111111111111,
-          "attacks": 9
+          "value": 2.1818181818181817,
+          "attacks": 11
         },
         "raids": {
           "missed": 0,
@@ -12644,7 +12644,7 @@
       "army": {
         "weight": 724,
         "with_potions": 1560,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,255,255)",
         "potion_color": "rgb(255,227,238)"
       },
@@ -12658,15 +12658,15 @@
       "first_seen": "2026-10-18",
       "stats": {
         "CW": {
-          "wars": 7,
-          "attended": 5,
+          "wars": 8,
+          "attended": 6,
           "missed": 2,
-          "attacks": 9,
-          "stars": 19,
-          "clan_stars": 14,
-          "average": 2.1,
-          "attendance_rate": 71,
-          "success": 6
+          "attacks": 11,
+          "stars": 24,
+          "clan_stars": 15,
+          "average": 2.2,
+          "attendance_rate": 75,
+          "success": 8
         },
         "CWL": {
           "wars": 0,
@@ -12688,8 +12688,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 5,
@@ -14834,11 +14834,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 6
+          "total": 7
         },
         "average": {
-          "value": 2.5,
-          "attacks": 12
+          "value": 2.357142857142857,
+          "attacks": 14
         },
         "raids": {
           "missed": 0,
@@ -14907,7 +14907,7 @@
       "army": {
         "weight": 1592,
         "with_potions": 1860,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,224,236)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -14921,15 +14921,15 @@
       "first_seen": "2026-10-20",
       "stats": {
         "CW": {
-          "wars": 6,
-          "attended": 6,
+          "wars": 7,
+          "attended": 7,
           "missed": 0,
-          "attacks": 12,
-          "stars": 30,
-          "clan_stars": 29,
-          "average": 2.5,
+          "attacks": 14,
+          "stars": 33,
+          "clan_stars": 32,
+          "average": 2.4,
           "attendance_rate": 100,
-          "success": 10
+          "success": 11
         },
         "CWL": {
           "wars": 1,
@@ -14951,8 +14951,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 3,
@@ -15442,7 +15442,7 @@
       "army": {
         "weight": 2127,
         "with_potions": 2843,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,189,215)",
         "potion_color": "rgb(255,141,186)"
       },
@@ -17455,11 +17455,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 4
+          "total": 5
         },
         "average": {
-          "value": 2.5714285714285716,
-          "attacks": 7
+          "value": 2.4444444444444446,
+          "attacks": 9
         },
         "raids": {
           "missed": 0,
@@ -17520,7 +17520,7 @@
       "army": {
         "weight": 1330,
         "with_potions": 1332,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,242,247)",
         "potion_color": "rgb(255,242,247)"
       },
@@ -17534,15 +17534,15 @@
       "first_seen": "2026-10-24",
       "stats": {
         "CW": {
-          "wars": 4,
-          "attended": 4,
+          "wars": 5,
+          "attended": 5,
           "missed": 0,
-          "attacks": 7,
-          "stars": 18,
-          "clan_stars": 15,
-          "average": 2.6,
+          "attacks": 9,
+          "stars": 22,
+          "clan_stars": 16,
+          "average": 2.4,
           "attendance_rate": 100,
-          "success": 6
+          "success": 7
         },
         "CWL": {
           "wars": 0,
@@ -17564,8 +17564,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 4,
@@ -19946,7 +19946,7 @@
       "army": {
         "weight": 2914,
         "with_potions": 4386,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,137,183)",
         "potion_color": "rgb(255,39,124)"
       },
@@ -19956,7 +19956,7 @@
       "active": true,
       "town_hall": 14,
       "league": 14,
-      "days": 19,
+      "days": 20,
       "first_seen": "2026-10-25",
       "stats": {
         "CW": {
@@ -21508,7 +21508,7 @@
       "army": {
         "weight": 3239,
         "with_potions": 3782,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,115,170)",
         "potion_color": "rgb(255,79,148)"
       },
@@ -22268,7 +22268,7 @@
       "army": {
         "weight": 3130,
         "with_potions": 3760,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,122,174)",
         "potion_color": "rgb(255,80,149)"
       },
@@ -22892,11 +22892,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 1
+          "total": 2
         },
         "average": {
-          "value": 0.5,
-          "attacks": 2
+          "value": 1.0,
+          "attacks": 3
         },
         "raids": {
           "missed": 0,
@@ -22957,7 +22957,7 @@
       "army": {
         "weight": 1576,
         "with_potions": 3388,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,225,237)",
         "potion_color": "rgb(255,105,164)"
       },
@@ -22971,15 +22971,15 @@
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
-          "wars": 1,
-          "attended": 1,
+          "wars": 2,
+          "attended": 2,
           "missed": 0,
-          "attacks": 2,
-          "stars": 1,
-          "clan_stars": 1,
-          "average": 0.5,
+          "attacks": 3,
+          "stars": 3,
+          "clan_stars": 3,
+          "average": 1.0,
           "attendance_rate": 100,
-          "success": 0
+          "success": 1
         },
         "CWL": {
           "wars": 0,
@@ -23001,8 +23001,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 1,
           "allowed": 2,
           "stars": 2,
@@ -23135,11 +23135,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 2
+          "total": 3
         },
         "average": {
-          "value": 2.8181818181818183,
-          "attacks": 11
+          "value": 2.8461538461538463,
+          "attacks": 13
         },
         "raids": {
           "missed": 1,
@@ -23174,10 +23174,10 @@
         "history": []
       },
       "army": {
-        "weight": 1377,
+        "weight": 1381,
         "with_potions": 3724,
-        "updated": "2026-11-14 20:31",
-        "color": "rgb(255,239,245)",
+        "updated": "2026-11-14 23:42",
+        "color": "rgb(255,238,245)",
         "potion_color": "rgb(255,83,150)"
       },
       "role": "admin",
@@ -23190,15 +23190,15 @@
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 12,
+          "attacks": 6,
+          "stars": 18,
+          "clan_stars": 18,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 4
+          "success": 6
         },
         "CWL": {
           "wars": 7,
@@ -23220,8 +23220,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 6,
@@ -23614,11 +23614,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 2
+          "total": 3
         },
         "average": {
-          "value": 2.272727272727273,
-          "attacks": 11
+          "value": 2.230769230769231,
+          "attacks": 13
         },
         "raids": {
           "missed": 0,
@@ -23679,7 +23679,7 @@
       "army": {
         "weight": 1584,
         "with_potions": 2360,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,225,237)",
         "potion_color": "rgb(255,173,205)"
       },
@@ -23693,15 +23693,15 @@
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 4,
-          "stars": 8,
-          "clan_stars": 5,
+          "attacks": 6,
+          "stars": 12,
+          "clan_stars": 9,
           "average": 2.0,
           "attendance_rate": 100,
-          "success": 3
+          "success": 5
         },
         "CWL": {
           "wars": 7,
@@ -23723,8 +23723,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 4,
@@ -24158,7 +24158,7 @@
       "army": {
         "weight": 1390,
         "with_potions": 1838,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,238,245)",
         "potion_color": "rgb(255,208,227)"
       },
@@ -24406,7 +24406,7 @@
       "army": {
         "weight": 2302,
         "with_potions": 2368,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,177,208)",
         "potion_color": "rgb(255,173,205)"
       },
@@ -24812,8 +24812,8 @@
           "total": 7
         },
         "CW": {
-          "missed": 0,
-          "total": 1
+          "missed": 1,
+          "total": 2
         },
         "average": {
           "value": 1.8571428571428572,
@@ -24863,7 +24863,7 @@
       "army": {
         "weight": 2980,
         "with_potions": 4200,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,132,180)",
         "potion_color": "rgb(255,51,131)"
       },
@@ -24877,14 +24877,14 @@
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
-          "wars": 1,
+          "wars": 2,
           "attended": 1,
-          "missed": 0,
+          "missed": 1,
           "attacks": 1,
           "stars": 1,
           "clan_stars": 1,
           "average": 1.0,
-          "attendance_rate": 100,
+          "attendance_rate": 50,
           "success": 0
         },
         "CWL": {
@@ -24907,8 +24907,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 0,
           "allowed": 2,
           "stars": 0,
@@ -25236,11 +25236,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 2
+          "total": 3
         },
         "average": {
-          "value": 2.4,
-          "attacks": 10
+          "value": 2.4166666666666665,
+          "attacks": 12
         },
         "raids": {
           "missed": 1,
@@ -25277,7 +25277,7 @@
       "army": {
         "weight": 1524,
         "with_potions": 3752,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,229,239)",
         "potion_color": "rgb(255,81,149)"
       },
@@ -25291,15 +25291,15 @@
       "first_seen": "2026-10-28",
       "stats": {
         "CW": {
-          "wars": 2,
-          "attended": 2,
+          "wars": 3,
+          "attended": 3,
           "missed": 0,
-          "attacks": 4,
-          "stars": 12,
-          "clan_stars": 11,
-          "average": 3.0,
+          "attacks": 6,
+          "stars": 17,
+          "clan_stars": 15,
+          "average": 2.8,
           "attendance_rate": 100,
-          "success": 4
+          "success": 6
         },
         "CWL": {
           "wars": 7,
@@ -25321,8 +25321,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 5,
@@ -25746,7 +25746,7 @@
       "army": {
         "weight": 3404,
         "with_potions": 3704,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,104,163)",
         "potion_color": "rgb(255,84,151)"
       },
@@ -26164,7 +26164,7 @@
       "army": {
         "weight": 1666,
         "with_potions": 1774,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,220,233)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -26534,7 +26534,7 @@
       "army": {
         "weight": 2773,
         "with_potions": 3340,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,146,189)",
         "potion_color": "rgb(255,108,166)"
       },
@@ -26833,7 +26833,7 @@
       "army": {
         "weight": 1752,
         "with_potions": 1852,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,214,230)",
         "potion_color": "rgb(255,207,226)"
       },
@@ -27951,9 +27951,9 @@
         "history": []
       },
       "army": {
-        "weight": 1330,
+        "weight": 1334,
         "with_potions": 1782,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,242,247)",
         "potion_color": "rgb(255,212,229)"
       },
@@ -28282,11 +28282,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 1
+          "total": 2
         },
         "average": {
-          "value": 1.5714285714285714,
-          "attacks": 7
+          "value": 1.5,
+          "attacks": 8
         },
         "raids": {
           "missed": 1,
@@ -28323,7 +28323,7 @@
       "army": {
         "weight": 3365,
         "with_potions": 4300,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,107,165)",
         "potion_color": "rgb(255,44,127)"
       },
@@ -28337,13 +28337,13 @@
       "first_seen": "2026-10-29",
       "stats": {
         "CW": {
-          "wars": 1,
-          "attended": 1,
+          "wars": 2,
+          "attended": 2,
           "missed": 0,
-          "attacks": 2,
-          "stars": 5,
-          "clan_stars": 4,
-          "average": 2.5,
+          "attacks": 3,
+          "stars": 6,
+          "clan_stars": 5,
+          "average": 2.0,
           "attendance_rate": 100,
           "success": 2
         },
@@ -28367,8 +28367,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 1,
           "allowed": 2,
           "stars": 1,
@@ -28802,7 +28802,7 @@
       "army": {
         "weight": 2400,
         "with_potions": 2410,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,171,204)",
         "potion_color": "rgb(255,170,203)"
       },
@@ -30515,11 +30515,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 1
+          "total": 2
         },
         "average": {
           "value": 3.0,
-          "attacks": 9
+          "attacks": 11
         },
         "raids": {
           "missed": 1,
@@ -30553,32 +30553,26 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 7747,
-        "with_potions": 8088,
-        "updated": "2026-11-14 20:31",
-        "color": "rgb(130,7,202)",
-        "potion_color": "rgb(117,5,211)"
-      },
+      "army": null,
       "role": "coLeader",
       "slug": "3eba552b07d08172",
       "name": "Александр.",
-      "active": true,
+      "active": false,
       "town_hall": 18,
-      "league": 33,
-      "days": 13,
+      "league": null,
+      "days": null,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
-          "wars": 1,
-          "attended": 1,
+          "wars": 2,
+          "attended": 2,
           "missed": 0,
-          "attacks": 2,
-          "stars": 6,
-          "clan_stars": 5,
+          "attacks": 4,
+          "stars": 12,
+          "clan_stars": 11,
           "average": 3.0,
           "attendance_rate": 100,
-          "success": 2
+          "success": 4
         },
         "CWL": {
           "wars": 7,
@@ -30600,8 +30594,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 6,
@@ -30938,8 +30932,8 @@
           "total": 7
         },
         "CW": {
-          "missed": 0,
-          "total": 0
+          "missed": 1,
+          "total": 1
         },
         "average": {
           "value": 2.4285714285714284,
@@ -30980,7 +30974,7 @@
       "army": {
         "weight": 4170,
         "with_potions": 5369,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,53,132)",
         "potion_color": "rgb(222,25,141)"
       },
@@ -30990,13 +30984,13 @@
       "active": true,
       "town_hall": 15,
       "league": 20,
-      "days": 13,
+      "days": 14,
       "first_seen": "2026-10-31",
       "stats": {
         "CW": {
-          "wars": 0,
+          "wars": 1,
           "attended": 0,
-          "missed": 0,
+          "missed": 1,
           "attacks": 0,
           "stars": 0,
           "clan_stars": 0,
@@ -31024,8 +31018,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 0,
           "allowed": 2,
           "stars": 0,
@@ -31786,7 +31780,7 @@
       "army": {
         "weight": 2804,
         "with_potions": 3630,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,144,188)",
         "potion_color": "rgb(255,89,154)"
       },
@@ -32222,7 +32216,7 @@
       "army": {
         "weight": 2729,
         "with_potions": 4004,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,149,191)",
         "potion_color": "rgb(255,64,139)"
       },
@@ -32439,11 +32433,11 @@
         },
         "CW": {
           "missed": 0,
-          "total": 0
+          "total": 1
         },
         "average": {
-          "value": null,
-          "attacks": 0
+          "value": 2.0,
+          "attacks": 2
         },
         "raids": {
           "missed": 0,
@@ -32502,9 +32496,9 @@
         ]
       },
       "army": {
-        "weight": 2273,
+        "weight": 2275,
         "with_potions": 4311,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,179,209)",
         "potion_color": "rgb(255,44,127)"
       },
@@ -32518,15 +32512,15 @@
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
-          "wars": 0,
-          "attended": 0,
+          "wars": 1,
+          "attended": 1,
           "missed": 0,
-          "attacks": 0,
-          "stars": 0,
-          "clan_stars": 0,
-          "average": 0,
-          "attendance_rate": 0,
-          "success": 0
+          "attacks": 2,
+          "stars": 4,
+          "clan_stars": 4,
+          "average": 2.0,
+          "attendance_rate": 100,
+          "success": 1
         },
         "CWL": {
           "wars": 0,
@@ -32548,8 +32542,8 @@
           "month": "2026-11",
           "date_label": "2026-11-14",
           "opponent": "@Clash",
-          "state": "inWar",
-          "ended": false,
+          "state": "warEndedIncomplete",
+          "ended": true,
           "attacks": 2,
           "allowed": 2,
           "stars": 4,
@@ -32709,20 +32703,14 @@
         "latest": null,
         "history": []
       },
-      "army": {
-        "weight": 3438,
-        "with_potions": 3692,
-        "updated": "2026-11-14 20:31",
-        "color": "rgb(255,102,162)",
-        "potion_color": "rgb(255,85,152)"
-      },
+      "army": null,
       "role": "member",
       "slug": "9a904b7938af0711",
       "name": "jinete nocturno",
-      "active": true,
+      "active": false,
       "town_hall": 13,
-      "league": 0,
-      "days": 12,
+      "league": null,
+      "days": null,
       "first_seen": "2026-11-02",
       "stats": {
         "CW": {
@@ -32894,7 +32882,7 @@
       "army": {
         "weight": 2782,
         "with_potions": 3856,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,145,188)",
         "potion_color": "rgb(255,74,145)"
       },
@@ -33169,9 +33157,9 @@
         "history": []
       },
       "army": {
-        "weight": 1693,
+        "weight": 1695,
         "with_potions": 2749,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,218,232)",
         "potion_color": "rgb(255,148,190)"
       },
@@ -33509,7 +33497,7 @@
       "army": {
         "weight": 1668,
         "with_potions": 1840,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,219,233)",
         "potion_color": "rgb(255,208,226)"
       },
@@ -33689,7 +33677,7 @@
       "army": {
         "weight": 4699,
         "with_potions": 5291,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(247,30,124)",
         "potion_color": "rgb(225,25,139)"
       },
@@ -33945,7 +33933,7 @@
       "army": {
         "weight": 3531,
         "with_potions": 6033,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,96,158)",
         "potion_color": "rgb(196,20,158)"
       },
@@ -34048,7 +34036,7 @@
       "army": {
         "weight": 2332,
         "with_potions": 5137,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,175,207)",
         "potion_color": "rgb(231,26,135)"
       },
@@ -34158,9 +34146,9 @@
         ]
       },
       "army": {
-        "weight": 3812,
+        "weight": 3817,
         "with_potions": 4350,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,77,147)",
         "potion_color": "rgb(255,41,125)"
       },
@@ -34256,7 +34244,7 @@
       "army": {
         "weight": 2302,
         "with_potions": 3502,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,177,208)",
         "potion_color": "rgb(255,97,159)"
       },
@@ -34352,7 +34340,7 @@
       "army": {
         "weight": 2334,
         "with_potions": 2992,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,175,206)",
         "potion_color": "rgb(255,131,180)"
       },
@@ -34445,14 +34433,20 @@
         "latest": null,
         "history": []
       },
-      "army": null,
+      "army": {
+        "weight": 1526,
+        "with_potions": 1796,
+        "updated": "2026-11-14 23:42",
+        "color": "rgb(255,229,239)",
+        "potion_color": "rgb(255,211,228)"
+      },
       "role": "member",
       "slug": "8df0e4bddf810f08",
       "name": "ASICS",
-      "active": false,
+      "active": true,
       "town_hall": 10,
-      "league": null,
-      "days": null,
+      "league": 7,
+      "days": 0,
       "first_seen": "2026-11-14",
       "stats": {
         "CW": {
@@ -34485,7 +34479,7 @@
           "town_hall": 10,
           "league": "Archer League 7",
           "donated": 0,
-          "received": 25
+          "received": 0
         }
       ]
     },
@@ -34538,7 +34532,7 @@
       "army": {
         "weight": 3443,
         "with_potions": 4715,
-        "updated": "2026-11-14 20:31",
+        "updated": "2026-11-14 23:42",
         "color": "rgb(255,101,162)",
         "potion_color": "rgb(247,29,124)"
       },
@@ -34580,6 +34574,91 @@
           "date": "2026-11-14",
           "town_hall": 15,
           "league": "Witch League 17",
+          "donated": 0,
+          "received": 0
+        }
+      ]
+    },
+    {
+      "removal": {
+        "CWL": {
+          "missed": 0,
+          "total": 0
+        },
+        "CW": {
+          "missed": 0,
+          "total": 0
+        },
+        "average": {
+          "value": null,
+          "attacks": 0
+        },
+        "raids": {
+          "missed": 0,
+          "total": 0
+        },
+        "games": {
+          "missed": 0,
+          "total": 0
+        },
+        "donations": {
+          "changes": 0,
+          "comparisons": 0,
+          "known": false
+        }
+      },
+      "games": {
+        "current_season": "2026-10",
+        "current": null,
+        "total": null,
+        "seasons": []
+      },
+      "raids": {
+        "total_loot": 0,
+        "total_attacks": 0,
+        "count": 0,
+        "latest": null,
+        "history": []
+      },
+      "army": null,
+      "role": "member",
+      "slug": "e3f99578eb89d3b4",
+      "name": "Болгар",
+      "active": false,
+      "town_hall": 17,
+      "league": null,
+      "days": null,
+      "first_seen": "2026-11-14",
+      "stats": {
+        "CW": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        },
+        "CWL": {
+          "wars": 0,
+          "attended": 0,
+          "missed": 0,
+          "attacks": 0,
+          "stars": 0,
+          "clan_stars": 0,
+          "average": 0,
+          "attendance_rate": 0,
+          "success": 0
+        }
+      },
+      "wars": [],
+      "development": [
+        {
+          "date": "2026-11-14",
+          "town_hall": 17,
+          "league": "Electro League 32",
           "donated": 0,
           "received": 0
         }
